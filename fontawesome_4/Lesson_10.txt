@@ -1,0 +1,161 @@
+********************
+
+LESSON: 10
+
+********************
+
+
+In this chapter, List of all icons starting with I.
+
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+    <span style="font-size: 72px; font-style: italic;">I</span>
+
+        
+    <h1>fa fa-i-cursor</h1>
+
+    <i class="fa fa-i-cursor fa-3x"></i>
+
+    <i class="fa fa-i-cursor fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-id-badge</h1>
+
+    <i class="fa fa-id-badge fa-3x"></i>
+
+    <i class="fa fa-id-badge fa-3x" style="color: #bf3f3f;"></i>
+    
+    
+    <h1>fa fa-id-card</h1>
+
+    <i class="fa fa-id-card fa-3x"></i>
+
+    <i class="fa fa-id-card fa-3x" style="color: #e33578;"></i>
+    
+    
+    <h1>fa fa-id-card-o</h1>
+
+    <i class="fa fa-id-card-o fa-3x"></i>
+
+    <i class="fa fa-id-card-o fa-3x" style="color: #e33578;"></i>
+    
+    
+    <h1>fa fa-ils</h1>
+
+    <i class="fa fa-ils fa-3x"></i>
+
+    <i class="fa fa-ils fa-3x" style="color: #c70000;"></i>
+    
+    
+    <h1>fa fa-image</h1>
+
+    <i class="fa fa-image fa-3x"></i>
+
+    <i class="fa fa-image fa-3x" style="color: #2da2e1;"></i>
+    
+    
+    <h1>fa fa-imdb</h1>
+
+    <i class="fa fa-imdb fa-3x"></i>
+
+    <i class="fa fa-imdb fa-3x" style="color: #f3ce13;"></i>
+    
+    
+    <h1>fa fa-inbox</h1>
+
+    <i class="fa fa-inbox fa-3x"></i>
+
+    <i class="fa fa-inbox fa-3x" style="color: #3357C0;"></i>
+    
+    
+    <h1>fa fa-indent</h1>
+
+    <i class="fa fa-indent fa-3x"></i>
+
+    <i class="fa fa-indent fa-3x" style="color: #3357C0;"></i>
+    
+    
+    <h1>fa fa-industry</h1>
+
+    <i class="fa fa-industry fa-3x"></i>
+
+    <i class="fa fa-industry fa-3x" style="color: #04233c;"></i>
+    
+    
+    <h1>fa fa-info</h1>
+
+    <i class="fa fa-info fa-3x"></i>
+
+    <i class="fa fa-info fa-3x" style="color: #f47d2e;"></i>
+    
+    <h1>fa fa-info-circle</h1>
+
+    <i class="fa fa-info-circle fa-3x"></i>
+
+    <i class="fa fa-info-circle fa-3x" style="color: #f47d2e;"></i>
+    
+    
+    <h1>fa fa-inr</h1>
+
+    <i class="fa fa-inr fa-3x"></i>
+
+    <i class="fa fa-inr fa-3x" style="color: #f47d2e;"></i>
+    
+    
+    <h1>fa fa-instagram</h1>
+
+    <i class="fa fa-instagram fa-3x"></i>
+
+    <i class="fa fa-instagram fa-3x" style="color: #962fbf;"></i>
+    
+    
+    <h1>fa fa-institution</h1>
+
+    <i class="fa fa-institution fa-3x"></i>
+
+    <i class="fa fa-institution fa-3x" style="color: #a90000;"></i>
+    
+    
+    <h1>fa fa-internet-explorer</h1>
+
+    <i class="fa fa-internet-explorer fa-3x"></i>
+
+    <i class="fa fa-internet-explorer fa-3x" style="color: #1ebbee;"></i>
+    
+    
+    <h1>fa fa-intersex</h1>
+
+    <i class="fa fa-intersex fa-3x"></i>
+
+    <i class="fa fa-intersex fa-3x" style="color: #7902AA;"></i>
+    
+    
+    <h1>fa fa-ioxhost</h1>
+
+    <i class="fa fa-ioxhost fa-3x"></i>
+
+    <i class="fa fa-ioxhost fa-3x" style="color: #7902AA;"></i>
+    
+    <h1>fa fa-italic</h1>
+
+    <i class="fa fa-italic fa-3x"></i>
+
+    <i class="fa fa-italic fa-3x" style="color: #ff0000;"></i>
+    
+    
+    
+
+</body>
+
+</html>

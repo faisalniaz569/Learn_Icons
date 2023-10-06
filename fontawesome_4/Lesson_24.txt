@@ -1,0 +1,109 @@
+********************
+
+LESSON: 24
+
+********************
+
+In this chapter, List of all icons starting with W.
+
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css" />
+  </head>
+  <body>
+    <!-- Font and its syle -->
+    <span style="font-size: 72px; font-style: italic">W</span>
+
+    <h1>fa fa-warning</h1>
+    <i class="fa fa-warning fa-3x"></i>
+    <i class="fa fa-warning fa-3x" style="color: #cc3300"></i>
+
+    <h1>fa fa-wechat</h1>
+    <i class="fa fa-wechat fa-3x"></i>
+    <i class="fa fa-wechat fa-3x" style="color: #9de60b"></i>
+
+    <h1>fa fa-weibo</h1>
+    <i class="fa fa-weibo fa-3x"></i>
+    <i class="fa fa-weibo fa-3x" style="color: #DF2029"></i>
+
+    <h1>fa fa-weixin</h1>
+    <i class="fa fa-weixin fa-3x"></i>
+    <i class="fa fa-weixin fa-3x" style="color: #9de60b"></i>
+
+    <h1>fa fa-whatsapp</h1>
+    <i class="fa fa-whatsapp fa-3x"></i>
+    <i class="fa fa-whatsapp fa-3x" style="color: #075E54"></i>
+
+    <h1>fa fa-wheelchair</h1>
+    <i class="fa fa-wheelchair fa-3x"></i>
+    <i class="fa fa-wheelchair fa-3x" style="color: #ade169"></i>
+
+    <h1>fa fa-wheelchair-alt</h1>
+    <i class="fa fa-wheelchair-alt fa-3x"></i>
+    <i class="fa fa-wheelchair-alt fa-3x" style="color: #ade169"></i>
+
+    <h1>fa fa-wifi</h1>
+    <i class="fa fa-wifi fa-3x"></i>
+    <i class="fa fa-wifi fa-3x" style="color: #7dbafb"></i>
+
+    <h1>fa fa-wikipedia-w</h1>
+    <i class="fa fa-wikipedia-w fa-3x"></i>
+    <i class="fa fa-wikipedia-w fa-3x" style="color: #6B6B6B"></i>
+
+    <h1>fa fa-window-close</h1>
+    <i class="fa fa-window-close fa-3x"></i>
+    <i class="fa fa-window-close fa-3x" style="color: red"></i>
+
+    <h1>fa fa-window-close-o</h1>
+    <i class="fa fa-window-close-o fa-3x"></i>
+    <i class="fa fa-window-close-o fa-3x" style="color: red"></i>
+
+    <h1>fa fa-window-maximize</h1>
+    <i class="fa fa-window-maximize fa-3x"></i>
+    <i class="fa fa-window-maximize fa-3x" style="color: #18acb6"></i>
+
+    <h1>fa fa-window-minimize</h1>
+    <i class="fa fa-window-minimize fa-3x"></i>
+    <i class="fa fa-window-minimize fa-3x" style="color: #18acb6"></i>
+
+    <h1>fa fa-window-restore</h1>
+    <i class="fa fa-window-restore fa-3x"></i>
+    <i class="fa fa-window-restore fa-3x" style="color: #18acb6"></i>
+
+    <h1>fa fa-windows</h1>
+    <i class="fa fa-windows fa-3x"></i>
+    <i class="fa fa-windows fa-3x" style="color: #737373"></i>
+
+    <h1>fa fa-won</h1>
+    <i class="fa fa-won fa-3x"></i>
+    <i class="fa fa-won fa-3x" style="color: green"></i>
+
+    <h1>fa fa-wordpress</h1>
+    <i class="fa fa-wordpress fa-3x"></i>
+    <i class="fa fa-wordpress fa-3x" style="color: #21759b"></i>
+
+    <h1>fa fa-wpbeginner</h1>
+    <i class="fa fa-wpbeginner fa-3x"></i>
+    <i class="fa fa-wpbeginner fa-3x" style="color: #F75100"></i>
+
+    <h1>fa fa-wpexplorer</h1>
+    <i class="fa fa-wpexplorer fa-3x"></i>
+    <i class="fa fa-wpexplorer fa-3x" style="color: blue"></i>
+
+    <h1>fa fa-wpforms</h1>
+    <i class="fa fa-wpforms fa-3x"></i>
+    <i class="fa fa-wpforms fa-3x" style="color: #E27730"></i>
+
+    <h1>fa fa-wrench</h1>
+    <i class="fa fa-wrench fa-3x"></i>
+    <i class="fa fa-wrench fa-3x" style="color: #df2020"></i>
+
+  </body>
+</html>

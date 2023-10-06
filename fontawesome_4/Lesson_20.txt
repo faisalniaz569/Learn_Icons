@@ -1,0 +1,658 @@
+********************
+
+LESSON: 20
+
+********************
+
+
+In this chapter, List of all icons starting with S.
+
+Example:
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+    <span style="font-size: 72px; font-style: italic;">S</span>
+
+        
+    <h1>fa fa-s15</h1>
+
+    <i class="fa fa-s15 fa-3x"></i>
+
+    <i class="fa fa-s15 fa-3x" style="color: #fa560a;"></i>
+    
+    
+    <h1>fa fa-safari</h1>
+
+    <i class="fa fa-safari fa-3x"></i>
+
+    <i class="fa fa-safari fa-3x" style="color: #a0a56e;"></i>
+    
+    
+    <h1>fa fa-save</h1>
+
+    <i class="fa fa-save fa-3x"></i>
+
+    <i class="fa fa-save fa-3x" style="color: #eeb691;"></i>
+    
+    
+    <h1>fa fa-scissors</h1>
+
+    <i class="fa fa-scissors fa-3x"></i>
+
+    <i class="fa fa-scissors fa-3x" style="color: #ff8d00;"></i>
+    
+    <h1>fa fa-scribd</h1>
+
+    <i class="fa fa-scribd fa-3x"></i>
+
+    <i class="fa fa-scribd fa-3x" style="color: #1a7bba;"></i>
+    
+    
+    <h1>fa fa-search</h1>
+
+    <i class="fa fa-search fa-3x"></i>
+
+    <i class="fa fa-search fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-search-minus</h1>
+
+    <i class="fa fa-search-minus fa-3x"></i>
+
+    <i class="fa fa-search-minus fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-search-plus</h1>
+
+    <i class="fa fa-search-plus fa-3x"></i>
+
+    <i class="fa fa-search-plus fa-3x" style="color: red;"></i>
+    
+    <h1>fa fa-sellsy</h1>
+
+    <i class="fa fa-sellsy fa-3x"></i>
+
+    <i class="fa fa-sellsy fa-3x" style="color: #ff9c7b;"></i>
+    
+    
+    <h1>fa fa-send</h1>
+
+    <i class="fa fa-send fa-3x"></i>
+
+    <i class="fa fa-send fa-3x" style="color: green;"></i>
+    
+    
+    <h1>fa fa-send-o</h1>
+
+    <i class="fa fa-send-o fa-3x"></i>
+
+    <i class="fa fa-send-o fa-3x" style="color: green;"></i>
+    
+    
+    <h1>fa fa-server</h1>
+
+    <i class="fa fa-server fa-3x"></i>
+
+    <i class="fa fa-server fa-3x" style="color: #43b581;"></i>
+    
+    
+    <h1>fa fa-share</h1>
+
+    <i class="fa fa-share fa-3x"></i>
+
+    <i class="fa fa-share fa-3x" style="color: #0eac95;"></i>
+    
+    
+    <h1>fa fa-share-alt</h1>
+
+    <i class="fa fa-share-alt fa-3x"></i>
+
+    <i class="fa fa-share-alt fa-3x" style="color: #0eac95;"></i>
+    
+    
+    <h1>fa fa-share-alt-square</h1>
+
+    <i class="fa fa-share-alt-square fa-3x"></i>
+
+    <i class="fa fa-share-alt-square fa-3x" style="color: #0eac95;"></i>
+    
+    
+    <h1>fa fa-share-square</h1>
+
+    <i class="fa fa-share-square fa-3x"></i>
+
+    <i class="fa fa-share-square fa-3x" style="color: #0eac95;"></i>
+    
+    
+    <h1>fa fa-share-square-o</h1>
+
+    <i class="fa fa-share-square-o fa-3x"></i>
+
+    <i class="fa fa-share-square-o fa-3x" style="color: #0eac95;"></i>
+    
+    
+    <h1>fa fa-shekel</h1>
+
+    <i class="fa fa-shekel fa-3x"></i>
+
+    <i class="fa fa-shekel fa-3x" style="color: #0eac95;"></i>
+    
+    
+    <h1>fa fa-sheqel</h1>
+
+    <i class="fa fa-sheqel fa-3x"></i>
+
+    <i class="fa fa-sheqel fa-3x" style="color: #0eac95;"></i>
+    
+    <h1>fa fa-shield</h1>
+
+    <i class="fa fa-shield fa-3x"></i>
+
+    <i class="fa fa-shield fa-3x" style="color: #991b1e;"></i>
+    
+    
+    <h1>fa fa-ship</h1>
+
+    <i class="fa fa-ship fa-3x"></i>
+
+    <i class="fa fa-ship fa-3x" style="color: #f96f11;"></i>
+    
+    
+    <h1>fa fa-shirtsinbulk</h1>
+
+    <i class="fa fa-shirtsinbulk fa-3x"></i>
+
+    <i class="fa fa-shirtsinbulk fa-3x" style="color: #f96f11;"></i>
+    
+    
+    <h1>fa fa-shopping-bag</h1>
+
+    <i class="fa fa-shopping-bag fa-3x"></i>
+
+    <i class="fa fa-shopping-bag fa-3x" style="color: #78d0b9;"></i>
+    
+    
+    <h1>fa fa-shopping-basket</h1>
+
+    <i class="fa fa-shopping-basket fa-3x"></i>
+
+    <i class="fa fa-shopping-basket fa-3x" style="color: #24ec93;"></i>
+    
+    
+    <h1>fa fa-shopping-cart</h1>
+
+    <i class="fa fa-shopping-cart fa-3x"></i>
+
+    <i class="fa fa-shopping-cart fa-3x" style="color: #24ec93;"></i>
+    
+    
+    <h1>fa fa-shower</h1>
+
+    <i class="fa fa-shower fa-3x"></i>
+
+    <i class="fa fa-shower fa-3x" style="color: #9cc6ff;"></i>
+    
+    
+    <h1>fa fa-sign-in</h1>
+
+    <i class="fa fa-sign-in fa-3x"></i>
+
+    <i class="fa fa-sign-in fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-sign-language</h1>
+
+    <i class="fa fa-sign-language fa-3x"></i>
+
+    <i class="fa fa-sign-language fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-signing</h1>
+
+    <i class="fa fa-signing fa-3x"></i>
+
+    <i class="fa fa-signing fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-sign-out</h1>
+
+    <i class="fa fa-sign-out fa-3x"></i>
+
+    <i class="fa fa-sign-out fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-signal</h1>
+
+    <i class="fa fa-signal fa-3x"></i>
+
+    <i class="fa fa-signal fa-3x" style="color: #3A76F0;"></i>
+    
+    
+    <h1>fa fa-simplybuilt</h1>
+
+    <i class="fa fa-simplybuilt fa-3x"></i>
+
+    <i class="fa fa-simplybuilt fa-3x" style="color: #3A76F0;"></i>
+    
+    
+    <h1>fa fa-sitemap</h1>
+
+    <i class="fa fa-sitemap fa-3x"></i>
+
+    <i class="fa fa-sitemap fa-3x" style="color: #FFCC00;"></i>
+    
+    
+    <h1>fa fa-skyatlas</h1>
+
+    <i class="fa fa-skyatlas fa-3x"></i>
+
+    <i class="fa fa-skyatlas fa-3x" style="color: #cdcd90;"></i>
+    
+    
+    <h1>fa fa-skype</h1>
+
+    <i class="fa fa-skype fa-3x"></i>
+
+    <i class="fa fa-skype fa-3x" style="color: #00aff0;"></i>
+    
+    
+    <h1>fa fa-slack</h1>
+
+    <i class="fa fa-slack fa-3x"></i>
+
+    <i class="fa fa-slack fa-3x" style="color: #ECB22E;"></i>
+    
+    
+    <h1>fa fa-sliders</h1>
+
+    <i class="fa fa-sliders fa-3x"></i>
+
+    <i class="fa fa-sliders fa-3x" style="color: #ECB22E;"></i>
+    
+    
+    <h1>fa fa-slideshare</h1>
+
+    <i class="fa fa-slideshare fa-3x"></i>
+
+    <i class="fa fa-slideshare fa-3x" style="color: #0077B5;"></i>
+    
+    
+    <h1>fa fa-smile-o</h1>
+
+    <i class="fa fa-smile-o fa-3x"></i>
+
+    <i class="fa fa-smile-o fa-3x" style="color: #ffc964;"></i>
+    
+    
+    <h1>fa fa-snapchat</h1>
+
+    <i class="fa fa-snapchat fa-3x"></i>
+
+    <i class="fa fa-snapchat fa-3x" style="color: #d8d605;"></i>
+    
+    
+    <h1>fa fa-snapchat-ghost</h1>
+
+    <i class="fa fa-snapchat-ghost fa-3x"></i>
+
+    <i class="fa fa-snapchat-ghost fa-3x" style="color: #d8d605;"></i>
+    
+    
+    <h1>fa fa-snapchat-square</h1>
+
+    <i class="fa fa-snapchat-square fa-3x"></i>
+
+    <i class="fa fa-snapchat-square fa-3x" style="color: #d8d605;"></i>
+    
+    
+    <h1>fa fa-snowflake-o</h1>
+
+    <i class="fa fa-snowflake-o fa-3x"></i>
+
+    <i class="fa fa-snowflake-o fa-3x" style="color: #35aedd;"></i>
+    
+    
+    <h1>fa fa-soccer-ball-o</h1>
+
+    <i class="fa fa-soccer-ball-o fa-3x"></i>
+
+    <i class="fa fa-soccer-ball-o fa-3x" style="color: #245998;"></i>
+    
+    
+    <h1>fa fa-sort</h1>
+
+    <i class="fa fa-sort fa-3x"></i>
+
+    <i class="fa fa-sort fa-3x" style="color: darkblue;"></i>
+    
+    
+    <h1>fa fa-sort-alpha-asc</h1>
+
+    <i class="fa fa-sort-alpha-asc fa-3x"></i>
+
+    <i class="fa fa-sort-alpha-asc fa-3x" style="color: darkblue;"></i>
+    
+    
+    <h1>fa fa-sort-alpha-desc</h1>
+
+    <i class="fa fa-sort-alpha-desc fa-3x"></i>
+
+    <i class="fa fa-sort-alpha-desc fa-3x" style="color: darkblue;"></i>
+    
+    
+    <h1>fa fa-sort-amount-asc</h1>
+
+    <i class="fa fa-sort-amount-asc fa-3x"></i>
+
+    <i class="fa fa-sort-amount-asc fa-3x" style="color: darkblue;"></i>
+    
+    
+    <h1>fa fa-sort-amount-desc</h1>
+
+    <i class="fa fa-sort-amount-desc fa-3x"></i>
+
+    <i class="fa fa-sort-amount-desc fa-3x" style="color: darkblue;"></i>
+    
+    
+    <h1>fa fa-sort-asc</h1>
+
+    <i class="fa fa-sort-asc fa-3x"></i>
+
+    <i class="fa fa-sort-asc fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-sort-desc</h1>
+
+    <i class="fa fa-sort-desc fa-3x"></i>
+
+    <i class="fa fa-sort-desc fa-3x" style="color: red;"></i>
+    
+    <h1>fa fa-sort-down</h1>
+
+    <i class="fa fa-sort-down fa-3x"></i>
+
+    <i class="fa fa-sort-down fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-sort-numeric-asc</h1>
+
+    <i class="fa fa-sort-numeric-asc fa-3x"></i>
+
+    <i class="fa fa-sort-numeric-asc fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-sort-numeric-desc</h1>
+
+    <i class="fa fa-sort-numeric-desc fa-3x"></i>
+
+    <i class="fa fa-sort-numeric-desc fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-sort-up</h1>
+
+    <i class="fa fa-sort-up fa-3x"></i>
+
+    <i class="fa fa-sort-up fa-3x" style="color: lawngreen;"></i>
+    
+    
+    <h1>fa fa-soundcloud</h1>
+
+    <i class="fa fa-soundcloud fa-3x"></i>
+
+    <i class="fa fa-soundcloud fa-3x" style="color: lightcoral;"></i>
+    
+    
+    <h1>fa fa-space-shuttle</h1>
+
+    <i class="fa fa-space-shuttle fa-3x"></i>
+
+    <i class="fa fa-space-shuttle fa-3x" style="color: blueviolet;"></i>
+    
+    
+    <h1>fa fa-spinner</h1>
+
+    <i class="fa fa-spinner fa-3x"></i>
+
+    <i class="fa fa-spinner fa-3x" style="color: dodgerblue;"></i>
+    
+    
+    <h1>fa fa-spoon</h1>
+
+    <i class="fa fa-spoon fa-3x"></i>
+
+    <i class="fa fa-spoon fa-3x" style="color: darkgoldenrod;"></i>
+    
+    
+    <h1>fa fa-spotify</h1>
+
+    <i class="fa fa-spotify fa-3x"></i>
+
+    <i class="fa fa-spotify fa-3x" style="color: #1ed760;"></i>
+    
+    
+    <h1>fa fa-square</h1>
+
+    <i class="fa fa-square fa-3x"></i>
+
+    <i class="fa fa-square fa-3x" style="color: #f19c24;"></i>
+    
+    <h1>fa fa-square-o</h1>
+
+    <i class="fa fa-square-o fa-3x"></i>
+
+    <i class="fa fa-square-o fa-3x" style="color: #f19c24;"></i>
+    
+    
+    <h1>fa fa-stack-exchange</h1>
+
+    <i class="fa fa-stack-exchange fa-3x"></i>
+
+    <i class="fa fa-stack-exchange fa-3x" style="color: #1e5397;"></i>
+    
+    
+    <h1>fa fa-stack-overflow</h1>
+
+    <i class="fa fa-stack-overflow fa-3x"></i>
+
+    <i class="fa fa-stack-overflow fa-3x" style="color: #f48024;"></i>
+    
+    
+    <h1>fa fa-star</h1>
+
+    <i class="fa fa-star fa-3x"></i>
+
+    <i class="fa fa-star fa-3x" style="color: #ffc78e;"></i>
+    
+    
+    <h1>fa fa-star-half</h1>
+
+    <i class="fa fa-star-half fa-3x"></i>
+
+    <i class="fa fa-star-half fa-3x" style="color: #ffc78e;"></i>
+    
+    
+    <h1>fa fa-star-half-empty</h1>
+
+    <i class="fa fa-star-half-empty fa-3x"></i>
+
+    <i class="fa fa-star-half-empty fa-3x" style="color: #ffc78e;"></i>
+    
+    
+    <h1>fa fa-star-half-full</h1>
+
+    <i class="fa fa-star-half-full fa-3x"></i>
+
+    <i class="fa fa-star-half-full fa-3x" style="color: #ffc78e;"></i>
+    
+    
+    <h1>fa fa-star-half-o</h1>
+
+    <i class="fa fa-star-half-o fa-3x"></i>
+
+    <i class="fa fa-star-half-o fa-3x" style="color: #ffc78e;"></i>
+    
+    
+    <h1>fa fa-star-o</h1>
+
+    <i class="fa fa-star-o fa-3x"></i>
+
+    <i class="fa fa-star-o fa-3x" style="color: #ffc78e;"></i>
+    
+    
+    <h1>fa fa-steam</h1>
+
+    <i class="fa fa-steam fa-3x"></i>
+
+    <i class="fa fa-steam fa-3x" style="color: #00adee;"></i>
+    
+    
+    <h1>fa fa-steam-square</h1>
+
+    <i class="fa fa-steam-square fa-3x"></i>
+
+    <i class="fa fa-steam-square fa-3x" style="color: #00adee;"></i>
+    
+    
+    <h1>fa fa-step-backward</h1>
+
+    <i class="fa fa-step-backward fa-3x"></i>
+
+    <i class="fa fa-step-backward fa-3x" style="color: #ba88ff;"></i>
+    
+    
+    <h1>fa fa-step-forward</h1>
+
+    <i class="fa fa-step-forward fa-3x"></i>
+
+    <i class="fa fa-step-forward fa-3x" style="color: #ba88ff;"></i>
+    
+    
+    <h1>fa fa-stethoscope</h1>
+
+    <i class="fa fa-stethoscope fa-3x"></i>
+
+    <i class="fa fa-stethoscope fa-3x" style="color: #1564e8;"></i>
+    
+    
+    <h1>fa fa-sticky-note</h1>
+
+    <i class="fa fa-sticky-note fa-3x"></i>
+
+    <i class="fa fa-sticky-note fa-3x" style="color: #74ed4b;"></i>
+    
+    
+    <h1>fa fa-sticky-note-o</h1>
+
+    <i class="fa fa-sticky-note-o fa-3x"></i>
+
+    <i class="fa fa-sticky-note-o fa-3x" style="color: #74ed4b;"></i>
+    
+    
+    <h1>fa fa-stop</h1>
+
+    <i class="fa fa-stop fa-3x"></i>
+
+    <i class="fa fa-stop fa-3x" style="color: red;"></i>
+    
+    <h1>fa fa-stop-circle</h1>
+
+    <i class="fa fa-stop-circle fa-3x"></i>
+
+    <i class="fa fa-stop-circle fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-stop-circle-o</h1>
+
+    <i class="fa fa-stop-circle-o fa-3x"></i>
+
+    <i class="fa fa-stop-circle-o fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-street-view</h1>
+
+    <i class="fa fa-street-view fa-3x"></i>
+
+    <i class="fa fa-street-view fa-3x" style="color: #4a80f5;"></i>
+    
+    
+    <h1>fa fa-strikethrough</h1>
+
+    <i class="fa fa-strikethrough fa-3x"></i>
+
+    <i class="fa fa-strikethrough fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-stumbleupon</h1>
+
+    <i class="fa fa-stumbleupon fa-3x"></i>
+
+    <i class="fa fa-stumbleupon fa-3x" style="color: #f74425;"></i>
+    
+    
+    <h1>fa fa-stumbleupon-circle</h1>
+
+    <i class="fa fa-stumbleupon-circle fa-3x"></i>
+
+    <i class="fa fa-stumbleupon-circle fa-3x" style="color: #f74425;"></i>
+    
+    
+    <h1>fa fa-subscript</h1>
+
+    <i class="fa fa-subscript fa-3x"></i>
+
+    <i class="fa fa-subscript fa-3x" style="color: red;"></i>
+    
+    <h1>fa fa-superscript</h1>
+
+    <i class="fa fa-superscript fa-3x"></i>
+
+    <i class="fa fa-superscript fa-3x" style="color: #CCA64B;"></i>
+    
+    
+    <h1>fa fa-subway</h1>
+
+    <i class="fa fa-subway fa-3x"></i>
+
+    <i class="fa fa-subway fa-3x" style="color: #009743;"></i>
+    
+    
+    <h1>fa fa-suitcase</h1>
+
+    <i class="fa fa-suitcase fa-3x"></i>
+
+    <i class="fa fa-suitcase fa-3x" style="color: #c66652;"></i>
+    
+    
+    <h1>fa fa-sun-o</h1>
+
+    <i class="fa fa-sun-o fa-3x"></i>
+
+    <i class="fa fa-sun-o fa-3x" style="color: #FDB813;"></i>
+    
+    
+    <h1>fa fa-superpowers</h1>
+
+    <i class="fa fa-superpowers fa-3x"></i>
+
+    <i class="fa fa-superpowers fa-3x" style="color: #CCA64B;"></i>
+    
+    
+    <h1>fa fa-support</h1>
+
+    <i class="fa fa-support fa-3x"></i>
+
+    <i class="fa fa-support fa-3x" style="color: red;"></i>
+    
+</body>
+
+</html>

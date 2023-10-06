@@ -1,0 +1,84 @@
+********************
+
+LESSON: 18
+
+********************
+
+
+In this chapter, List of all icons starting with Q.
+
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+    <span style="font-size: 72px; font-style: italic;">Q</span>
+
+        
+    <h1>fa fa-qq</h1>
+
+    <i class="fa fa-qq fa-3x"></i>
+
+    <i class="fa fa-qq fa-3x" style="color: #409d16;"></i>
+    
+    
+    <h1>fa fa-qrcode</h1>
+
+    <i class="fa fa-qrcode fa-3x"></i>
+
+    <i class="fa fa-qrcode fa-3x" style="color: #ce8949;"></i>
+    
+    
+    <h1>fa fa-question</h1>
+
+    <i class="fa fa-question fa-3x"></i>
+
+    <i class="fa fa-question fa-3x" style="color: #ea9137;"></i>
+    
+    
+    <h1>fa fa-question-circle</h1>
+
+    <i class="fa fa-question-circle fa-3x"></i>
+
+    <i class="fa fa-question-circle fa-3x" style="color: #ae870e;"></i>
+    
+    
+    <h1>fa fa-question-circle-o</h1>
+
+    <i class="fa fa-question-circle-o fa-3x"></i>
+
+    <i class="fa fa-question-circle-o fa-3x" style="color: #ae870e;"></i>
+    
+    
+    <h1>fa fa-quora</h1>
+
+    <i class="fa fa-quora fa-3x"></i>
+
+    <i class="fa fa-quora fa-3x" style="color: #a62100;"></i>
+    
+    
+    <h1>fa fa-quote-left</h1>
+
+    <i class="fa fa-quote-left fa-3x"></i>
+
+    <i class="fa fa-quote-left fa-3x" style="color: #a66c7c;"></i>
+    
+    
+    <h1>fa fa-quote-right</h1>
+
+    <i class="fa fa-quote-right fa-3x"></i>
+
+    <i class="fa fa-quote-right fa-3x" style="color: #a66c7c;"></i>
+    
+    
+</body>
+
+</html>

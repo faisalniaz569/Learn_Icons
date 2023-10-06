@@ -1,0 +1,421 @@
+********************
+
+LESSON: 07
+
+********************
+
+
+In this chapter, List of all icons starting with F.
+
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+    <span style="font-size: 72px; font-style: italic;">F</span>
+
+    <h1>fa fa-font-awesome</h1>
+
+    <i class="fa fa-font-awesome fa-3x"></i>
+
+    <i class="fa fa-font-awesome fa-3x" style="color: #1C966F;"></i>
+    
+    
+    <h1>fa fa-facebook</h1>
+
+    <i class="fa fa-facebook fa-3x"></i>
+
+    <i class="fa fa-facebook fa-3x" style="color: #3B5998;"></i>
+    
+    
+    <h1>fa fa-facebook-f</h1>
+
+    <i class="fa fa-facebook-f fa-3x"></i>
+
+    <i class="fa fa-facebook-f fa-3x" style="color: #3B5998;"></i>
+    
+    
+    <h1>fa fa-facebook-official</h1>
+
+    <i class="fa fa-facebook-official fa-3x"></i>
+
+    <i class="fa fa-facebook-official fa-3x" style="color: #3B5998;"></i>
+    
+    
+    <h1>fa fa-facebook-square</h1>
+
+    <i class="fa fa-facebook-square fa-3x"></i>
+
+    <i class="fa fa-facebook-square fa-3x" style="color: #3B5998;"></i>
+
+
+    <h1>fa fa-fast-backward</h1>
+
+    <i class="fa fa-fast-backward fa-3x"></i>
+
+    <i class="fa fa-fast-backward fa-3x" style="color: #58AAE1;"></i>
+    
+    
+    <h1>fa fa-fast-forward</h1>
+
+    <i class="fa fa-fast-forward fa-3x"></i>
+
+    <i class="fa fa-fast-forward fa-3x" style="color: #58AAE1;"></i>
+    
+    <h1>fa fa-forward</h1>
+
+    <i class="fa fa-forward fa-3x"></i>
+
+    <i class="fa fa-forward fa-3x" style="color: #58AAE1;"></i>
+    
+    
+    <h1>fa fa-fax</h1>
+
+    <i class="fa fa-fax fa-3x"></i>
+
+    <i class="fa fa-fax fa-3x" style="color: #46ACDF;"></i>
+    
+    
+    <h1>fa fa-feed</h1>
+
+    <i class="fa fa-feed fa-3x"></i>
+
+    <i class="fa fa-feed fa-3x" style="color: #F78422;"></i>
+    
+    
+    <h1>fa fa-female</h1>
+
+    <i class="fa fa-female fa-3x"></i>
+
+    <i class="fa fa-female fa-3x" style="color: #E36557;"></i>
+    
+    
+    <h1>fa fa-fighter-jet</h1>
+
+    <i class="fa fa-fighter-jet fa-3x"></i>
+
+    <i class="fa fa-fighter-jet fa-3x" style="color: #182F51;"></i>
+    
+    
+    <h1>fa fa-file</h1>
+
+    <i class="fa fa-file fa-3x"></i>
+
+    <i class="fa fa-file fa-3x" style="color: #f8d775;"></i>
+    
+    <h1>fa fa-file-o</h1>
+
+    <i class="fa fa-file-o fa-3x"></i>
+
+    <i class="fa fa-file-o fa-3x" style="color: #f8d775;"></i>
+    
+    
+    <h1>fa fa-file-archive-o</h1>
+
+    <i class="fa fa-file-archive-o fa-3x"></i>
+
+    <i class="fa fa-file-archive-o fa-3x" style="color: #f8d775;"></i>
+    
+    
+    <h1>fa fa-file-zip-o</h1>
+
+    <i class="fa fa-file-zip-o fa-3x"></i>
+
+    <i class="fa fa-file-zip-o fa-3x" style="color: #f8d775;"></i>
+    
+    
+    
+    <h1>fa fa-file-audio-o</h1>
+
+    <i class="fa fa-file-audio-o fa-3x"></i>
+
+    <i class="fa fa-file-audio-o fa-3x" style="color: #c38686;"></i>
+    
+    <h1>fa fa-file-sound-o</h1>
+
+    <i class="fa fa-file-sound-o fa-3x"></i>
+
+    <i class="fa fa-file-sound-o fa-3x" style="color: #c38686;"></i>
+    
+    
+    <h1>fa fa-file-code-o</h1>
+
+    <i class="fa fa-file-code-o fa-3x"></i>
+
+    <i class="fa fa-file-code-o fa-3x" style="color: #EBAC38;"></i>
+    
+    
+    <h1>fa fa-file-excel-o</h1>
+
+    <i class="fa fa-file-excel-o fa-3x"></i>
+
+    <i class="fa fa-file-excel-o fa-3x" style="color: #10793F;"></i>
+    
+    
+    <h1>fa fa-file-image-o</h1>
+
+    <i class="fa fa-file-image-o fa-3x"></i>
+
+    <i class="fa fa-file-image-o fa-3x" style="color: #EBAC38;"></i>
+    
+    
+    <h1>fa fa-file-movie-o</h1>
+
+    <i class="fa fa-file-movie-o fa-3x"></i>
+
+    <i class="fa fa-file-movie-o fa-3x" style="color: #529b9c;"></i>
+    
+    
+    <h1>fa fa-file-video-o</h1>
+
+    <i class="fa fa-file-video-o fa-3x"></i>
+
+    <i class="fa fa-file-video-o fa-3x" style="color: #EBAC38;"></i>
+    
+    
+    <h1>fa fa-file-pdf-o</h1>
+
+    <i class="fa fa-file-pdf-o fa-3x"></i>
+
+    <i class="fa fa-file-pdf-o fa-3x" style="color:  #f40f02;"></i>
+    
+    
+    <h1>fa fa-file-photo-o</h1>
+
+    <i class="fa fa-file-photo-o fa-3x"></i>
+
+    <i class="fa fa-file-photo-o fa-3x" style="color: #2da2e1;"></i>
+    
+    <h1>fa fa-file-picture-o</h1>
+
+    <i class="fa fa-file-picture-o fa-3x"></i>
+
+    <i class="fa fa-file-picture-o fa-3x" style="color: #2da2e1;"></i>
+    
+    
+    <h1>fa fa-file-powerpoint-o</h1>
+
+    <i class="fa fa-file-powerpoint-o fa-3x"></i>
+
+    <i class="fa fa-file-powerpoint-o fa-3x" style="color: #d04423;"></i>
+    
+    
+    <h1>fa fa-file-text</h1>
+
+    <i class="fa fa-file-text fa-3x"></i>
+
+    <i class="fa fa-file-text fa-3x" style="color: #EBAC38;"></i>
+    
+    
+    <h1>fa fa-file-text-o</h1>
+
+    <i class="fa fa-file-text-o fa-3x"></i>
+
+    <i class="fa fa-file-text-o fa-3x" style="color: #EBAC38;"></i>
+    
+    <h1>fa fa-files-o</h1>
+
+    <i class="fa fa-files-o fa-3x"></i>
+
+    <i class="fa fa-files-o fa-3x" style="color: #EBAC38;"></i>
+    
+    
+    <h1>fa fa-file-word-o</h1>
+
+    <i class="fa fa-file-word-o fa-3x"></i>
+
+    <i class="fa fa-file-word-o fa-3x" style="color: #2b579a;"></i>
+    
+    
+    <h1>fa fa-film</h1>
+
+    <i class="fa fa-film fa-3x"></i>
+
+    <i class="fa fa-film fa-3x" style="color: #F4A950;"></i>
+    
+    <h1>fa fa-filter</h1>
+
+    <i class="fa fa-filter fa-3x"></i>
+
+    <i class="fa fa-filter fa-3x" style="color: #1fb8fa;"></i>
+    
+    
+    <h1>fa fa-fire</h1>
+
+    <i class="fa fa-fire fa-3x"></i>
+
+    <i class="fa fa-fire fa-3x" style="color: #e25822;"></i>
+    
+    
+    <h1>fa fa-fire-extinguisher</h1>
+
+    <i class="fa fa-fire-extinguisher fa-3x"></i>
+
+    <i class="fa fa-fire-extinguisher fa-3x" style="color: #CE2028;"></i>
+    
+    
+    <h1>fa fa-firefox</h1>
+
+    <i class="fa fa-firefox fa-3x"></i>
+
+    <i class="fa fa-firefox fa-3x" style="color: #00539F;"></i>
+    
+    
+    <h1>fa fa-first-order</h1>
+
+    <i class="fa fa-first-order fa-3x"></i>
+
+    <i class="fa fa-first-order fa-3x" style="color: #F62336;"></i>
+    
+    
+    <h1>fa fa-flag</h1>
+
+    <i class="fa fa-flag fa-3x"></i>
+
+    <i class="fa fa-flag fa-3x" style="color: #3C3B6E;"></i>
+    
+    
+    <h1>fa fa-flag-checkered</h1>
+
+    <i class="fa fa-flag-checkered fa-3x"></i>
+
+    <i class="fa fa-flag-checkered fa-3x" style="color: #F62336;"></i>
+    
+    
+    <h1>fa fa-flag-o</h1>
+
+    <i class="fa fa-flag-o fa-3x"></i>
+
+    <i class="fa fa-flag-o fa-3x" style="color: #F62336;"></i>
+    
+    
+    <h1>fa fa-flash</h1>
+
+    <i class="fa fa-flash fa-3x"></i>
+
+    <i class="fa fa-flash fa-3x" style="color: #D33B2E;"></i>
+    
+    
+    <h1>fa fa-flask</h1>
+
+    <i class="fa fa-flask fa-3x"></i>
+
+    <i class="fa fa-flask fa-3x" style="color: #4b2e83;"></i>
+    
+    
+    <h1>fa fa-flickr</h1>
+
+    <i class="fa fa-flickr fa-3x"></i>
+
+    <i class="fa fa-flickr fa-3x" style="color: #4b2e83;"></i>
+    
+    
+    <h1>fa fa-floppy-o</h1>
+
+    <i class="fa fa-floppy-o fa-3x"></i>
+
+    <i class="fa fa-floppy-o fa-3x" style="color: #4b2e83;"></i>
+    
+    
+    <h1>fa fa-folder</h1>
+
+    <i class="fa fa-folder fa-3x"></i>
+
+    <i class="fa fa-folder fa-3x" style="color: #0474f4;"></i>
+    
+    
+    <h1>fa fa-folder-o</h1>
+
+    <i class="fa fa-folder-o fa-3x"></i>
+
+    <i class="fa fa-folder-o fa-3x" style="color: #0474f4;"></i>
+    
+    
+    <h1>fa fa-folder-open</h1>
+
+    <i class="fa fa-folder-open fa-3x"></i>
+
+    <i class="fa fa-folder-open fa-3x" style="color: #0474f4;"></i>
+    
+    
+    <h1>fa fa-folder-open-o</h1>
+
+    <i class="fa fa-folder-open-o fa-3x"></i>
+
+    <i class="fa fa-folder-open-o fa-3x" style="color: #0474f4;"></i>
+    
+    
+    <h1>fa fa-font</h1>
+
+    <i class="fa fa-font fa-3x"></i>
+
+    <i class="fa fa-font fa-3x" style="color: #00cc6a;"></i>
+    
+    
+    <h1>fa fa-font-awesome</h1>
+
+    <i class="fa fa-font-awesome fa-3x"></i>
+
+    <i class="fa fa-font-awesome fa-3x" style="color: #00cc6a;"></i>
+    
+    
+    <h1>fa fa-fonticons</h1>
+
+    <i class="fa fa-fonticons fa-3x"></i>
+
+    <i class="fa fa-fonticons fa-3x" style="color: #00cc6a;"></i>
+    
+    
+    <h1>fa fa-fort-awesome</h1>
+
+    <i class="fa fa-fort-awesome fa-3x"></i>
+
+    <i class="fa fa-fort-awesome fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-forumbee</h1>
+
+    <i class="fa fa-forumbee fa-3x"></i>
+
+    <i class="fa fa-forumbee fa-3x" style="color: blue;"></i>
+    
+    
+    <h1>fa fa-foursquare</h1>
+
+    <i class="fa fa-foursquare fa-3x"></i>
+
+    <i class="fa fa-foursquare fa-3x" style="color: #0D389E;"></i>
+    
+    
+    <h1>fa fa-free-code-camp</h1>
+
+    <i class="fa fa-free-code-camp fa-3x"></i>
+
+    <i class="fa fa-free-code-camp fa-3x" style="color: #ff9c2a;"></i>
+    
+    
+    <h1>fa fa-frown-o</h1>
+
+    <i class="fa fa-frown-o fa-3x"></i>
+
+    <i class="fa fa-frown-o fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-futbol-o</h1>
+
+    <i class="fa fa-futbol-o fa-3x"></i>
+
+    <i class="fa fa-futbol-o fa-3x" style="color: red;"></i>
+
+
+</body>
+
+</html>

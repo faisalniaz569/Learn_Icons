@@ -1,0 +1,51 @@
+********************
+
+LESSON: 15
+
+********************
+
+
+In this chapter, List of all icons starting with N.
+
+Example:
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+    <span style="font-size: 72px; font-style: italic;">N</span>
+
+        
+    <h1>fa fa-navicon</h1>
+
+    <i class="fa fa-navicon fa-3x"></i>
+
+    <i class="fa fa-navicon fa-3x" style="color: #65A637;"></i>
+    
+    
+    <h1>fa fa-neuter</h1>
+
+    <i class="fa fa-neuter fa-3x"></i>
+
+    <i class="fa fa-neuter fa-3x" style="color: #65A637;"></i>
+    
+    
+    <h1>fa fa-newspaper-o</h1>
+
+    <i class="fa fa-newspaper-o fa-3x"></i>
+
+    <i class="fa fa-newspaper-o fa-3x" style="color: #e89837;"></i>
+    
+      
+
+</body>
+
+</html>

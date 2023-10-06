@@ -1,0 +1,161 @@
+********************
+
+LESSON: 05
+
+********************
+
+
+In this chapter, List of all icons starting with D.
+
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+    <span style="font-size: 72px; font-style: italic;">D</span>
+
+    <h1>fa fa-dashboard</h1>
+
+    <i class="fa fa-dashboard fa-3x"></i>
+
+    <i class="fa fa-dashboard fa-3x" style="color: #4464f3;"></i>
+    
+    
+    <h1>fa fa-dashcube</h1>
+
+    <i class="fa fa-dashcube fa-3x"></i>
+
+    <i class="fa fa-dashcube fa-3x" style="color: teal;"></i>
+    
+    
+    <h1>fa fa-database</h1>
+
+    <i class="fa fa-database fa-3x"></i>
+
+    <i class="fa fa-database fa-3x" style="color: teal;"></i>
+    
+    
+    
+    <h1>fa fa-deaf</h1>
+
+    <i class="fa fa-deaf fa-3x"></i>
+
+    <i class="fa fa-deaf fa-3x" style="color: teal;"></i>
+    
+    
+    <h1>fa fa-deafness</h1>
+
+    <i class="fa fa-deafness fa-3x"></i>
+
+    <i class="fa fa-deafness fa-3x" style="color: teal;"></i>
+    
+    
+    <h1>fa fa-dedent</h1>
+
+    <i class="fa fa-dedent fa-3x"></i>
+
+    <i class="fa fa-dedent fa-3x" style="color: teal;"></i>
+    
+    
+    <h1>fa fa-delicious</h1>
+
+    <i class="fa fa-delicious fa-3x"></i>
+
+    <i class="fa fa-delicious fa-3x" style="color: #3399ff;"></i>
+    
+    
+    <h1>fa fa-desktop</h1>
+
+    <i class="fa fa-desktop fa-3x"></i>
+
+    <i class="fa fa-desktop fa-3x" style="color: #ffcd46;"></i>
+
+    
+    <h1>fa fa-deviantart</h1>
+
+    <i class="fa fa-deviantart fa-3x"></i>
+
+    <i class="fa fa-deviantart fa-3x" style="color: #9a096d;"></i>
+    
+    
+    <h1>fa fa-diamond</h1>
+
+    <i class="fa fa-diamond fa-3x"></i>
+
+    <i class="fa fa-diamond fa-3x" style="color: #0f9a09;"></i>
+    
+    
+    <h1>fa fa-digg</h1>
+
+    <i class="fa fa-digg fa-3x"></i>
+
+    <i class="fa fa-digg fa-3x" style="color: #0f9a09;"></i>
+    
+    
+    <h1>fa fa-dollar</h1>
+
+    <i class="fa fa-dollar fa-3x"></i>
+
+    <i class="fa fa-dollar fa-3x" style="color: #9a7e09;"></i>
+    
+    
+    <h1>fa fa-dot-circle-o</h1>
+
+    <i class="fa fa-dot-circle-o fa-3x"></i>
+
+    <i class="fa fa-dot-circle-o fa-3x" style="color: #9a0909;"></i>
+    
+    
+    <h1>fa fa-download</h1>
+
+    <i class="fa fa-download fa-3x"></i>
+
+    <i class="fa fa-download fa-3x" style="color: #9a7e09;"></i>
+    
+    
+    <h1>fa fa-dribbble</h1>
+
+    <i class="fa fa-dribbble fa-3x"></i>
+
+    <i class="fa fa-dribbble fa-3x" style="color:  #ea4c89;"></i>
+    
+    
+    <h1>fa fa-drivers-license</h1>
+
+    <i class="fa fa-drivers-license fa-3x"></i>
+
+    <i class="fa fa-drivers-license fa-3x" style="color: #801e00;"></i>
+    
+    
+    <h1>fa fa-drivers-license-o</h1>
+
+    <i class="fa fa-drivers-license-o fa-3x"></i>
+
+    <i class="fa fa-drivers-license-o fa-3x" style="color: #801e00;"></i>
+    
+    
+    <h1>fa fa-dropbox</h1>
+
+    <i class="fa fa-dropbox fa-3x"></i>
+
+    <i class="fa fa-dropbox fa-3x" style="color: #3d9ae8;"></i>
+    
+    
+    <h1>fa fa-drupal</h1>
+
+    <i class="fa fa-drupal fa-3x"></i>
+
+    <i class="fa fa-drupal fa-3x" style="color:  #0c76ab;"></i>
+    
+
+</body>
+
+</html>

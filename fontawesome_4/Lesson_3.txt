@@ -1,0 +1,396 @@
+********************
+
+LESSON: 03
+
+********************
+
+
+In this chapter, List of all icons starting with B.
+
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    
+    <span style="font-size: 72px; font-style: italic;">B</span>
+
+    <h1>fa fa-backward</h1>
+
+    <i class="fa fa-backward fa-3x"></i>
+    
+    <i class="fa fa-backward fa-3x" style="color: #2962ff;"></i>
+    
+    
+    <h1>fa fa-balance-scale</h1>
+
+    <i class="fa fa-balance-scale fa-3x"></i>
+    
+    <i class="fa fa-balance-scale fa-3x" style="color: #35447C;"></i>
+    
+    
+    <h1>fa fa-ban</h1>
+
+    <i class="fa fa-ban fa-3x"></i>
+    
+    <i class="fa fa-ban fa-3x" style="color: #F70000;"></i>
+    
+    
+    <h1>fa fa-bandcamp</h1>
+
+    <i class="fa fa-bandcamp fa-3x"></i>
+    
+    <i class="fa fa-bandcamp fa-3x" style="color: #22A0AE;"></i>
+    
+    
+    <h1>fa fa-bank</h1>
+
+    <i class="fa fa-bank fa-3x"></i>
+    
+    <i class="fa fa-bank fa-3x" style="color: #06989A;"></i>
+    
+    
+    <h1>fa fa-bar-chart</h1>
+
+    <i class="fa fa-bar-chart fa-3x"></i>
+    
+    <i class="fa fa-bar-chart fa-3x" style="color: #515151;"></i>
+    
+    
+    <h1>fa fa-bar-chart-o</h1>
+
+    <i class="fa fa-bar-chart-o fa-3x"></i>
+    
+    <i class="fa fa-bar-chart-o fa-3x" style="color: #515151;"></i>
+    
+    <h1>fa fa-barcode</h1>
+
+    <i class="fa fa-barcode fa-3x"></i>
+    
+    <i class="fa fa-barcode fa-3x" style="color: #515151;"></i>
+    
+    
+    <h1>fa fa-bars</h1>
+
+    <i class="fa fa-bars fa-3x"></i>
+    
+    <i class="fa fa-bars fa-3x" style="color: #515151;"></i>
+    
+    
+    <h1>fa fa-bath</h1>
+
+    <i class="fa fa-bath fa-3x"></i>
+    
+    <i class="fa fa-bath fa-3x" style="color: #182F51;"></i>
+    
+    <h1>fa fa-bathtub</h1>
+
+    <i class="fa fa-bathtub fa-3x"></i>
+    
+    <i class="fa fa-bathtub fa-3x" style="color: #182F51;"></i>
+    
+    
+    <h1>fa fa-battery-0</h1>
+
+    <i class="fa fa-battery-0 fa-3x"></i>
+    
+    <i class="fa fa-battery-0 fa-3x" style="color: #182F51;"></i>
+    
+    <h1>fa fa-battery-empty</h1>
+
+    <i class="fa fa-battery-empty fa-3x"></i>
+    
+    <i class="fa fa-battery-empty fa-3x" style="color: #182F51;"></i>
+    
+    <h1>fa fa-battery-1</h1>
+
+    <i class="fa fa-battery-1 fa-3x"></i>
+    
+    <i class="fa fa-battery-1 fa-3x" style="color: #182F51;"></i>
+    
+    <h1>fa fa-battery-quarter</h1>
+
+    <i class="fa fa-battery-quarter fa-3x"></i>
+    
+    <i class="fa fa-battery-quarter fa-3x" style="color: #182F51;"></i>
+    
+    <h1>fa fa-battery-2</h1>
+
+    <i class="fa fa-battery-2 fa-3x"></i>
+    
+    <i class="fa fa-battery-2 fa-3x" style="color: #182F51;"></i>
+    
+    <h1>fa fa-battery-half</h1>
+
+    <i class="fa fa-battery-half fa-3x"></i>
+    
+    <i class="fa fa-battery-half fa-3x" style="color: #182F51;"></i>
+    
+    <h1>fa fa-battery-3</h1>
+
+    <i class="fa fa-battery-3 fa-3x"></i>
+    
+    <i class="fa fa-battery-3 fa-3x" style="color: #182F51;"></i>
+    
+    <h1>fa fa-battery-three-quarters</h1>
+
+    <i class="fa fa-battery-three-quarters fa-3x"></i>
+    
+    <i class="fa fa-battery-three-quarters fa-3x" style="color: #182F51;"></i>
+    
+    
+    <h1>fa fa-battery-4</h1>
+
+    <i class="fa fa-battery-4 fa-3x"></i>
+    
+    <i class="fa fa-battery-4 fa-3x" style="color: #182F51;"></i>
+    
+    <h1>fa fa-battery-full</h1>
+
+    <i class="fa fa-battery-full fa-3x"></i>
+    
+    <i class="fa fa-battery-full fa-3x" style="color: #182F51;"></i>
+    
+    
+    <h1>fa fa-bed</h1>
+
+    <i class="fa fa-bed fa-3x"></i>
+    
+    <i class="fa fa-bed fa-3x" style="color: #2C9F5A;"></i>
+    
+    <h1>fa fa-beer</h1>
+
+    <i class="fa fa-beer fa-3x"></i>
+    
+    <i class="fa fa-beer fa-3x" style="color: #E8A46B;"></i>
+    
+    
+    <h1>fa fa-behance</h1>
+
+    <i class="fa fa-behance fa-3x"></i>
+    
+    <i class="fa fa-behance fa-3x" style="color: #053eff;"></i>
+    
+    
+    <h1>fa fa-behance-square</h1>
+
+    <i class="fa fa-behance-square fa-3x"></i>
+    
+    <i class="fa fa-behance-square fa-3x" style="color: #053eff;"></i>
+    
+    <h1>fa fa-bell</h1>
+
+    <i class="fa fa-bell fa-3x"></i>
+    
+    <i class="fa fa-bell fa-3x" style="color: #CA8136;"></i>
+    
+    
+    <h1>fa fa-bell-o</h1>
+
+    <i class="fa fa-bell-o fa-3x"></i>
+    
+    <i class="fa fa-bell-o fa-3x" style="color: #CA8136;"></i>
+    
+    
+    <h1>fa fa-bell-slash</h1>
+
+    <i class="fa fa-bell-slash fa-3x"></i>
+    
+    <i class="fa fa-bell-slash fa-3x" style="color: #CA8136;"></i>
+    
+    
+    <h1>fa fa-bell-slash-o</h1>
+
+    <i class="fa fa-bell-slash-o fa-3x"></i>
+    
+    <i class="fa fa-bell-slash-o fa-3x" style="color: #CA8136;"></i>
+    
+    
+    <h1>fa fa-bicycle</h1>
+
+    <i class="fa fa-bicycle fa-3x"></i>
+    
+    <i class="fa fa-bicycle fa-3x" style="color: #d4392a;"></i>
+    
+    
+    <h1>fa fa-binoculars</h1>
+
+    <i class="fa fa-binoculars fa-3x"></i>
+    
+    <i class="fa fa-binoculars fa-3x" style="color: #4b4b4b;"></i>
+    
+    
+    <h1>fa fa-birthday-cake</h1>
+
+    <i class="fa fa-birthday-cake fa-3x"></i>
+    
+    <i class="fa fa-birthday-cake fa-3x" style="color: #f43636;"></i>
+    
+    
+    <h1>fa fa-bitbucket</h1>
+
+    <i class="fa fa-bitbucket fa-3x"></i>
+    
+    <i class="fa fa-bitbucket fa-3x" style="color: #0747a6;"></i>
+    
+    
+    <h1>fa fa-bitbucket-square</h1>
+
+    <i class="fa fa-bitbucket-square fa-3x"></i>
+    
+    <i class="fa fa-bitbucket-square fa-3x" style="color: #0747a6;"></i>
+    
+    
+    <h1>fa fa-bitcoin</h1>
+
+    <i class="fa fa-bitcoin fa-3x"></i>
+    
+    <i class="fa fa-bitcoin fa-3x" style="color: #f2a900;"></i>
+    
+    
+    <h1>fa fa-black-tie</h1>
+
+    <i class="fa fa-black-tie fa-3x"></i>
+    
+    <i class="fa fa-black-tie fa-3x" style="color: #444;"></i>
+    
+    <h1>fa fa-blind</h1>
+
+    <i class="fa fa-blind fa-3x"></i>
+    
+    <i class="fa fa-blind fa-3x" style="color: #2d4353;"></i>
+    
+    <h1>fa fa-bluetooth</h1>
+
+    <i class="fa fa-bluetooth fa-3x"></i>
+    
+    <i class="fa fa-bluetooth fa-3x" style="color: #6796f9;"></i>
+    
+    
+    <h1>fa fa-bluetooth-b</h1>
+
+    <i class="fa fa-bluetooth-b fa-3x"></i>
+    
+    <i class="fa fa-bluetooth-b fa-3x" style="color: #6796f9;"></i>
+    
+    <h1>fa fa-bold</h1>
+
+    <i class="fa fa-bold fa-3x"></i>
+    
+    <i class="fa fa-bold fa-3x" style="color: #B43D36;"></i>
+    
+    
+    <h1>fa fa-bolt</h1>
+
+    <i class="fa fa-bolt fa-3x"></i>
+    
+    <i class="fa fa-bolt fa-3x" style="color: #28444c;"></i>
+    
+    
+    <h1>fa fa-bomb</h1>
+
+    <i class="fa fa-bomb fa-3x"></i>
+    
+    <i class="fa fa-bomb fa-3x" style="color: #b73d3f;"></i>
+    
+    <h1>fa fa-book</h1>
+
+    <i class="fa fa-book fa-3x"></i>
+    
+    <i class="fa fa-book fa-3x" style="color: #D29828;"></i>
+    
+    
+    <h1>fa fa-bookmark</h1>
+
+    <i class="fa fa-bookmark fa-3x"></i>
+    
+    <i class="fa fa-bookmark fa-3x" style="color: #D48E00;"></i>
+    
+    
+    <h1>fa fa-bookmark-o</h1>
+
+    <i class="fa fa-bookmark-o fa-3x"></i>
+    
+    <i class="fa fa-bookmark-o fa-3x" style="color: #D48E00;"></i>
+    
+    
+    <h1>fa fa-braille</h1>
+
+    <i class="fa fa-braille fa-3x"></i>
+    
+    <i class="fa fa-braille fa-3x" style="color: #D48E00;"></i>
+    
+    
+    <h1>fa fa-briefcase</h1>
+
+    <i class="fa fa-briefcase fa-3x"></i>
+    
+    <i class="fa fa-briefcase fa-3x" style="color: #5D3613;"></i>
+    
+    
+    <h1>fa fa-btc</h1>
+
+    <i class="fa fa-btc fa-3x"></i>
+    
+    <i class="fa fa-btc fa-3x" style="color: #f2a900;"></i>
+    
+    
+    <h1>fa fa-bug</h1>
+
+    <i class="fa fa-bug fa-3x"></i>
+    
+    <i class="fa fa-bug fa-3x" style="color: #84c4ec;"></i>
+    
+    
+    <h1>fa fa-building</h1>
+
+    <i class="fa fa-building fa-3x"></i>
+    
+    <i class="fa fa-building fa-3x" style="color: #66D2F6;"></i>
+    
+    
+    <h1>fa fa-building-o</h1>
+
+    <i class="fa fa-building-o fa-3x"></i>
+    
+    <i class="fa fa-building-o fa-3x" style="color: #66D2F6;"></i>
+    
+    
+    <h1>fa fa-bullhorn</h1>
+
+    <i class="fa fa-bullhorn fa-3x"></i>
+    
+    <i class="fa fa-bullhorn fa-3x" style="color: #0444f4;"></i>
+    
+    
+    <h1>fa fa-bullseye</h1>
+
+    <i class="fa fa-bullseye fa-3x"></i>
+    
+    <i class="fa fa-bullseye fa-3x" style="color: #7d222b;"></i>
+    
+    <h1>fa fa-bus</h1>
+
+    <i class="fa fa-bus fa-3x"></i>
+    
+    <i class="fa fa-bus fa-3x" style="color: #FFD800;"></i>
+    
+    
+    <h1>fa fa-buysellads</h1>
+
+    <i class="fa fa-buysellads fa-3x"></i>
+    
+    <i class="fa fa-buysellads fa-3x" style="color: #D48E00;"></i>
+    
+    
+
+</body>
+
+</html>

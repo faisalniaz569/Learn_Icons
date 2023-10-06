@@ -1,0 +1,91 @@
+********************
+
+LESSON: 01
+
+********************
+
+Font awesome 4 is discussed in every chapter starting from this chapter.
+
+Example 1:
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+    <h1>fa fa-address-book</h1>
+
+    <i class="fa fa-address-book"></i>
+    <i class="fa fa-address-book" style="font-size:24px"></i>
+    <i class="fa fa-address-book" style="font-size:36px"></i>
+    <i class="fa fa-address-book" style="font-size:48px;color:red"></i>
+    <br>
+
+    <p>Used on a button:</p>
+    <button style="font-size:24px">Button <i class="fa fa-address-book"></i></button>
+
+    <p>Unicode:</p>
+    <i style="font-size:24px" class="fa">&#xf2b9;</i>
+
+
+</body>
+
+</html>
+
+
+Example 2:
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+    <h1>fa fa-address-book</h1>
+
+    <i class="fa fa-address-book"></i>
+    <i class="fa fa-address-book fa-lg"></i>
+    <i class="fa fa-address-book fa-2x"></i>
+    <i class="fa fa-address-book fa-3x"></i>
+    <i class="fa fa-address-book fa-4x"></i>
+    <i class="fa fa-address-book fa-5x"></i>
+    <i class="fa fa-address-book fa-5x" style="color: red;"></i>
+
+
+</body>
+
+</html>
+
+Example 3:
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+    <h1>fa fa-address-book</h1>
+
+    <span class="fa fa-address-book fa-3x"></span>
+    
+
+
+</body>
+
+</html>

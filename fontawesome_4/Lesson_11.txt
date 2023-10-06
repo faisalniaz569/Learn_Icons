@@ -1,0 +1,53 @@
+********************
+
+LESSON: 11
+
+********************
+
+
+In this chapter, List of all icons starting with J.
+
+
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+    <span style="font-size: 72px; font-style: italic;">J</span>
+
+        
+    <h1>fa fa-joomla</h1>
+
+    <i class="fa fa-joomla fa-3x"></i>
+
+    <i class="fa fa-joomla fa-3x" style="color: #E52627;"></i>
+    
+    
+    <h1>fa fa-jpy</h1>
+
+    <i class="fa fa-jpy fa-3x"></i>
+
+    <i class="fa fa-jpy fa-3x" style="color: #B51F30;"></i>
+    
+    
+    <h1>fa fa-jsfiddle</h1>
+
+    <i class="fa fa-jsfiddle fa-3x"></i>
+
+    <i class="fa fa-jsfiddle fa-3x" style="color: #2690E7;"></i>
+    
+    
+    
+    
+
+</body>
+
+</html>

@@ -1,0 +1,220 @@
+********************
+
+LESSON: 06
+
+********************
+
+
+In this chapter, List of all icons starting with E.
+
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+    <span style="font-size: 72px; font-style: italic;">E</span>
+
+    <h1>fa fa-edge</h1>
+
+    <i class="fa fa-edge fa-3x"></i>
+
+    <i class="fa fa-edge fa-3x" style="color: #25A1CA;"></i>
+
+
+    <h1>fa fa-edit</h1>
+
+    <i class="fa fa-edit fa-3x"></i>
+
+    <i class="fa fa-edit fa-3x" style="color: #61ADAB;"></i>
+
+
+    <h1>fa fa-eercast</h1>
+
+    <i class="fa fa-eercast fa-3x"></i>
+
+    <i class="fa fa-eercast fa-3x" style="color: #005C90;"></i>
+
+    <h1>fa fa-eject</h1>
+
+    <i class="fa fa-eject fa-3x"></i>
+
+    <i class="fa fa-eject fa-3x" style="color: red;"></i>
+
+
+    <h1>fa fa-ellipsis-h</h1>
+
+    <i class="fa fa-ellipsis-h fa-3x"></i>
+
+    <i class="fa fa-ellipsis-h fa-3x" style="color: red;"></i>
+
+    <h1>fa fa-ellipsis-v</h1>
+
+    <i class="fa fa-ellipsis-v fa-3x"></i>
+
+    <i class="fa fa-ellipsis-v fa-3x" style="color: red;"></i>
+
+
+    <h1>fa fa-empire</h1>
+
+    <i class="fa fa-empire fa-3x"></i>
+
+    <i class="fa fa-empire fa-3x" style="color: #0D7883;"></i>
+
+
+    <h1>fa fa-envelope</h1>
+
+    <i class="fa fa-envelope fa-3x"></i>
+
+    <i class="fa fa-envelope fa-3x" style="color: #F35901;"></i>
+
+
+    <h1>fa fa-envelope-o</h1>
+
+    <i class="fa fa-envelope-o fa-3x"></i>
+
+    <i class="fa fa-envelope-o fa-3x" style="color: #F35901;"></i>
+
+
+    <h1>fa fa-envelope-open</h1>
+
+    <i class="fa fa-envelope-open fa-3x"></i>
+
+    <i class="fa fa-envelope-open fa-3x" style="color: #F35901;"></i>
+
+
+    <h1>fa fa-envelope-open-o</h1>
+
+    <i class="fa fa-envelope-open-o fa-3x"></i>
+
+    <i class="fa fa-envelope-open-o fa-3x" style="color: #F35901;"></i>
+
+
+    <h1>fa fa-envelope-square</h1>
+
+    <i class="fa fa-envelope-square fa-3x"></i>
+
+    <i class="fa fa-envelope-square fa-3x" style="color: #F35901;"></i>
+
+
+    <h1>fa fa-envira</h1>
+
+    <i class="fa fa-envira fa-3x"></i>
+
+    <i class="fa fa-envira fa-3x" style="color: #7CBC29;"></i>
+
+
+    <h1>fa fa-eraser</h1>
+
+    <i class="fa fa-eraser fa-3x"></i>
+
+    <i class="fa fa-eraser fa-3x" style="color: #EF4D6C;"></i>
+
+
+    <h1>fa fa-etsy</h1>
+
+    <i class="fa fa-etsy fa-3x"></i>
+
+    <i class="fa fa-etsy fa-3x" style="color: #EA6121;"></i>
+
+
+    <h1>fa fa-eur</h1>
+
+    <i class="fa fa-eur fa-3x"></i>
+
+    <i class="fa fa-eur fa-3x" style="color: #F6C500;"></i>
+
+
+    <h1>fa fa-euro</h1>
+
+    <i class="fa fa-euro fa-3x"></i>
+
+    <i class="fa fa-euro fa-3x" style="color: #F6C500;"></i>
+
+
+    <h1>fa fa-exchange</h1>
+
+    <i class="fa fa-exchange fa-3x"></i>
+
+    <i class="fa fa-exchange fa-3x" style="color: #73C7E8;"></i>
+
+    <h1>fa fa-exclamation</h1>
+
+    <i class="fa fa-exclamation fa-3x"></i>
+
+    <i class="fa fa-exclamation fa-3x" style="color: #F7B116;"></i>
+
+
+    <h1>fa fa-exclamation-circle</h1>
+
+    <i class="fa fa-exclamation-circle fa-3x"></i>
+
+    <i class="fa fa-exclamation-circle fa-3x" style="color: #F7B116;"></i>
+
+
+    <h1>fa fa-exclamation-triangle</h1>
+
+    <i class="fa fa-exclamation-triangle fa-3x"></i>
+
+    <i class="fa fa-exclamation-triangle fa-3x" style="color: #F7B116;"></i>
+
+
+    <h1>fa fa-expand</h1>
+
+    <i class="fa fa-expand fa-3x"></i>
+
+    <i class="fa fa-expand fa-3x" style="color: #73C7E8;"></i>
+
+
+    <h1>fa fa-expeditedssl</h1>
+
+    <i class="fa fa-expeditedssl fa-3x"></i>
+
+    <i class="fa fa-expeditedssl fa-3x" style="color: #435761;"></i>
+
+
+    <h1>fa fa-external-link</h1>
+
+    <i class="fa fa-external-link fa-3x"></i>
+
+    <i class="fa fa-external-link fa-3x" style="color: #515151;"></i>
+
+
+    <h1>fa fa-external-link-square</h1>
+
+    <i class="fa fa-external-link-square fa-3x"></i>
+
+    <i class="fa fa-external-link-square fa-3x" style="color: #515151;"></i>
+
+
+    <h1>fa fa-eye</h1>
+
+    <i class="fa fa-eye fa-3x"></i>
+
+    <i class="fa fa-eye fa-3x" style="color: #515151;"></i>
+
+
+    <h1>fa fa-eye-slash</h1>
+
+    <i class="fa fa-eye-slash fa-3x"></i>
+
+    <i class="fa fa-eye-slash fa-3x" style="color: #515151;"></i>
+
+
+    <h1>fa fa-eyedropper</h1>
+
+    <i class="fa fa-eyedropper fa-3x"></i>
+
+    <i class="fa fa-eyedropper fa-3x" style="color: #515151;"></i>
+
+
+</body>
+
+</html>

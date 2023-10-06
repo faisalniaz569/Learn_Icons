@@ -1,0 +1,290 @@
+********************
+
+LESSON: 21
+
+********************
+
+In this chapter, List of all icons starting with T.
+
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    
+    <span style="font-size: 72px; font-style: italic;">T</span>
+
+    <h1>fa fa-table</h1>
+    <i class="fa fa-table fa-3x"></i>
+    <i class="fa fa-table fa-3x" style="color: #fa560a;"></i>
+
+    <h1>fa fa-tablet</h1>
+    <i class="fa fa-tablet fa-3x"></i>
+    <i class="fa fa-tablet fa-3x" style="color: #d6562c;"></i>
+
+    <h1>fa fa-tachometer</h1>
+    <i class="fa fa-tachometer fa-3x"></i>
+    <i class="fa fa-tachometer fa-3x" style="color: #3aa8ff;"></i>
+
+    <h1>fa fa-tag</h1>
+    <i class="fa fa-tag fa-3x"></i>
+    <i class="fa fa-tag fa-3x" style="color: #3a96ff;"></i>
+
+    <h1>fa fa-tags</h1>
+    <i class="fa fa-tags fa-3x"></i>
+    <i class="fa fa-tags fa-3x" style="color: #ff6666;"></i>
+
+    <h1>fa fa-tasks</h1>
+    <i class="fa fa-tasks fa-3x"></i>
+    <i class="fa fa-tasks fa-3x" style="color: blueviolet;"></i>
+
+    <h1>fa fa-taxi</h1>
+    <i class="fa fa-taxi fa-3x"></i>
+    <i class="fa fa-taxi fa-3x" style="color: #003F87;"></i>
+
+    <h1>fa fa-telegram</h1>
+    <i class="fa fa-telegram fa-3x"></i>
+    <i class="fa fa-telegram fa-3x" style="color: #0088cc;"></i>
+
+    <h1>fa fa-television</h1>
+    <i class="fa fa-television fa-3x"></i>
+    <i class="fa fa-television fa-3x" style="color: #fd00fb;"></i>
+
+    <h1>fa fa-tencent-weibo</h1>
+    <i class="fa fa-tencent-weibo fa-3x"></i>
+    <i class="fa fa-tencent-weibo fa-3x" style="color: red;"></i>
+
+    <h1>fa fa-terminal</h1>
+    <i class="fa fa-terminal fa-3x"></i>
+    <i class="fa fa-terminal fa-3x" style="color: green;"></i>
+
+    <h1>fa fa-text-height</h1>
+    <i class="fa fa-text-height fa-3x"></i>
+    <i class="fa fa-text-height fa-3x" style="color: #00cc6a;"></i>
+
+    <h1>fa fa-text-width</h1>
+    <i class="fa fa-text-width fa-3x"></i>
+    <i class="fa fa-text-width fa-3x" style="color: #00cc6a;"></i>
+
+    <h1>fa fa-th</h1>
+    <i class="fa fa-th fa-3x"></i>
+    <i class="fa fa-th fa-3x" style="color: #2da2e1;"></i>
+
+    <h1>fa fa-th-large</h1>
+    <i class="fa fa-th-large fa-3x"></i>
+    <i class="fa fa-th-large fa-3x" style="color: #2da2e1;"></i>
+
+    <h1>fa fa-th-list</h1>
+    <i class="fa fa-th-list fa-3x"></i>
+    <i class="fa fa-th-list fa-3x" style="color: #2da2e1;"></i>
+
+    <h1>fa fa-themeisle</h1>
+    <i class="fa fa-themeisle fa-3x"></i>
+    <i class="fa fa-themeisle fa-3x" style="color: #4fab20;"></i>
+
+    <h1>fa fa-thermometer</h1>
+    <i class="fa fa-thermometer fa-3x"></i>
+    <i class="fa fa-thermometer fa-3x" style="color: #FF4433;"></i>
+
+    <h1>fa fa-thermometer-0</h1>
+    <i class="fa fa-thermometer-0 fa-3x"></i>
+    <i class="fa fa-thermometer-0 fa-3x" style="color: #FF4433;"></i>
+
+    <h1>fa fa-thermometer-empty</h1>
+    <i class="fa fa-thermometer-empty fa-3x"></i>
+    <i class="fa fa-thermometer-empty fa-3x" style="color: #FF4433;"></i>
+
+    <h1>fa fa-thermometer-1</h1>
+    <i class="fa fa-thermometer-1 fa-3x"></i>
+    <i class="fa fa-thermometer-1 fa-3x" style="color: #FF4433;"></i>
+
+    <h1>fa fa-thermometer-quarter</h1>
+    <i class="fa fa-thermometer-quarter fa-3x"></i>
+    <i class="fa fa-thermometer-quarter fa-3x" style="color: #FF4433;"></i>
+
+    <h1>fa fa-thermometer-2</h1>
+    <i class="fa fa-thermometer-2 fa-3x"></i>
+    <i class="fa fa-thermometer-2 fa-3x" style="color: #FF4433;"></i>
+
+    <h1>fa fa-thermometer-half</h1>
+    <i class="fa fa-thermometer-half fa-3x"></i>
+    <i class="fa fa-thermometer-half fa-3x" style="color: #FF4433;"></i>
+
+    <h1>fa fa-thermometer-3</h1>
+    <i class="fa fa-thermometer-3 fa-3x"></i>
+    <i class="fa fa-thermometer-3 fa-3x" style="color: #FF4433;"></i>
+
+    <h1>fa fa-thermometer-three-quarters</h1>
+    <i class="fa fa-thermometer-three-quarters fa-3x"></i>
+    <i class="fa fa-thermometer-three-quarters fa-3x" style="color: #FF4433;"></i>
+
+    <h1>fa fa-thermometer-4</h1>
+    <i class="fa fa-thermometer-4 fa-3x"></i>
+    <i class="fa fa-thermometer-4 fa-3x" style="color: #FF4433;"></i>
+
+    <h1>fa fa-thermometer-full</h1>
+    <i class="fa fa-thermometer-full fa-3x"></i>
+    <i class="fa fa-thermometer-full fa-3x" style="color: #FF4433;"></i>
+
+    <h1>fa fa-thumb-tack</h1>
+    <i class="fa fa-thumb-tack fa-3x"></i>
+    <i class="fa fa-thumb-tack fa-3x" style="color: #F27803;"></i>
+
+    <h1>fa fa-thumbs-down</h1>
+    <i class="fa fa-thumbs-down fa-3x"></i>
+    <i class="fa fa-thumbs-down fa-3x" style="color: red;"></i>
+
+    <h1>fa fa-thumbs-o-down</h1>
+    <i class="fa fa-thumbs-o-down fa-3x"></i>
+    <i class="fa fa-thumbs-o-down fa-3x" style="color: red;"></i>
+
+    <h1>fa fa-thumbs-o-up</h1>
+    <i class="fa fa-thumbs-o-up fa-3x"></i>
+    <i class="fa fa-thumbs-o-up fa-3x" style="color: red;"></i>
+ 
+    <h1>fa fa-thumbs-up</h1>
+    <i class="fa fa-thumbs-up fa-3x"></i>
+    <i class="fa fa-thumbs-up fa-3x" style="color: red;"></i>
+
+    <h1>fa fa-ticket</h1>
+    <i class="fa fa-ticket fa-3x"></i>
+    <i class="fa fa-ticket fa-3x" style="color: green;"></i>
+
+    <h1>fa fa-times</h1>
+    <i class="fa fa-times fa-3x"></i>
+    <i class="fa fa-times fa-3x" style="color: red;"></i>
+
+    <h1>fa fa-times-circle</h1>
+    <i class="fa fa-times-circle fa-3x"></i>
+    <i class="fa fa-times-circle fa-3x" style="color: red;"></i>
+
+    <h1>fa fa-times-circle-o</h1>
+    <i class="fa fa-times-circle-o fa-3x"></i>
+    <i class="fa fa-times-circle-o fa-3x" style="color: red;"></i>
+
+    <h1>fa fa-times-rectangle</h1>
+    <i class="fa fa-times-rectangle fa-3x"></i>
+    <i class="fa fa-times-rectangle fa-3x" style="color: red;"></i>
+
+    <h1>fa fa-times-rectangle-o</h1>
+    <i class="fa fa-times-rectangle-o fa-3x"></i>
+    <i class="fa fa-times-rectangle-o fa-3x" style="color: red;"></i>
+
+    <h1>fa fa-tint</h1>
+    <i class="fa fa-tint fa-3x"></i>
+    <i class="fa fa-tint fa-3x" style="color: #6052a5;"></i>
+
+    <h1>fa fa-toggle-down</h1>
+    <i class="fa fa-toggle-down fa-3x"></i>
+    <i class="fa fa-toggle-down fa-3x" style="color: #75C340;"></i>
+
+    <h1>fa fa-toggle-left</h1>
+    <i class="fa fa-toggle-left fa-3x"></i>
+    <i class="fa fa-toggle-left fa-3x" style="color: #75C340;"></i>
+
+    <h1>fa fa-toggle-right</h1>
+    <i class="fa fa-toggle-right fa-3x"></i>
+    <i class="fa fa-toggle-right fa-3x" style="color: #75C340;"></i>
+
+    <h1>fa fa-toggle-up</h1>
+    <i class="fa fa-toggle-up fa-3x"></i>
+    <i class="fa fa-toggle-up fa-3x" style="color: #75C340;"></i>
+
+    <h1>fa fa-toggle-off</h1>
+    <i class="fa fa-toggle-off fa-3x"></i>
+    <i class="fa fa-toggle-off fa-3x" style="color: #E61A23;"></i>
+
+    <h1>fa fa-toggle-on</h1>
+    <i class="fa fa-toggle-on fa-3x"></i>
+    <i class="fa fa-toggle-on fa-3x" style="color: #24AF4C;"></i>
+
+    <h1>fa fa-trademark</h1>
+    <i class="fa fa-trademark fa-3x"></i>
+    <i class="fa fa-trademark fa-3x" style="color: #eb4132;"></i>
+
+    <h1>fa fa-train</h1>
+    <i class="fa fa-train fa-3x"></i>
+    <i class="fa fa-train fa-3x" style="color: #314c9b;"></i>
+
+    <h1>fa fa-transgender</h1>
+    <i class="fa fa-transgender fa-3x"></i>
+    <i class="fa fa-transgender fa-3x" style="color:  blue;"></i>
+
+    <h1>fa fa-transgender-alt</h1>
+    <i class="fa fa-transgender-alt fa-3x"></i>
+    <i class="fa fa-transgender-alt fa-3x" style="color:  blue;"></i>
+
+    <h1>fa fa-trash</h1>
+    <i class="fa fa-trash fa-3x"></i>
+    <i class="fa fa-trash fa-3x" style="color:#ae9973;"></i>
+
+    <h1>fa fa-trash-o</h1>
+    <i class="fa fa-trash-o fa-3x"></i>
+    <i class="fa fa-trash-o fa-3x" style="color:#ae9973;"></i>
+
+    <h1>fa fa-tree</h1>
+    <i class="fa fa-tree fa-3x"></i>
+    <i class="fa fa-tree fa-3x" style="color:#2A7E19;"></i>
+
+    <h1>fa fa-trello</h1>
+    <i class="fa fa-trello fa-3x"></i>
+    <i class="fa fa-trello fa-3x" style="color:#0079bf;"></i>
+
+    <h1>fa fa-tripadvisor</h1>
+    <i class="fa fa-tripadvisor fa-3x"></i>
+    <i class="fa fa-tripadvisor fa-3x" style="color:#00af87;"></i>
+
+    <h1>fa fa-trophy</h1>
+    <i class="fa fa-trophy fa-3x"></i>
+    <i class="fa fa-trophy fa-3x" style="color:#5c3444;"></i>
+
+    <h1>fa fa-truck</h1>
+    <i class="fa fa-truck fa-3x"></i>
+    <i class="fa fa-truck fa-3x" style="color:#4fa941;"></i>
+
+    <h1>fa fa-try</h1>
+    <i class="fa fa-try fa-3x"></i>
+    <i class="fa fa-try fa-3x" style="color: purple;"></i>
+
+    <h1>fa fa-tty</h1>
+    <i class="fa fa-tty fa-3x"></i>
+    <i class="fa fa-tty fa-3x" style="color: peru;"></i>
+
+    <h1>fa fa-tumblr</h1>
+    <i class="fa fa-tumblr fa-3x"></i>
+    <i class="fa fa-tumblr fa-3x" style="color: #34526f;"></i>
+
+    <h1>fa fa-tumblr-square</h1>
+    <i class="fa fa-tumblr-square fa-3x"></i>
+    <i class="fa fa-tumblr-square fa-3x" style="color: #34526f;"></i>
+
+    <h1>fa fa-turkish-lira</h1>
+    <i class="fa fa-turkish-lira fa-3x"></i>
+    <i class="fa fa-turkish-lira fa-3x" style="color: #bb6a7d ;"></i>
+
+    <h1>fa fa-tv</h1>
+    <i class="fa fa-tv fa-3x"></i>
+    <i class="fa fa-tv fa-3x" style="color: #fd00fb;"></i>
+
+    <h1>fa fa-twitch</h1>
+    <i class="fa fa-twitch fa-3x"></i>
+    <i class="fa fa-twitch fa-3x" style="color: #6441a5;"></i>
+
+    <h1>fa fa-twitter</h1>
+    <i class="fa fa-twitter fa-3x"></i>
+    <i class="fa fa-twitter fa-3x" style="color: #00acee;"></i>
+
+    <h1>fa fa-twitter-square</h1>
+    <i class="fa fa-twitter-square fa-3x"></i>
+    <i class="fa fa-twitter-square fa-3x" style="color: #00acee;"></i>
+    
+</body>
+    
+</html>

@@ -1,0 +1,301 @@
+********************
+
+LESSON: 14
+
+********************
+
+
+In this chapter, List of all icons starting with M.
+
+
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+    <span style="font-size: 72px; font-style: italic;">M</span>
+
+        
+    <h1>fa fa-magic</h1>
+
+    <i class="fa fa-magic fa-3x"></i>
+
+    <i class="fa fa-magic fa-3x" style="color: rgb(0, 125, 197);"></i>
+    
+    
+    <h1>fa fa-magnet</h1>
+
+    <i class="fa fa-magnet fa-3x"></i>
+
+    <i class="fa fa-magnet fa-3x" style="color: #4d4b4f;"></i>
+    
+    
+    <h1>fa fa-mail-forward</h1>
+
+    <i class="fa fa-mail-forward fa-3x"></i>
+
+    <i class="fa fa-mail-forward fa-3x" style="color: #0489c9;"></i>
+    
+    
+    <h1>fa fa-mail-reply</h1>
+
+    <i class="fa fa-mail-reply fa-3x"></i>
+
+    <i class="fa fa-mail-reply fa-3x" style="color: #0489c9;"></i>
+    
+    
+    <h1>fa fa-mail-reply-all</h1>
+
+    <i class="fa fa-mail-reply-all fa-3x"></i>
+
+    <i class="fa fa-mail-reply-all fa-3x" style="color: #0489c9;"></i>
+    
+    
+    <h1>fa fa-male</h1>
+
+    <i class="fa fa-male fa-3x"></i>
+
+    <i class="fa fa-male fa-3x" style="color: #b6940e;"></i>
+    
+    
+    <h1>fa fa-map</h1>
+
+    <i class="fa fa-map fa-3x"></i>
+
+    <i class="fa fa-map fa-3x" style="color: #dd4b3e;"></i>
+    
+    <h1>fa fa-map-marker</h1>
+
+    <i class="fa fa-map-marker fa-3x"></i>
+
+    <i class="fa fa-map-marker fa-3x" style="color: #f44546;"></i>
+    
+    <h1>fa fa-map-o</h1>
+
+    <i class="fa fa-map-o fa-3x"></i>
+
+    <i class="fa fa-map-o fa-3x" style="color: #dd4b3e;"></i>
+    
+    
+    <h1>fa fa-map-pin</h1>
+
+    <i class="fa fa-map-pin fa-3x"></i>
+
+    <i class="fa fa-map-pin fa-3x" style="color: #EA4335;"></i>
+    
+    
+    <h1>fa fa-map-signs</h1>
+
+    <i class="fa fa-map-signs fa-3x"></i>
+
+    <i class="fa fa-map-signs fa-3x" style="color: #dd4b3e;"></i>
+    
+    <h1>fa fa-mars</h1>
+
+    <i class="fa fa-mars fa-3x"></i>
+
+    <i class="fa fa-mars fa-3x" style="color: #451804;"></i>
+    
+    <h1>fa fa-mars-double</h1>
+
+    <i class="fa fa-mars-double fa-3x"></i>
+
+    <i class="fa fa-mars-double fa-3x" style="color: #451804;"></i>
+    
+    
+    <h1>fa fa-mars-stroke</h1>
+
+    <i class="fa fa-mars-stroke fa-3x"></i>
+
+    <i class="fa fa-mars-stroke fa-3x" style="color: #451804;"></i>
+    
+    <h1>fa fa-mars-stroke-h</h1>
+
+    <i class="fa fa-mars-stroke-h fa-3x"></i>
+
+    <i class="fa fa-mars-stroke-h fa-3x" style="color: #451804;"></i>
+    
+    
+    <h1>fa fa-mars-stroke-v</h1>
+
+    <i class="fa fa-mars-stroke-v fa-3x"></i>
+
+    <i class="fa fa-mars-stroke-v fa-3x" style="color: #451804;"></i>
+    
+    
+    <h1>fa fa-maxcdn</h1>
+
+    <i class="fa fa-maxcdn fa-3x"></i>
+
+    <i class="fa fa-maxcdn fa-3x" style="color: #0A6EB4;"></i>
+    
+    <h1>fa fa-meanpath</h1>
+
+    <i class="fa fa-meanpath fa-3x"></i>
+
+    <i class="fa fa-meanpath fa-3x" style="color: #0A6EB4;"></i>
+    
+    
+    <h1>fa fa-medium</h1>
+
+    <i class="fa fa-medium fa-3x"></i>
+
+    <i class="fa fa-medium fa-3x" style="color:  #66cdaa;"></i>
+    
+    
+    <h1>fa fa-medkit</h1>
+
+    <i class="fa fa-medkit fa-3x"></i>
+
+    <i class="fa fa-medkit fa-3x" style="color: #08a29e;"></i>
+    
+    <h1>fa fa-meetup</h1>
+
+    <i class="fa fa-meetup fa-3x"></i>
+
+    <i class="fa fa-meetup fa-3x" style="color: #e51937;"></i>
+    
+    
+    <h1>fa fa-meh-o</h1>
+
+    <i class="fa fa-meh-o fa-3x"></i>
+
+    <i class="fa fa-meh-o fa-3x" style="color: #36564d;"></i>
+    
+    
+    <h1>fa fa-mercury</h1>
+
+    <i class="fa fa-mercury fa-3x"></i>
+
+    <i class="fa fa-mercury fa-3x" style="color: #36564d;"></i>
+    
+    <h1>fa fa-microchip</h1>
+
+    <i class="fa fa-microchip fa-3x"></i>
+
+    <i class="fa fa-microchip fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-microphone</h1>
+
+    <i class="fa fa-microphone fa-3x"></i>
+
+    <i class="fa fa-microphone fa-3x" style="color: #8c1394;"></i>
+    
+    
+    <h1>fa fa-microphone-slash</h1>
+
+    <i class="fa fa-microphone-slash fa-3x"></i>
+
+    <i class="fa fa-microphone-slash fa-3x" style="color: #8c1394;"></i>
+    
+    
+    <h1>fa fa-minus</h1>
+
+    <i class="fa fa-minus fa-3x"></i>
+
+    <i class="fa fa-minus fa-3x" style="color: #66cdaa;"></i>
+    
+    
+    <h1>fa fa-minus-circle</h1>
+
+    <i class="fa fa-minus-circle fa-3x"></i>
+
+    <i class="fa fa-minus-circle fa-3x" style="color: #66cdaa;"></i>
+    
+    <h1>fa fa-minus-square</h1>
+
+    <i class="fa fa-minus-square fa-3x"></i>
+
+    <i class="fa fa-minus-square fa-3x" style="color: #66cdaa;"></i>
+    
+    
+    <h1>fa fa-minus-square-o</h1>
+
+    <i class="fa fa-minus-square-o fa-3x"></i>
+
+    <i class="fa fa-minus-square-o fa-3x" style="color: #66cdaa;"></i>
+    
+    
+    <h1>fa fa-mixcloud</h1>
+
+    <i class="fa fa-mixcloud fa-3x"></i>
+
+    <i class="fa fa-mixcloud fa-3x" style="color: #273a4b;"></i>
+    
+    
+    <h1>fa fa-mobile</h1>
+
+    <i class="fa fa-mobile fa-3x"></i>
+
+    <i class="fa fa-mobile fa-3x" style="color: #273a4b;"></i>
+    
+    
+    <h1>fa fa-mobile-phone</h1>
+
+    <i class="fa fa-mobile-phone fa-3x"></i>
+
+    <i class="fa fa-mobile-phone fa-3x" style="color: #273a4b;"></i>
+    
+    
+    <h1>fa fa-modx</h1>
+
+    <i class="fa fa-modx fa-3x"></i>
+
+    <i class="fa fa-modx fa-3x" style="color: #273a4b;"></i>
+    
+    
+    <h1>fa fa-money</h1>
+
+    <i class="fa fa-money fa-3x"></i>
+
+    <i class="fa fa-money fa-3x" style="color: #273a4b;"></i>
+    
+    
+    <h1>fa fa-moon-o</h1>
+
+    <i class="fa fa-moon-o fa-3x"></i>
+
+    <i class="fa fa-moon-o fa-3x" style="color: #273a4b;"></i>
+    
+    
+    <h1>fa fa-mortar-board</h1>
+
+    <i class="fa fa-mortar-board fa-3x"></i>
+
+    <i class="fa fa-mortar-board fa-3x" style="color: #ad9325;"></i>
+    
+    
+    <h1>fa fa-motorcycle</h1>
+
+    <i class="fa fa-motorcycle fa-3x"></i>
+
+    <i class="fa fa-motorcycle fa-3x" style="color: #b05932;"></i>
+    
+    
+    <h1>fa fa-mouse-pointer</h1>
+
+    <i class="fa fa-mouse-pointer fa-3x"></i>
+
+    <i class="fa fa-mouse-pointer fa-3x" style="color: #b05932;"></i>
+    
+    
+    <h1>fa fa-music</h1>
+
+    <i class="fa fa-music fa-3x"></i>
+
+    <i class="fa fa-music fa-3x" style="color: #F55A34;"></i>
+    
+      
+
+</body>
+
+</html>

@@ -1,0 +1,251 @@
+********************
+
+LESSON: 08
+
+********************
+
+
+In this chapter, List of all icons starting with G.
+
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+    <span style="font-size: 72px; font-style: italic;">G</span>
+
+        
+    <h1>fa fa-gamepad</h1>
+
+    <i class="fa fa-gamepad fa-3x"></i>
+
+    <i class="fa fa-gamepad fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-gavel</h1>
+
+    <i class="fa fa-gavel fa-3x"></i>
+
+    <i class="fa fa-gavel fa-3x" style="color: #a31515;"></i>
+    
+    
+    <h1>fa fa-gbp</h1>
+
+    <i class="fa fa-gbp fa-3x"></i>
+
+    <i class="fa fa-gbp fa-3x" style="color: #a31515;"></i>
+    
+    
+    <h1>fa fa-ge</h1>
+
+    <i class="fa fa-ge fa-3x"></i>
+
+    <i class="fa fa-ge fa-3x" style="color: #a31515;"></i>
+    
+    
+    <h1>fa fa-gear</h1>
+
+    <i class="fa fa-gear fa-3x"></i>
+
+    <i class="fa fa-gear fa-3x" style="color: #1f87ff;"></i>
+    
+    
+    <h1>fa fa-gears</h1>
+
+    <i class="fa fa-gears fa-3x"></i>
+
+    <i class="fa fa-gears fa-3x" style="color: #1f87ff;"></i>
+    
+    
+    <h1>fa fa-genderless</h1>
+
+    <i class="fa fa-genderless fa-3x"></i>
+
+    <i class="fa fa-genderless fa-3x" style="color: #1f87ff;"></i>
+    
+    
+    <h1>fa fa-get-pocket</h1>
+
+    <i class="fa fa-get-pocket fa-3x"></i>
+
+    <i class="fa fa-get-pocket fa-3x" style="color: #1f87ff;"></i>
+    
+    
+    <h1>fa fa-gg</h1>
+
+    <i class="fa fa-gg fa-3x"></i>
+
+    <i class="fa fa-gg fa-3x" style="color: #cc8383;"></i>
+    
+    
+    <h1>fa fa-gg-circle</h1>
+
+    <i class="fa fa-gg-circle fa-3x"></i>
+
+    <i class="fa fa-gg-circle fa-3x" style="color: #d69292;"></i>
+    
+    
+    <h1>fa fa-gift</h1>
+
+    <i class="fa fa-gift fa-3x"></i>
+
+    <i class="fa fa-gift fa-3x" style="color: #685487;"></i>
+    
+    
+    <h1>fa fa-git</h1>
+
+    <i class="fa fa-git fa-3x"></i>
+
+    <i class="fa fa-git fa-3x" style="color: #685487;"></i>
+    
+    
+    <h1>fa fa-git-square</h1>
+
+    <i class="fa fa-git-square fa-3x"></i>
+
+    <i class="fa fa-git-square fa-3x" style="color: #685487;"></i>
+    
+    
+    <h1>fa fa-github</h1>
+
+    <i class="fa fa-github fa-3x"></i>
+
+    <i class="fa fa-github fa-3x" style="color: #171515;"></i>
+    
+    
+    <h1>fa fa-github-alt</h1>
+
+    <i class="fa fa-github-alt fa-3x"></i>
+
+    <i class="fa fa-github-alt fa-3x" style="color: #606060;"></i>
+    
+    <h1>fa fa-github-square</h1>
+
+    <i class="fa fa-github-square fa-3x"></i>
+
+    <i class="fa fa-github-square fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-gitlab</h1>
+
+    <i class="fa fa-gitlab fa-3x"></i>
+
+    <i class="fa fa-gitlab fa-3x" style="color: #e24329;"></i>
+    
+    
+    <h1>fa fa-gittip</h1>
+
+    <i class="fa fa-gittip fa-3x"></i>
+
+    <i class="fa fa-gittip fa-3x" style="color: #e24329;"></i>
+    
+    
+    <h1>fa fa-glass</h1>
+
+    <i class="fa fa-glass fa-3x"></i>
+
+    <i class="fa fa-glass fa-3x" style="color: green;"></i>
+    
+    
+    <h1>fa fa-glide</h1>
+
+    <i class="fa fa-glide fa-3x"></i>
+
+    <i class="fa fa-glide fa-3x" style="color: green;"></i>
+    
+    <h1>fa fa-glide-g</h1>
+
+    <i class="fa fa-glide-g fa-3x"></i>
+
+    <i class="fa fa-glide-g fa-3x" style="color: green;"></i>
+    
+    
+    <h1>fa fa-globe</h1>
+
+    <i class="fa fa-globe fa-3x"></i>
+
+    <i class="fa fa-globe fa-3x" style="color: #0e90b8;"></i>
+    
+    
+    <h1>fa fa-google</h1>
+
+    <i class="fa fa-google fa-3x"></i>
+
+    <i class="fa fa-google fa-3x" style="color: #4285F4;"></i>
+    
+    
+    <h1>fa fa-google-plus</h1>
+
+    <i class="fa fa-google-plus fa-3x"></i>
+
+    <i class="fa fa-google-plus fa-3x" style="color: #db4a39;"></i>
+    
+    
+    <h1>fa fa-google-plus-circle</h1>
+
+    <i class="fa fa-google-plus-circle fa-3x"></i>
+
+    <i class="fa fa-google-plus-circle fa-3x" style="color: #db4a39;"></i>
+    
+    
+    <h1>fa fa-google-plus-official</h1>
+
+    <i class="fa fa-google-plus-official fa-3x"></i>
+
+    <i class="fa fa-google-plus-official fa-3x" style="color: #db4a39;"></i>
+    
+    
+    <h1>fa fa-google-plus-square</h1>
+
+    <i class="fa fa-google-plus-square fa-3x"></i>
+
+    <i class="fa fa-google-plus-square fa-3x" style="color: #db4a39;"></i>
+    
+    
+    <h1>fa fa-google-wallet</h1>
+
+    <i class="fa fa-google-wallet fa-3x"></i>
+
+    <i class="fa fa-google-wallet fa-3x" style="color: #307DEF;"></i>
+    
+    
+    <h1>fa fa-graduation-cap</h1>
+
+    <i class="fa fa-graduation-cap fa-3x"></i>
+
+    <i class="fa fa-graduation-cap fa-3x" style="color: #b9b353;"></i>
+    
+    
+    <h1>fa fa-gratipay</h1>
+
+    <i class="fa fa-gratipay fa-3x"></i>
+
+    <i class="fa fa-gratipay fa-3x" style="color: #6A4A3F;"></i>
+    
+    
+    <h1>fa fa-grav</h1>
+
+    <i class="fa fa-grav fa-3x"></i>
+
+    <i class="fa fa-grav fa-3x" style="color: #9dc451;"></i>
+    
+    
+    <h1>fa fa-group</h1>
+
+    <i class="fa fa-group fa-3x"></i>
+
+    <i class="fa fa-group fa-3x" style="color: #2da2e1;"></i>
+    
+
+</body>
+
+</html>
+

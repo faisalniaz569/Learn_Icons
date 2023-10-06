@@ -1,0 +1,51 @@
+********************
+
+LESSON: 12
+
+********************
+
+
+In this chapter, List of all icons starting with K.
+
+
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+    <span style="font-size: 72px; font-style: italic;">K</span>
+
+        
+    <h1>fa fa-key</h1>
+
+    <i class="fa fa-key fa-3x"></i>
+
+    <i class="fa fa-key fa-3x" style="color: #F70000;"></i>
+    
+    
+    <h1>fa fa-keyboard-o</h1>
+
+    <i class="fa fa-keyboard-o fa-3x"></i>
+
+    <i class="fa fa-keyboard-o fa-3x" style="color: #F7A000;"></i>
+    
+    
+    <h1>fa fa-krw</h1>
+
+    <i class="fa fa-krw fa-3x"></i>
+
+    <i class="fa fa-krw fa-3x" style="color: #174B83;"></i>
+      
+
+</body>
+
+</html>
+

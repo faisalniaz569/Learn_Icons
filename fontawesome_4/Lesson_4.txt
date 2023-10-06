@@ -1,0 +1,636 @@
+********************
+
+LESSON: 04
+
+********************
+
+
+In this chapter, List of all icons starting with C.
+
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+    <span style="font-size: 72px; font-style: italic;">C</span>
+
+    <h1>fa fa-cab</h1>
+
+    <i class="fa fa-cab fa-3x"></i>
+
+    <i class="fa fa-cab fa-3x" style="color: teal;"></i>
+
+    <h1>fa fa-calculator</h1>
+
+    <i class="fa fa-calculator fa-3x"></i>
+
+    <i class="fa fa-calculator fa-3x" style="color: #333;"></i>
+
+    <h1>fa fa-calendar</h1>
+
+    <i class="fa fa-calendar fa-3x"></i>
+
+    <i class="fa fa-calendar fa-3x" style="color: palevioletred;"></i>
+
+    <h1>fa fa-calendar-check-o</h1>
+
+    <i class="fa fa-calendar-check-o fa-3x"></i>
+
+    <i class="fa fa-calendar-check-o fa-3x" style="color: dodgerblue;"></i>
+
+
+    <h1>fa fa-calendar-minus-o</h1>
+
+    <i class="fa fa-calendar-minus-o fa-3x"></i>
+
+    <i class="fa fa-calendar-minus-o fa-3x" style="color: teal;"></i>
+
+
+    <h1>fa fa-calendar-o</h1>
+
+    <i class="fa fa-calendar-o fa-3x"></i>
+
+    <i class="fa fa-calendar-o fa-3x" style="color: teal;"></i>
+
+    
+    <h1>fa fa-calendar-plus-o</h1>
+
+    <i class="fa fa-calendar-plus-o fa-3x"></i>
+
+    <i class="fa fa-calendar-plus-o fa-3x" style="color: teal;"></i>
+    
+    <h1>fa fa-calendar-times-o</h1>
+
+    <i class="fa fa-calendar-times-o fa-3x"></i>
+
+    <i class="fa fa-calendar-times-o fa-3x" style="color: teal;"></i>
+    
+    
+    <h1>fa fa-camera</h1>
+
+    <i class="fa fa-camera fa-3x"></i>
+
+    <i class="fa fa-camera fa-3x" style="color: orange;"></i>
+    
+    <h1>fa fa-camera-retro</h1>
+
+    <i class="fa fa-camera-retro fa-3x"></i>
+
+    <i class="fa fa-camera-retro fa-3x" style="color: palevioletred;"></i>
+    
+    <h1>fa fa-car</h1>
+
+    <i class="fa fa-car fa-3x"></i>
+
+    <i class="fa fa-car fa-3x" style="color: springgreen;"></i>
+    
+    
+    <h1>fa fa-caret-down</h1>
+
+    <i class="fa fa-caret-down fa-3x"></i>
+
+    <i class="fa fa-caret-down fa-3x" style="color: springgreen;"></i>
+    
+    
+    <h1>fa fa-caret-left</h1>
+
+    <i class="fa fa-caret-left fa-3x"></i>
+
+    <i class="fa fa-caret-left fa-3x" style="color: springgreen;"></i>
+    
+    
+    <h1>fa fa-caret-right</h1>
+
+    <i class="fa fa-caret-right fa-3x"></i>
+
+    <i class="fa fa-caret-right fa-3x" style="color: springgreen;"></i>
+    
+    
+    <h1>fa fa-caret-up</h1>
+
+    <i class="fa fa-caret-up fa-3x"></i>
+
+    <i class="fa fa-caret-up fa-3x" style="color: springgreen;"></i>
+    
+    
+    <h1>fa fa-caret-square-o-down</h1>
+
+    <i class="fa fa-caret-square-o-down fa-3x"></i>
+
+    <i class="fa fa-caret-square-o-down fa-3x" style="color: tomato;"></i>
+    
+    <h1>fa fa-caret-square-o-right</h1>
+
+    <i class="fa fa-caret-square-o-right fa-3x"></i>
+
+    <i class="fa fa-caret-square-o-right fa-3x" style="color: tomato;"></i>
+    
+    
+    <h1>fa fa-caret-square-o-up</h1>
+
+    <i class="fa fa-caret-square-o-up fa-3x"></i>
+
+    <i class="fa fa-caret-square-o-up fa-3x" style="color: tomato;"></i>
+    
+    <h1>fa fa-caret-square-o-left</h1>
+
+    <i class="fa fa-caret-square-o-left fa-3x"></i>
+
+    <i class="fa fa-caret-square-o-left fa-3x" style="color: tomato;"></i>
+    
+    
+    <h1>fa fa-cart-arrow-down</h1>
+
+    <i class="fa fa-cart-arrow-down fa-3x"></i>
+
+    <i class="fa fa-cart-arrow-down fa-3x" style="color: tomato;"></i>
+    
+    
+    <h1>fa fa-cart-plus</h1>
+
+    <i class="fa fa-cart-plus fa-3x"></i>
+
+    <i class="fa fa-cart-plus fa-3x" style="color: yellowgreen;"></i>
+    
+    
+    <h1>fa fa-cc</h1>
+
+    <i class="fa fa-cc fa-3x"></i>
+
+    <i class="fa fa-cc fa-3x" style="color: yellowgreen;"></i>
+    
+    
+    <h1>fa fa-cc-amex</h1>
+
+    <i class="fa fa-cc-amex fa-3x"></i>
+
+    <i class="fa fa-cc-amex fa-3x" style="color: yellowgreen;"></i>
+    
+    <h1>fa fa-cc-diners-club</h1>
+
+    <i class="fa fa-cc-diners-club fa-3x"></i>
+
+    <i class="fa fa-cc-diners-club fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-cc-discover</h1>
+
+    <i class="fa fa-cc-discover fa-3x"></i>
+
+    <i class="fa fa-cc-discover fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-cc-jcb</h1>
+
+    <i class="fa fa-cc-jcb fa-3x"></i>
+
+    <i class="fa fa-cc-jcb fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-cc-mastercard</h1>
+
+    <i class="fa fa-cc-mastercard fa-3x"></i>
+
+    <i class="fa fa-cc-mastercard fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-cc-paypal</h1>
+
+    <i class="fa fa-cc-paypal fa-3x"></i>
+
+    <i class="fa fa-cc-paypal fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-cc-stripe</h1>
+
+    <i class="fa fa-cc-stripe fa-3x"></i>
+
+    <i class="fa fa-cc-stripe fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-cc-visa</h1>
+
+    <i class="fa fa-cc-visa fa-3x"></i>
+
+    <i class="fa fa-cc-visa fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-certificate</h1>
+
+    <i class="fa fa-certificate fa-3x"></i>
+
+    <i class="fa fa-certificate fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-chain</h1>
+
+    <i class="fa fa-chain fa-3x"></i>
+
+    <i class="fa fa-chain fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-chain-broken</h1>
+
+    <i class="fa fa-chain-broken fa-3x"></i>
+
+    <i class="fa fa-chain-broken fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-check</h1>
+
+    <i class="fa fa-check fa-3x"></i>
+
+    <i class="fa fa-check fa-3x" style="color: #07a9eb;"></i>
+    
+    
+    <h1>fa fa-check-circle</h1>
+
+    <i class="fa fa-check-circle fa-3x"></i>
+
+    <i class="fa fa-check-circle fa-3x" style="color: #628cf6;"></i>
+    
+    <h1>fa fa-check-circle-o</h1>
+
+    <i class="fa fa-check-circle-o fa-3x"></i>
+
+    <i class="fa fa-check-circle-o fa-3x" style="color: #bac1cb;"></i>
+    
+    
+    <h1>fa fa-check-square</h1>
+
+    <i class="fa fa-check-square fa-3x"></i>
+
+    <i class="fa fa-check-square fa-3x" style="color:  #5b6682;"></i>
+    
+    
+    <h1>fa fa-check-square-o</h1>
+
+    <i class="fa fa-check-square-o fa-3x"></i>
+
+    <i class="fa fa-check-square-o fa-3x" style="color:  #5b6682;"></i>
+    
+    
+    <h1>fa fa-chevron-circle-up</h1>
+
+    <i class="fa fa-chevron-circle-up fa-3x"></i>
+
+    <i class="fa fa-chevron-circle-up fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-chevron-circle-right</h1>
+
+    <i class="fa fa-chevron-circle-right fa-3x"></i>
+
+    <i class="fa fa-chevron-circle-right fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-chevron-circle-down</h1>
+
+    <i class="fa fa-chevron-circle-down fa-3x"></i>
+
+    <i class="fa fa-chevron-circle-down fa-3x" style="color: indianred;"></i>
+    
+    <h1>fa fa-chevron-circle-left</h1>
+
+    <i class="fa fa-chevron-circle-left fa-3x"></i>
+
+    <i class="fa fa-chevron-circle-left fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-chevron-up</h1>
+
+    <i class="fa fa-chevron-up fa-3x"></i>
+
+    <i class="fa fa-chevron-up fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-chevron-right</h1>
+
+    <i class="fa fa-chevron-right fa-3x"></i>
+
+    <i class="fa fa-chevron-right fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-chevron-down</h1>
+
+    <i class="fa fa-chevron-down fa-3x"></i>
+
+    <i class="fa fa-chevron-down fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-chevron-left</h1>
+
+    <i class="fa fa-chevron-left fa-3x"></i>
+
+    <i class="fa fa-chevron-left fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-child</h1>
+
+    <i class="fa fa-child fa-3x"></i>
+
+    <i class="fa fa-child fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-chrome</h1>
+
+    <i class="fa fa-chrome fa-3x"></i>
+
+    <i class="fa fa-chrome fa-3x" style="color: indianred;"></i>
+    
+    <h1>fa fa-circle</h1>
+
+    <i class="fa fa-circle fa-3x"></i>
+
+    <i class="fa fa-circle fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-circle-o</h1>
+
+    <i class="fa fa-circle-o fa-3x"></i>
+
+    <i class="fa fa-circle-o fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-circle-o-notch</h1>
+
+    <i class="fa fa-circle-o-notch fa-3x"></i>
+
+    <i class="fa fa-circle-o-notch fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-circle-thin</h1>
+
+    <i class="fa fa-circle-thin fa-3x"></i>
+
+    <i class="fa fa-circle-thin fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-clipboard</h1>
+
+    <i class="fa fa-clipboard fa-3x"></i>
+
+    <i class="fa fa-clipboard fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-clock-o</h1>
+
+    <i class="fa fa-clock-o fa-3x"></i>
+
+    <i class="fa fa-clock-o fa-3x" style="color: indianred;"></i>
+    
+    <h1>fa fa-clone</h1>
+
+    <i class="fa fa-clone fa-3x"></i>
+
+    <i class="fa fa-clone fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-close</h1>
+
+    <i class="fa fa-close fa-3x"></i>
+
+    <i class="fa fa-close fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-cloud</h1>
+
+    <i class="fa fa-cloud fa-3x"></i>
+
+    <i class="fa fa-cloud fa-3x" style="color: indianred;"></i>
+    
+    <h1>fa fa-cloud-download</h1>
+
+    <i class="fa fa-cloud-download fa-3x"></i>
+
+    <i class="fa fa-cloud-download fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-cloud-upload</h1>
+
+    <i class="fa fa-cloud-upload fa-3x"></i>
+
+    <i class="fa fa-cloud-upload fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-cny</h1>
+
+    <i class="fa fa-cny fa-3x"></i>
+
+    <i class="fa fa-cny fa-3x" style="color: indianred;"></i>
+    
+    <h1>fa fa-code</h1>
+
+    <i class="fa fa-code fa-3x"></i>
+
+    <i class="fa fa-code fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-code-fork</h1>
+
+    <i class="fa fa-code-fork fa-3x"></i>
+
+    <i class="fa fa-code-fork fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-codepen</h1>
+
+    <i class="fa fa-codepen fa-3x"></i>
+
+    <i class="fa fa-codepen fa-3x" style="color: indianred;"></i>
+    
+    <h1>fa fa-codiepie</h1>
+
+    <i class="fa fa-codiepie fa-3x"></i>
+
+    <i class="fa fa-codiepie fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-coffee</h1>
+
+    <i class="fa fa-coffee fa-3x"></i>
+
+    <i class="fa fa-coffee fa-3x" style="color: indianred;"></i>
+    
+    <h1>fa fa-cog</h1>
+
+    <i class="fa fa-cog fa-3x"></i>
+
+    <i class="fa fa-cog fa-3x" style="color: indianred;"></i>
+    
+    <h1>fa fa-cogs</h1>
+
+    <i class="fa fa-cogs fa-3x"></i>
+
+    <i class="fa fa-cogs fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-columns</h1>
+
+    <i class="fa fa-columns fa-3x"></i>
+
+    <i class="fa fa-columns fa-3x" style="color: red;"></i>
+    
+    <h1>fa fa-comment</h1>
+
+    <i class="fa fa-comment fa-3x"></i>
+
+    <i class="fa fa-comment fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-comment-o</h1>
+
+    <i class="fa fa-comment-o fa-3x"></i>
+
+    <i class="fa fa-comment-o fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-comments</h1>
+
+    <i class="fa fa-comments fa-3x"></i>
+
+    <i class="fa fa-comments fa-3x" style="color: blueviolet;"></i>
+    
+    
+    <h1>fa fa-comments-o</h1>
+
+    <i class="fa fa-comments-o fa-3x"></i>
+
+    <i class="fa fa-comments-o fa-3x" style="color: blueviolet;"></i>
+    
+    
+    <h1>fa fa-commenting</h1>
+
+    <i class="fa fa-commenting fa-3x"></i>
+
+    <i class="fa fa-commenting fa-3x" style="color: blueviolet;"></i>
+    
+    <h1>fa fa-commenting-o</h1>
+
+    <i class="fa fa-commenting-o fa-3x"></i>
+
+    <i class="fa fa-commenting-o fa-3x" style="color: blueviolet;"></i>
+    
+    
+    <h1>fa fa-compass</h1>
+
+    <i class="fa fa-compass fa-3x"></i>
+
+    <i class="fa fa-compass fa-3x" style="color: blueviolet;"></i>
+    
+    
+    <h1>fa fa-compress</h1>
+
+    <i class="fa fa-compress fa-3x"></i>
+
+    <i class="fa fa-compress fa-3x" style="color: blueviolet;"></i>
+    
+    
+    <h1>fa fa-connectdevelop</h1>
+
+    <i class="fa fa-connectdevelop fa-3x"></i>
+
+    <i class="fa fa-connectdevelop fa-3x" style="color: blueviolet;"></i>
+    
+    
+    <h1>fa fa-contao</h1>
+
+    <i class="fa fa-contao fa-3x"></i>
+
+    <i class="fa fa-contao fa-3x" style="color: blueviolet;"></i>
+    
+    
+    <h1>fa fa-copy</h1>
+
+    <i class="fa fa-copy fa-3x"></i>
+
+    <i class="fa fa-copy fa-3x" style="color: blueviolet;"></i>
+    
+    
+    <h1>fa fa-copyright</h1>
+
+    <i class="fa fa-copyright fa-3x"></i>
+
+    <i class="fa fa-copyright fa-3x" style="color: blueviolet;"></i>
+    
+    
+    <h1>fa fa-creative-commons</h1>
+
+    <i class="fa fa-creative-commons fa-3x"></i>
+
+    <i class="fa fa-creative-commons fa-3x" style="color: blueviolet;"></i>
+    
+    
+    <h1>fa fa-credit-card</h1>
+
+    <i class="fa fa-credit-card fa-3x"></i>
+
+    <i class="fa fa-credit-card fa-3x" style="color: blueviolet;"></i>
+    
+    <h1>fa fa-credit-card-alt</h1>
+
+    <i class="fa fa-credit-card-alt fa-3x"></i>
+
+    <i class="fa fa-credit-card-alt fa-3x" style="color: blueviolet;"></i>
+    
+    
+    <h1>fa fa-crop</h1>
+
+    <i class="fa fa-crop fa-3x"></i>
+
+    <i class="fa fa-crop fa-3x" style="color: blueviolet;"></i>
+    
+    
+    <h1>fa fa-crosshairs</h1>
+
+    <i class="fa fa-crosshairs fa-3x"></i>
+
+    <i class="fa fa-crosshairs fa-3x" style="color: blueviolet;"></i>
+    
+    
+    <h1>fa fa-css3</h1>
+
+    <i class="fa fa-css3 fa-3x"></i>
+
+    <i class="fa fa-css3 fa-3x" style="color: blueviolet;"></i>
+    
+    
+    <h1>fa fa-cube</h1>
+
+    <i class="fa fa-cube fa-3x"></i>
+
+    <i class="fa fa-cube fa-3x" style="color: blueviolet;"></i>
+    
+    
+    <h1>fa fa-cubes</h1>
+
+    <i class="fa fa-cubes fa-3x"></i>
+
+    <i class="fa fa-cubes fa-3x" style="color: blueviolet;"></i>
+    
+    
+    <h1>fa fa-cut</h1>
+
+    <i class="fa fa-cut fa-3x"></i>
+
+    <i class="fa fa-cut fa-3x" style="color: blueviolet;"></i>
+    
+    
+    <h1>fa fa-cutlery</h1>
+
+    <i class="fa fa-cutlery fa-3x"></i>
+
+    <i class="fa fa-cutlery fa-3x" style="color: blueviolet;"></i>
+    
+
+</body>
+
+</html>

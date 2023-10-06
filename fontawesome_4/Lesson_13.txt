@@ -1,0 +1,248 @@
+********************
+
+LESSON: 13
+
+********************
+
+
+In this chapter, List of all icons starting with L.
+
+
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+    <span style="font-size: 72px; font-style: italic;">L</span>
+
+        
+    <h1>fa fa-language</h1>
+
+    <i class="fa fa-language fa-3x"></i>
+
+    <i class="fa fa-language fa-3x" style="color: #165CAA;"></i>
+    
+    
+    <h1>fa fa-laptop</h1>
+
+    <i class="fa fa-laptop fa-3x"></i>
+
+    <i class="fa fa-laptop fa-3x" style="color: #0096D6;"></i>
+    
+    
+    <h1>fa fa-lastfm</h1>
+
+    <i class="fa fa-lastfm fa-3x"></i>
+
+    <i class="fa fa-lastfm fa-3x" style="color: #c3000d;"></i>
+    
+    
+    <h1>fa fa-lastfm-square</h1>
+
+    <i class="fa fa-lastfm-square fa-3x"></i>
+
+    <i class="fa fa-lastfm-square fa-3x" style="color: #c3000d;"></i>
+    
+    
+    <h1>fa fa-leaf</h1>
+
+    <i class="fa fa-leaf fa-3x"></i>
+
+    <i class="fa fa-leaf fa-3x" style="color: #3A5F0B;"></i>
+     
+     
+    <h1>fa fa-leanpub</h1>
+
+    <i class="fa fa-leanpub fa-3x"></i>
+
+    <i class="fa fa-leanpub fa-3x" style="color: #0A6EB4;"></i>
+     
+     
+    <h1>fa fa-legal</h1>
+
+    <i class="fa fa-legal fa-3x"></i>
+
+    <i class="fa fa-legal fa-3x" style="color: #eb9405;"></i>
+     
+     
+    <h1>fa fa-lemon-o</h1>
+
+    <i class="fa fa-lemon-o fa-3x"></i>
+
+    <i class="fa fa-lemon-o fa-3x" style="color: #f9d83f;"></i>
+     
+     
+    <h1>fa fa-level-down</h1>
+
+    <i class="fa fa-level-down fa-3x"></i>
+
+    <i class="fa fa-level-down fa-3x" style="color: #4f006e;"></i>
+     
+    <h1>fa fa-level-up</h1>
+
+    <i class="fa fa-level-up fa-3x"></i>
+
+    <i class="fa fa-level-up fa-3x" style="color: #4f006e;"></i>
+     
+     
+    <h1>fa fa-life-bouy</h1>
+
+    <i class="fa fa-life-bouy fa-3x"></i>
+
+    <i class="fa fa-life-bouy fa-3x" style="color: #c93849;"></i>
+     
+     
+    <h1>fa fa-life-buoy</h1>
+
+    <i class="fa fa-life-buoy fa-3x"></i>
+
+    <i class="fa fa-life-buoy fa-3x" style="color: #c93849;"></i>
+     
+     
+    <h1>fa fa-life-ring</h1>
+
+    <i class="fa fa-life-ring fa-3x"></i>
+
+    <i class="fa fa-life-ring fa-3x" style="color: #c93849;"></i>
+     
+    <h1>fa fa-life-saver</h1>
+
+    <i class="fa fa-life-saver fa-3x"></i>
+
+    <i class="fa fa-life-saver fa-3x" style="color: #c93849;"></i>
+     
+     
+    <h1>fa fa-lightbulb-o</h1>
+
+    <i class="fa fa-lightbulb-o fa-3x"></i>
+
+    <i class="fa fa-lightbulb-o fa-3x" style="color: #b9aa0c;"></i>
+     
+     
+    <h1>fa fa-line-chart</h1>
+
+    <i class="fa fa-line-chart fa-3x"></i>
+
+    <i class="fa fa-line-chart fa-3x" style="color: #4f006e;"></i>
+     
+     
+    <h1>fa fa-link</h1>
+
+    <i class="fa fa-link fa-3x"></i>
+
+    <i class="fa fa-link fa-3x" style="color: #0000EE;"></i>
+     
+     
+    <h1>fa fa-linkedin</h1>
+
+    <i class="fa fa-linkedin fa-3x"></i>
+
+    <i class="fa fa-linkedin fa-3x" style="color: #007bb5;"></i>
+     
+    <h1>fa fa-linkedin-square</h1>
+
+    <i class="fa fa-linkedin-square fa-3x"></i>
+
+    <i class="fa fa-linkedin-square fa-3x" style="color: #007bb5;"></i>
+     
+     
+    <h1>fa fa-linode</h1>
+
+    <i class="fa fa-linode fa-3x"></i>
+
+    <i class="fa fa-linode fa-3x" style="color: #80a0ff;"></i>
+     
+     
+    <h1>fa fa-linux</h1>
+
+    <i class="fa fa-linux fa-3x"></i>
+
+    <i class="fa fa-linux fa-3x" style="color: #dd4814;"></i>
+     
+    <h1>fa fa-list</h1>
+
+    <i class="fa fa-list fa-3x"></i>
+
+    <i class="fa fa-list fa-3x" style="color: #008000;"></i>
+     
+     
+    <h1>fa fa-list-alt</h1>
+
+    <i class="fa fa-list-alt fa-3x"></i>
+
+    <i class="fa fa-list-alt fa-3x" style="color: #008000;"></i>
+     
+     
+    <h1>fa fa-list-ol</h1>
+
+    <i class="fa fa-list-ol fa-3x"></i>
+
+    <i class="fa fa-list-ol fa-3x" style="color: darkblue;"></i>
+     
+    <h1>fa fa-list-ul</h1>
+
+    <i class="fa fa-list-ul fa-3x"></i>
+
+    <i class="fa fa-list-ul fa-3x" style="color: darkblue;"></i>
+     
+     
+    <h1>fa fa-location-arrow</h1>
+
+    <i class="fa fa-location-arrow fa-3x"></i>
+
+    <i class="fa fa-location-arrow fa-3x" style="color: #339966;"></i>
+     
+     
+    <h1>fa fa-lock</h1>
+
+    <i class="fa fa-lock fa-3x"></i>
+
+    <i class="fa fa-lock fa-3x" style="color: #0c73d8;"></i>
+     
+     
+    <h1>fa fa-long-arrow-down</h1>
+
+    <i class="fa fa-long-arrow-down fa-3x"></i>
+
+    <i class="fa fa-long-arrow-down fa-3x" style="color: #0c73d8;"></i>
+     
+    
+    <h1>fa fa-long-arrow-left</h1>
+
+    <i class="fa fa-long-arrow-left fa-3x"></i>
+
+    <i class="fa fa-long-arrow-left fa-3x" style="color: #0c73d8;"></i>
+     
+     
+    <h1>fa fa-long-arrow-right</h1>
+
+    <i class="fa fa-long-arrow-right fa-3x"></i>
+
+    <i class="fa fa-long-arrow-right fa-3x" style="color: #0c73d8;"></i>
+     
+     
+    <h1>fa fa-long-arrow-up</h1>
+
+    <i class="fa fa-long-arrow-up fa-3x"></i>
+
+    <i class="fa fa-long-arrow-up fa-3x" style="color: #0c73d8;"></i>
+     
+     
+    <h1>fa fa-low-vision</h1>
+
+    <i class="fa fa-low-vision fa-3x"></i>
+
+    <i class="fa fa-low-vision fa-3x" style="color: #d55e00;"></i>
+      
+
+</body>
+
+</html>

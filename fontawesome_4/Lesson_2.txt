@@ -1,0 +1,340 @@
+********************
+
+LESSON: 02
+
+********************
+
+In this chapter, List of all icons starting with A.
+
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    
+    <span style="font-size: 72px; font-style: italic;">A</span>
+
+    <h1>fa fa-500px</h1>
+
+    <i class="fa fa-500px fa-3x"></i>
+    
+    <i class="fa fa-500px fa-3x" style="color: #2962ff;"></i>
+    
+    <h1>fa fa-address-book-o</h1>
+
+    <i class="fa fa-address-book-o fa-3x"></i>
+    
+    <i class="fa fa-address-book-o fa-3x" style="color: red;"></i>
+    
+    <h1>fa fa-address-card</h1>
+
+    <i class="fa fa-address-card fa-3x"></i>
+    
+    <i class="fa fa-address-card fa-3x" style="color: gray;"></i>
+    
+    <h1>fa fa-address-card-o</h1>
+
+    <i class="fa fa-address-card-o fa-3x"></i>
+    
+    <i class="fa fa-address-card-o fa-3x" style="color: coral;"></i>
+    
+    <h1>fa fa-adjust</h1>
+
+    <i class="fa fa-adjust fa-3x"></i>
+    
+    <i class="fa fa-adjust fa-3x" style="color: #507cff;"></i>
+    
+    <h1>fa fa-adn </h1>
+
+    <i class="fa fa-adn fa-3x"></i>
+    
+    <i class="fa fa-adn fa-3x" style="color: darkorange;"></i>
+    
+    <h1>fa fa-align-center </h1>
+
+    <i class="fa fa-align-center fa-3x"></i>
+    
+    <i class="fa fa-align-center fa-3x" style="color: cornflowerblue;"></i>
+    
+    <h1>fa fa-align-justify </h1>
+
+    <i class="fa fa-align-justify fa-3x"></i>
+    
+    <i class="fa fa-align-justify fa-3x" style="color: peru;"></i>
+    
+    <h1>fa fa-align-left </h1>
+
+    <i class="fa fa-align-left fa-3x"></i>
+    
+    <i class="fa fa-align-left fa-3x" style="color: red;"></i>
+    
+    <h1>fa fa-align-right </h1>
+
+    <i class="fa fa-align-right fa-3x"></i>
+    
+    <i class="fa fa-align-right fa-3x" style="color: blue;"></i>
+    
+    <h1>fa fa-amazon </h1>
+
+    <i class="fa fa-amazon fa-3x"></i>
+    
+    <i class="fa fa-amazon fa-3x" style="color: darkorange;"></i>
+    
+    <h1>fa fa-ambulance </h1>
+
+    <i class="fa fa-ambulance fa-3x"></i>
+    
+    <i class="fa fa-ambulance fa-3x" style="color: cadetblue;"></i>
+    
+    
+    <h1>fa fa-american-sign-language-interpreting </h1>
+
+    <i class="fa fa-american-sign-language-interpreting fa-3x"></i>
+    
+    <i class="fa fa-american-sign-language-interpreting fa-3x" style="color: darkkhaki;"></i>
+    
+    
+    <h1>fa fa-anchor </h1>
+
+    <i class="fa fa-anchor fa-3x"></i>
+    
+    <i class="fa fa-anchor fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-android </h1>
+
+    <i class="fa fa-android fa-3x"></i>
+    
+    <i class="fa fa-android fa-3x" style="color: greenyellow;"></i>
+    
+    
+    <h1>fa fa-angellist </h1>
+
+    <i class="fa fa-angellist fa-3x"></i>
+    
+    <i class="fa fa-angellist fa-3x" style="color: violet;"></i>
+    
+    
+    <h1>fa fa-angle-double-down </h1>
+
+    <i class="fa fa-angle-double-down fa-3x"></i>
+    
+    <i class="fa fa-angle-double-down fa-3x" style="color: chocolate;"></i>
+    
+    <h1>fa fa-angle-double-left </h1>
+
+    <i class="fa fa-angle-double-left fa-3x"></i>
+    
+    <i class="fa fa-angle-double-left fa-3x" style="color: chocolate;"></i>
+    
+    <h1>fa fa-angle-double-right </h1>
+
+    <i class="fa fa-angle-double-right fa-3x"></i>
+    
+    <i class="fa fa-angle-double-right fa-3x" style="color: chocolate;"></i>
+    
+    <h1>fa fa-angle-double-up </h1>
+
+    <i class="fa fa-angle-double-up fa-3x"></i>
+    
+    <i class="fa fa-angle-double-up fa-3x" style="color: chocolate;"></i>
+    
+    
+    <h1>fa fa-angle-up </h1>
+
+    <i class="fa fa-angle-up fa-3x"></i>
+    
+    <i class="fa fa-angle-up fa-3x" style="color: chocolate;"></i>
+    
+    <h1>fa fa-angle-right </h1>
+
+    <i class="fa fa-angle-right fa-3x"></i>
+    
+    <i class="fa fa-angle-right fa-3x" style="color: chocolate;"></i>
+    
+    <h1>fa fa-angle-down </h1>
+
+    <i class="fa fa-angle-down fa-3x"></i>
+    
+    <i class="fa fa-angle-down fa-3x" style="color: chocolate;"></i>
+    
+    <h1>fa fa-angle-left </h1>
+
+    <i class="fa fa-angle-left fa-3x"></i>
+    
+    <i class="fa fa-angle-left fa-3x" style="color: chocolate;"></i>
+    
+    <h1>fa fa-apple </h1>
+
+    <i class="fa fa-apple fa-3x"></i>
+    
+    <i class="fa fa-apple fa-3x" style="color: chocolate;"></i>
+    
+    <h1>fa fa-archive </h1>
+
+    <i class="fa fa-archive fa-3x"></i>
+    
+    <i class="fa fa-archive fa-3x" style="color: chocolate;"></i>
+    
+    <h1>fa fa-area-chart </h1>
+
+    <i class="fa fa-area-chart fa-3x"></i>
+    
+    <i class="fa fa-area-chart fa-3x" style="color: chocolate;"></i>
+
+    <h1>fa fa-arrow-circle-down </h1>
+
+    <i class="fa fa-arrow-circle-down fa-3x"></i>
+    
+    <i class="fa fa-arrow-circle-down fa-3x" style="color: chocolate;"></i>
+    
+    
+    <h1>fa fa-arrow-circle-left </h1>
+
+    <i class="fa fa-arrow-circle-left fa-3x"></i>
+    
+    <i class="fa fa-arrow-circle-left fa-3x" style="color: chocolate;"></i>
+    
+    <h1>fa fa-arrow-circle-right </h1>
+
+    <i class="fa fa-arrow-circle-right fa-3x"></i>
+    
+    <i class="fa fa-arrow-circle-right fa-3x" style="color: chocolate;"></i>
+    
+    <h1>fa fa-arrow-circle-up </h1>
+
+    <i class="fa fa-arrow-circle-up fa-3x"></i>
+    
+    <i class="fa fa-arrow-circle-up fa-3x" style="color: chocolate;"></i>
+    
+    
+    <h1>fa fa-arrow-circle-o-down</h1>
+
+    <i class="fa fa-arrow-circle-o-down fa-3x"></i>
+    
+    <i class="fa fa-arrow-circle-o-down fa-3x" style="color: chocolate;"></i>
+    
+    <h1>fa fa-arrow-circle-o-left</h1>
+
+    <i class="fa fa-arrow-circle-o-left fa-3x"></i>
+    
+    <i class="fa fa-arrow-circle-o-left fa-3x" style="color: chocolate;"></i>
+    
+    
+    <h1>fa fa-arrow-circle-o-right</h1>
+
+    <i class="fa fa-arrow-circle-o-right fa-3x"></i>
+    
+    <i class="fa fa-arrow-circle-o-right fa-3x" style="color: chocolate;"></i>
+    
+    <h1>fa fa-arrow-circle-o-up</h1>
+
+    <i class="fa fa-arrow-circle-o-up fa-3x"></i>
+    
+    <i class="fa fa-arrow-circle-o-up fa-3x" style="color: chocolate;"></i> 
+    
+    
+    <h1>fa fa-arrow-down</h1>
+
+    <i class="fa fa-arrow-down fa-3x"></i>
+    
+    <i class="fa fa-arrow-down fa-3x" style="color: chocolate;"></i>
+    
+    
+    <h1>fa fa-arrow-left</h1>
+
+    <i class="fa fa-arrow-left fa-3x"></i>
+    
+    <i class="fa fa-arrow-left fa-3x" style="color: chocolate;"></i>
+    
+    <h1>fa fa-arrow-right</h1>
+
+    <i class="fa fa-arrow-right fa-3x"></i>
+    
+    <i class="fa fa-arrow-right fa-3x" style="color: chocolate;"></i>
+    
+    <h1>fa fa-arrow-up</h1>
+
+    <i class="fa fa-arrow-up fa-3x"></i>
+    
+    <i class="fa fa-arrow-up fa-3x" style="color: chocolate;"></i>
+    
+    <h1>fa fa-arrows</h1>
+
+    <i class="fa fa-arrows fa-3x"></i>
+    
+    <i class="fa fa-arrows fa-3x" style="color: chocolate;"></i>
+    
+    <h1>fa fa-arrows-alt</h1>
+
+    <i class="fa fa-arrows-alt fa-3x"></i>
+    
+    <i class="fa fa-arrows-alt fa-3x" style="color: chocolate;"></i>
+    
+    <h1>fa fa-arrows-h</h1>
+
+    <i class="fa fa-arrows-h fa-3x"></i>
+    
+    <i class="fa fa-arrows-h fa-3x" style="color: chocolate;"></i>
+    
+    <h1>fa fa-arrows-v</h1>
+
+    <i class="fa fa-arrows-v fa-3x"></i>
+    
+    <i class="fa fa-arrows-v fa-3x" style="color: chocolate;"></i>
+    
+    
+    <h1>fa fa-asl-interpreting</h1>
+
+    <i class="fa fa-asl-interpreting fa-3x"></i>
+    
+    <i class="fa fa-asl-interpreting fa-3x" style="color: chocolate;"></i>
+    
+    
+    <h1>fa fa-assistive-listening-systems</h1>
+
+    <i class="fa fa-assistive-listening-systems fa-3x"></i>
+    
+    <i class="fa fa-assistive-listening-systems fa-3x" style="color: chocolate;"></i>
+    
+    
+    <h1>fa fa-asterisk</h1>
+
+    <i class="fa fa-asterisk fa-3x"></i>
+    
+    <i class="fa fa-asterisk fa-3x" style="color: chocolate;"></i>
+    
+    
+    <h1>fa fa-at</h1>
+
+    <i class="fa fa-at fa-3x"></i>
+    
+    <i class="fa fa-at fa-3x" style="color: chocolate;"></i>
+    
+    
+    <h1>fa fa-audio-description</h1>
+
+    <i class="fa fa-audio-description fa-3x"></i>
+    
+    <i class="fa fa-audio-description fa-3x" style="color: chocolate;"></i>
+    
+    <h1>fa fa-automobile</h1>
+
+    <i class="fa fa-automobile fa-3x"></i>
+    
+    <i class="fa fa-automobile fa-3x" style="color: chocolate;"></i>
+    
+    
+
+</body>
+
+</html>
+
+

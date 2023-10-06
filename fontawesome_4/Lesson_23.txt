@@ -1,0 +1,93 @@
+********************
+
+LESSON: 23
+
+********************
+
+In this chapter, List of all icons starting with V.
+
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css" />
+  </head>
+  <body>
+    <!-- Font and its syle -->
+    <span style="font-size: 72px; font-style: italic">V</span>
+
+    <h1>fa fa-vcard</h1>
+    <i class="fa fa-vcard fa-3x"></i>
+    <i class="fa fa-vcard fa-3x" style="color: #18acb6"></i>
+
+    <h1>fa fa-vcard-o</h1>
+    <i class="fa fa-vcard-o fa-3x"></i>
+    <i class="fa fa-vcard-o fa-3x" style="color: #18acb6"></i>
+
+    <h1>fa fa-venus</h1>
+    <i class="fa fa-venus fa-3x"></i>
+    <i class="fa fa-venus fa-3x" style="color: #8b7d82"></i>
+
+    <h1>fa fa-venus-double</h1>
+    <i class="fa fa-venus-double fa-3x"></i>
+    <i class="fa fa-venus-double fa-3x" style="color: #8b7d82"></i>
+
+    <h1>fa fa-venus-mars</h1>
+    <i class="fa fa-venus-mars fa-3x"></i>
+    <i class="fa fa-venus-mars fa-3x" style="color: #8b7d82"></i>
+
+    <h1>fa fa-viacoin</h1>
+    <i class="fa fa-viacoin fa-3x"></i>
+    <i class="fa fa-viacoin fa-3x" style="color: dodgerblue"></i>
+
+    <h1>fa fa-viadeo</h1>
+    <i class="fa fa-viadeo fa-3x"></i>
+    <i class="fa fa-viadeo fa-3x" style="color: dodgerblue"></i>
+
+    <h1>fa fa-viadeo-square</h1>
+    <i class="fa fa-viadeo-square fa-3x"></i>
+    <i class="fa fa-viadeo-square fa-3x" style="color: dodgerblue"></i>
+
+    <h1>fa fa-video-camera</h1>
+    <i class="fa fa-video-camera fa-3x"></i>
+    <i class="fa fa-video-camera fa-3x" style="color: #2da2e1"></i>
+
+    <h1>fa fa-vimeo</h1>
+    <i class="fa fa-vimeo fa-3x"></i>
+    <i class="fa fa-vimeo fa-3x" style="color: #0a6ca5"></i>
+
+    <h1>fa fa-vimeo-square</h1>
+    <i class="fa fa-vimeo-square fa-3x"></i>
+    <i class="fa fa-vimeo-square fa-3x" style="color: #0a6ca5"></i>
+
+    <h1>fa fa-vine</h1>
+    <i class="fa fa-vine fa-3x"></i>
+    <i class="fa fa-vine fa-3x" style="color: #00a478"></i>
+
+    <h1>fa fa-vk</h1>
+    <i class="fa fa-vk fa-3x"></i>
+    <i class="fa fa-vk fa-3x" style="color: #4c75a3"></i>
+
+    <h1>fa fa-volume-control-phone</h1>
+    <i class="fa fa-volume-control-phone fa-3x"></i>
+    <i class="fa fa-volume-control-phone fa-3x" style="color: red"></i>
+
+    <h1>fa fa-volume-down</h1>
+    <i class="fa fa-volume-down fa-3x"></i>
+    <i class="fa fa-volume-down fa-3x" style="color: red"></i>
+
+    <h1>fa fa-volume-off</h1>
+    <i class="fa fa-volume-off fa-3x"></i>
+    <i class="fa fa-volume-off fa-3x" style="color: red"></i>
+
+    <h1>fa fa-volume-up</h1>
+    <i class="fa fa-volume-up fa-3x"></i>
+    <i class="fa fa-volume-up fa-3x" style="color: red"></i>
+    
+  </body>
+</html>

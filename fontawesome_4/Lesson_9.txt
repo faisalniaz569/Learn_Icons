@@ -1,0 +1,286 @@
+********************
+
+LESSON: 09
+
+********************
+
+
+In this chapter, List of all icons starting with H.
+
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+    <span style="font-size: 72px; font-style: italic;">H</span>
+
+        
+    <h1>fa fa-h-square</h1>
+
+    <i class="fa fa-h-square fa-3x"></i>
+
+    <i class="fa fa-h-square fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-hacker-news</h1>
+
+    <i class="fa fa-hacker-news fa-3x"></i>
+
+    <i class="fa fa-hacker-news fa-3x" style="color: #ff6600;"></i>
+    
+    <h1>fa fa-hand-grab-o</h1>
+
+    <i class="fa fa-hand-grab-o fa-3x"></i>
+
+    <i class="fa fa-hand-grab-o fa-3x" style="color: #b46438;"></i>
+    
+    <h1>fa fa-hand-lizard-o</h1>
+
+    <i class="fa fa-hand-lizard-o fa-3x"></i>
+
+    <i class="fa fa-hand-lizard-o fa-3x" style="color: #b46438;"></i>
+    
+    
+    <h1>fa fa-hand-o-down</h1>
+
+    <i class="fa fa-hand-o-down fa-3x"></i>
+
+    <i class="fa fa-hand-o-down fa-3x" style="color: #b46438;"></i>
+    
+    <h1>fa fa-hand-o-right</h1>
+
+    <i class="fa fa-hand-o-right fa-3x"></i>
+
+    <i class="fa fa-hand-o-right fa-3x" style="color: #b46438;"></i>
+    
+    
+    <h1>fa fa-hand-o-up</h1>
+
+    <i class="fa fa-hand-o-up fa-3x"></i>
+
+    <i class="fa fa-hand-o-up fa-3x" style="color: #b46438;"></i>
+    
+    <h1>fa fa-hand-o-left</h1>
+
+    <i class="fa fa-hand-o-left fa-3x"></i>
+
+    <i class="fa fa-hand-o-left fa-3x" style="color: #b46438;"></i>
+    
+    
+    <h1>fa fa-hand-paper-o</h1>
+
+    <i class="fa fa-hand-paper-o fa-3x"></i>
+
+    <i class="fa fa-hand-paper-o fa-3x" style="color: #b46438;"></i>
+    
+    
+    <h1>fa fa-hand-peace-o</h1>
+
+    <i class="fa fa-hand-peace-o fa-3x"></i>
+
+    <i class="fa fa-hand-peace-o fa-3x" style="color: #b46438;"></i>
+    
+    
+    <h1>fa fa-hand-pointer-o</h1>
+
+    <i class="fa fa-hand-pointer-o fa-3x"></i>
+
+    <i class="fa fa-hand-pointer-o fa-3x" style="color: #b46438;"></i>
+    
+    
+    <h1>fa fa-hand-rock-o</h1>
+
+    <i class="fa fa-hand-rock-o fa-3x"></i>
+
+    <i class="fa fa-hand-rock-o fa-3x" style="color: #b46438;"></i>
+    
+    
+    <h1>fa fa-hand-scissors-o</h1>
+
+    <i class="fa fa-hand-scissors-o fa-3x"></i>
+
+    <i class="fa fa-hand-scissors-o fa-3x" style="color: #b46438;"></i>
+    
+    
+    <h1>fa fa-hand-spock-o</h1>
+
+    <i class="fa fa-hand-spock-o fa-3x"></i>
+
+    <i class="fa fa-hand-spock-o fa-3x" style="color: #b46438;"></i>
+    
+    
+    <h1>fa fa-hand-stop-o</h1>
+
+    <i class="fa fa-hand-stop-o fa-3x"></i>
+
+    <i class="fa fa-hand-stop-o fa-3x" style="color: #b46438;"></i>
+    
+    
+    <h1>fa fa-handshake-o</h1>
+
+    <i class="fa fa-handshake-o fa-3x"></i>
+
+    <i class="fa fa-handshake-o fa-3x" style="color: #b46438;"></i>
+    
+    
+    <h1>fa fa-hard-of-hearing</h1>
+
+    <i class="fa fa-hard-of-hearing fa-3x"></i>
+
+    <i class="fa fa-hard-of-hearing fa-3x" style="color: #b46438;"></i>
+    
+    
+    <h1>fa fa-hashtag</h1>
+
+    <i class="fa fa-hashtag fa-3x"></i>
+
+    <i class="fa fa-hashtag fa-3x" style="color: #003EFF;"></i>
+    
+    
+    <h1>fa fa-hdd-o</h1>
+
+    <i class="fa fa-hdd-o fa-3x"></i>
+
+    <i class="fa fa-hdd-o fa-3x" style="color: indianred;"></i>
+    
+    
+    <h1>fa fa-header</h1>
+
+    <i class="fa fa-header fa-3x"></i>
+
+    <i class="fa fa-header fa-3x" style="color: #003EFF;"></i>
+    
+    
+    <h1>fa fa-headphones</h1>
+
+    <i class="fa fa-headphones fa-3x"></i>
+
+    <i class="fa fa-headphones fa-3x" style="color: #003EFF;"></i>
+    
+    <h1>fa fa-heart</h1>
+
+    <i class="fa fa-heart fa-3x"></i>
+
+    <i class="fa fa-heart fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-heart-o</h1>
+
+    <i class="fa fa-heart-o fa-3x"></i>
+
+    <i class="fa fa-heart-o fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-heartbeat</h1>
+
+    <i class="fa fa-heartbeat fa-3x"></i>
+
+    <i class="fa fa-heartbeat fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-history</h1>
+
+    <i class="fa fa-history fa-3x"></i>
+
+    <i class="fa fa-history fa-3x" style="color: #a097c4;"></i>
+    
+    <h1>fa fa-home</h1>
+
+    <i class="fa fa-home fa-3x"></i>
+
+    <i class="fa fa-home fa-3x" style="color: #44097b;"></i>
+    
+    
+    <h1>fa fa-hospital-o</h1>
+
+    <i class="fa fa-hospital-o fa-3x"></i>
+
+    <i class="fa fa-hospital-o fa-3x" style="color: #44097b;"></i>
+    
+    
+    <h1>fa fa-hotel</h1>
+
+    <i class="fa fa-hotel fa-3x"></i>
+
+    <i class="fa fa-hotel fa-3x" style="color: #b1694d;"></i>
+    
+    <h1>fa fa-hourglass</h1>
+
+    <i class="fa fa-hourglass fa-3x"></i>
+
+    <i class="fa fa-hourglass fa-3x" style="color: #d1a811;"></i>
+    
+    
+    <h1>fa fa-hourglass-1</h1>
+
+    <i class="fa fa-hourglass-1 fa-3x"></i>
+
+    <i class="fa fa-hourglass-1 fa-3x" style="color: #d1a811;"></i>
+    
+    <h1>fa fa-hourglass-start</h1>
+
+    <i class="fa fa-hourglass-start fa-3x"></i>
+
+    <i class="fa fa-hourglass-start fa-3x" style="color: #d1a811;"></i>
+    
+    
+    <h1>fa fa-hourglass-2</h1>
+
+    <i class="fa fa-hourglass-2 fa-3x"></i>
+
+    <i class="fa fa-hourglass-2 fa-3x" style="color: #d1a811;"></i>
+    
+    <h1>fa fa-hourglass-half</h1>
+
+    <i class="fa fa-hourglass-half fa-3x"></i>
+
+    <i class="fa fa-hourglass-half fa-3x" style="color: #d1a811;"></i>
+    
+    
+    <h1>fa fa-hourglass-3</h1>
+
+    <i class="fa fa-hourglass-3 fa-3x"></i>
+
+    <i class="fa fa-hourglass-3 fa-3x" style="color: #d1a811;"></i>
+    
+    
+    <h1>fa fa-hourglass-end</h1>
+
+    <i class="fa fa-hourglass-end fa-3x"></i>
+
+    <i class="fa fa-hourglass-end fa-3x" style="color: #d1a811;"></i>
+    
+    
+    <h1>fa fa-hourglass-o</h1>
+
+    <i class="fa fa-hourglass-o fa-3x"></i>
+
+    <i class="fa fa-hourglass-o fa-3x" style="color: #d1a811;"></i>
+    
+    
+    <h1>fa fa-houzz</h1>
+
+    <i class="fa fa-houzz fa-3x"></i>
+
+    <i class="fa fa-houzz fa-3x" style="color: #73ba37;"></i>
+    
+    
+    <h1>fa fa-html5</h1>
+
+    <i class="fa fa-html5 fa-3x"></i>
+
+    <i class="fa fa-html5 fa-3x" style="color: #e34c26;"></i>
+    
+    
+
+</body>
+
+</html>

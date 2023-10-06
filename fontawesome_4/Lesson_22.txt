@@ -1,0 +1,110 @@
+********************
+
+LESSON: 22
+
+********************
+
+In this chapter, List of all icons starting with U.
+
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css" />
+  </head>
+  <body>
+    <!-- Font and its syle -->
+    <span style="font-size: 72px; font-style: italic">U</span>
+
+    <h1>fa fa-umbrella</h1>
+    <i class="fa fa-umbrella fa-3x"></i>
+    <i class="fa fa-umbrella fa-3x" style="color: #500202"></i>
+
+    <h1>fa fa-underline</h1>
+    <i class="fa fa-underline fa-3x"></i>
+    <i class="fa fa-underline fa-3x" style="color: red"></i>
+
+    <h1>fa fa-undo</h1>
+    <i class="fa fa-undo fa-3x"></i>
+    <i class="fa fa-undo fa-3x" style="color: #5f4197"></i>
+
+    <h1>fa fa-universal-access</h1>
+    <i class="fa fa-universal-access fa-3x"></i>
+    <i class="fa fa-universal-access fa-3x" style="color: darkblue"></i>
+
+    <h1>fa fa-university</h1>
+    <i class="fa fa-university fa-3x"></i>
+    <i class="fa fa-university fa-3x" style="color: #316fb4"></i>
+
+    <h1>fa fa-unlink</h1>
+    <i class="fa fa-unlink fa-3x"></i>
+    <i class="fa fa-unlink fa-3x" style="color: #c70000"></i>
+
+    <h1>fa fa-unlock</h1>
+    <i class="fa fa-unlock fa-3x"></i>
+    <i class="fa fa-unlock fa-3x" style="color: red"></i>
+
+    <h1>fa fa-unlock-alt</h1>
+    <i class="fa fa-unlock-alt fa-3x"></i>
+    <i class="fa fa-unlock-alt fa-3x" style="color: red"></i>
+
+    <h1>fa fa-unsorted</h1>
+    <i class="fa fa-unsorted fa-3x"></i>
+    <i class="fa fa-unsorted fa-3x" style="color: red"></i>
+
+    <h1>fa fa-upload</h1>
+    <i class="fa fa-upload fa-3x"></i>
+    <i class="fa fa-upload fa-3x" style="color: red"></i>
+
+    <h1>fa fa-usb</h1>
+    <i class="fa fa-usb fa-3x"></i>
+    <i class="fa fa-usb fa-3x" style="color: green"></i>
+
+    <h1>fa fa-usd</h1>
+    <i class="fa fa-usd fa-3x"></i>
+    <i class="fa fa-usd fa-3x" style="color: #85bb65"></i>
+
+    <h1>fa fa-user</h1>
+    <i class="fa fa-user fa-3x"></i>
+    <i class="fa fa-user fa-3x" style="color: Purple"></i>
+
+    <h1>fa fa-user-circle</h1>
+    <i class="fa fa-user-circle fa-3x"></i>
+    <i class="fa fa-user-circle fa-3x" style="color: Purple"></i>
+
+    <h1>fa fa-user-circle-o</h1>
+    <i class="fa fa-user-circle-o fa-3x"></i>
+    <i class="fa fa-user-circle-o fa-3x" style="color: Purple"></i>
+
+    <h1>fa fa-user-md</h1>
+    <i class="fa fa-user-md fa-3x"></i>
+    <i class="fa fa-user-md fa-3x" style="color: peru"></i>
+
+    <h1>fa fa-user-o</h1>
+    <i class="fa fa-user-o fa-3x"></i>
+    <i class="fa fa-user-o fa-3x" style="color: peru"></i>
+
+    <h1>fa fa-user-plus</h1>
+    <i class="fa fa-user-plus fa-3x"></i>
+    <i class="fa fa-user-plus fa-3x" style="color:  #db4a39"></i>
+
+    <h1>fa fa-user-secret</h1>
+    <i class="fa fa-user-secret fa-3x"></i>
+    <i class="fa fa-user-secret fa-3x" style="color:  #E3606B;"></i>
+
+    <h1>fa fa-user-times</h1>
+    <i class="fa fa-user-times fa-3x"></i>
+    <i class="fa fa-user-times fa-3x" style="color:  #63A41B"></i>
+
+    <h1>fa fa-users</h1>
+    <i class="fa fa-users fa-3x"></i>
+    <i class="fa fa-users fa-3x" style="color:  #2da2e1"></i>
+
+</body>
+    
+</html>

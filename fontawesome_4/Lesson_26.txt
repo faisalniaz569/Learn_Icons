@@ -1,0 +1,68 @@
+********************
+
+LESSON: 26
+
+********************
+
+In this chapter, List of all icons starting with Y.
+
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css" />
+  </head>
+  <body>
+    <!-- Font and its syle -->
+    <span style="font-size: 72px; font-style: italic">Y</span>
+
+    <h1>fa fa-y-combinator</h1>
+    <i class="fa fa-y-combinator fa-3x"></i>
+    <i class="fa fa-y-combinator fa-3x" style="color: #f3621d"></i>
+
+    <h1>fa fa-y-combinator-square</h1>
+    <i class="fa fa-y-combinator-square fa-3x"></i>
+    <i class="fa fa-y-combinator-square fa-3x" style="color: #f3621d"></i>
+
+    <h1>fa fa-yahoo</h1>
+    <i class="fa fa-yahoo fa-3x"></i>
+    <i class="fa fa-yahoo fa-3x" style="color: #6001d2"></i>
+
+    <h1>fa fa-yc</h1>
+    <i class="fa fa-yc fa-3x"></i>
+    <i class="fa fa-yc fa-3x" style="color: #6001d2"></i>
+
+    <h1>fa fa-yc-square</h1>
+    <i class="fa fa-yc-square fa-3x"></i>
+    <i class="fa fa-yc-square fa-3x" style="color: #6001d2"></i>
+
+    <h1>fa fa-yelp</h1>
+    <i class="fa fa-yelp fa-3x"></i>
+    <i class="fa fa-yelp fa-3x" style="color: #ff1a1a"></i>
+
+    <h1>fa fa-yen</h1>
+    <i class="fa fa-yen fa-3x"></i>
+    <i class="fa fa-yen fa-3x" style="color: #dd533e"></i>
+
+    <h1>fa fa-yoast</h1>
+    <i class="fa fa-yoast fa-3x"></i>
+    <i class="fa fa-yoast fa-3x" style="color: #8c1e59"></i>
+
+    <h1>fa fa-youtube</h1>
+    <i class="fa fa-youtube fa-3x"></i>
+    <i class="fa fa-youtube fa-3x" style="color: red"></i>
+
+    <h1>fa fa-youtube-play</h1>
+    <i class="fa fa-youtube-play fa-3x"></i>
+    <i class="fa fa-youtube-play fa-3x" style="color: red"></i>
+
+    <h1>fa fa-youtube-square</h1>
+    <i class="fa fa-youtube-square fa-3x"></i>
+    <i class="fa fa-youtube-square fa-3x" style="color: red"></i>
+  </body>
+</html>

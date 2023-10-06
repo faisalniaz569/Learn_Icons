@@ -1,0 +1,228 @@
+********************
+
+LESSON: 19
+
+********************
+
+
+In this chapter, List of all icons starting with R.
+
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+    <span style="font-size: 72px; font-style: italic;">R</span>
+
+        
+    <h1>fa fa-ra</h1>
+
+    <i class="fa fa-ra fa-3x"></i>
+
+    <i class="fa fa-ra fa-3x" style="color: #fa560a;"></i>
+    
+    <h1>fa fa-rebel</h1>
+
+    <i class="fa fa-rebel fa-3x"></i>
+
+    <i class="fa fa-rebel fa-3x" style="color: #fa560a;"></i>
+    
+    <h1>fa fa-resistance</h1>
+
+    <i class="fa fa-resistance fa-3x"></i>
+
+    <i class="fa fa-resistance fa-3x" style="color: #fa560a;"></i>
+    
+    
+    <h1>fa fa-random</h1>
+
+    <i class="fa fa-random fa-3x"></i>
+
+    <i class="fa fa-random fa-3x" style="color: #DD3E3E;"></i>
+    
+    
+    <h1>fa fa-ravelry</h1>
+
+    <i class="fa fa-ravelry fa-3x"></i>
+
+    <i class="fa fa-ravelry fa-3x" style="color: #6CADDF;"></i>
+    
+    <h1>fa fa-recycle</h1>
+
+    <i class="fa fa-recycle fa-3x"></i>
+
+    <i class="fa fa-recycle fa-3x" style="color: #597226;"></i>
+    
+    
+    <h1>fa fa-reddit</h1>
+
+    <i class="fa fa-reddit fa-3x"></i>
+
+    <i class="fa fa-reddit fa-3x" style="color: #ff4500;"></i>
+    
+    
+    <h1>fa fa-reddit-alien</h1>
+
+    <i class="fa fa-reddit-alien fa-3x"></i>
+
+    <i class="fa fa-reddit-alien fa-3x" style="color: #ff4500;"></i>
+    
+    
+    <h1>fa fa-reddit-square</h1>
+
+    <i class="fa fa-reddit-square fa-3x"></i>
+
+    <i class="fa fa-reddit-square fa-3x" style="color: #ff4500;"></i>
+    
+    
+    <h1>fa fa-refresh</h1>
+
+    <i class="fa fa-refresh fa-3x"></i>
+
+    <i class="fa fa-refresh fa-3x" style="color: #3d6554;"></i>
+    
+    
+    <h1>fa fa-registered</h1>
+
+    <i class="fa fa-registered fa-3x"></i>
+
+    <i class="fa fa-registered fa-3x" style="color: #373123;"></i>
+    
+    
+    <h1>fa fa-remove</h1>
+
+    <i class="fa fa-remove fa-3x"></i>
+
+    <i class="fa fa-remove fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-renren</h1>
+
+    <i class="fa fa-renren fa-3x"></i>
+
+    <i class="fa fa-renren fa-3x" style="color: #015496;"></i>
+    
+    
+    <h1>fa fa-reorder</h1>
+
+    <i class="fa fa-reorder fa-3x"></i>
+
+    <i class="fa fa-reorder fa-3x" style="color: #015496;"></i>
+    
+    
+    <h1>fa fa-repeat</h1>
+
+    <i class="fa fa-repeat fa-3x"></i>
+
+    <i class="fa fa-repeat fa-3x" style="color: #17ce56;"></i>
+    
+    
+    <h1>fa fa-reply</h1>
+
+    <i class="fa fa-reply fa-3x"></i>
+
+    <i class="fa fa-reply fa-3x" style="color: #0f0;"></i>
+    
+    
+    <h1>fa fa-reply-all</h1>
+
+    <i class="fa fa-reply-all fa-3x"></i>
+
+    <i class="fa fa-reply-all fa-3x" style="color: #0f0;"></i>
+    
+    
+    <h1>fa fa-retweet</h1>
+
+    <i class="fa fa-retweet fa-3x"></i>
+
+    <i class="fa fa-retweet fa-3x" style="color: #1DA1F2;"></i>
+    
+    
+    <h1>fa fa-rmb</h1>
+
+    <i class="fa fa-rmb fa-3x"></i>
+
+    <i class="fa fa-rmb fa-3x" style="color: #f0e428;"></i>
+    
+    
+    <h1>fa fa-road</h1>
+
+    <i class="fa fa-road fa-3x"></i>
+
+    <i class="fa fa-road fa-3x" style="color: #2E8044;"></i>
+    
+    
+    <h1>fa fa-rocket</h1>
+
+    <i class="fa fa-rocket fa-3x"></i>
+
+    <i class="fa fa-rocket fa-3x" style="color: #ba3b3d;"></i>
+    
+    
+    <h1>fa fa-rotate-left</h1>
+
+    <i class="fa fa-rotate-left fa-3x"></i>
+
+    <i class="fa fa-rotate-left fa-3x" style="color: #3D6CB6;"></i>
+    
+    
+    <h1>fa fa-rotate-right</h1>
+
+    <i class="fa fa-rotate-right fa-3x"></i>
+
+    <i class="fa fa-rotate-right fa-3x" style="color: #3D6CB6;"></i>
+    
+    
+    <h1>fa fa-rouble</h1>
+
+    <i class="fa fa-rouble fa-3x"></i>
+
+    <i class="fa fa-rouble fa-3x" style="color: #D48E00;"></i>
+    
+    <h1>fa fa-rub</h1>
+
+    <i class="fa fa-rub fa-3x"></i>
+
+    <i class="fa fa-rub fa-3x" style="color: #D48E00;"></i>
+    
+    
+    <h1>fa fa-ruble</h1>
+
+    <i class="fa fa-ruble fa-3x"></i>
+
+    <i class="fa fa-ruble fa-3x" style="color: #D48E00;"></i>
+    
+    
+    <h1>fa fa-rss</h1>
+
+    <i class="fa fa-rss fa-3x"></i>
+
+    <i class="fa fa-rss fa-3x" style="color: #E77C2E;"></i>
+    
+    
+    <h1>fa fa-rss-square</h1>
+
+    <i class="fa fa-rss-square fa-3x"></i>
+
+    <i class="fa fa-rss-square fa-3x" style="color: #E77C2E;"></i>
+    
+    
+    <h1>fa fa-rupee</h1>
+
+    <i class="fa fa-rupee fa-3x"></i>
+
+    <i class="fa fa-rupee fa-3x" style="color: #F7900B;"></i>
+    
+    
+    
+</body>
+
+</html>

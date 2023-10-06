@@ -1,0 +1,301 @@
+********************
+
+LESSON: 17
+
+********************
+
+
+In this chapter, List of all icons starting with P.
+
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+    <span style="font-size: 72px; font-style: italic;">P</span>
+
+        
+    <h1>fa fa-paint-brush</h1>
+
+    <i class="fa fa-paint-brush fa-3x"></i>
+
+    <i class="fa fa-paint-brush fa-3x" style="color: #fa9762;"></i>
+    
+    
+    <h1>fa fa-pagelines</h1>
+
+    <i class="fa fa-pagelines fa-3x"></i>
+
+    <i class="fa fa-pagelines fa-3x" style="color: #fa9762;"></i>
+    
+    <h1>fa fa-paper-plane</h1>
+
+    <i class="fa fa-paper-plane fa-3x"></i>
+
+    <i class="fa fa-paper-plane fa-3x" style="color: #eb1376;"></i>
+    
+    <h1>fa fa-paper-plane-o</h1>
+
+    <i class="fa fa-paper-plane-o fa-3x"></i>
+
+    <i class="fa fa-paper-plane-o fa-3x" style="color: #f8841f;"></i>
+    
+    
+    <h1>fa fa-paperclip</h1>
+
+    <i class="fa fa-paperclip fa-3x"></i>
+
+    <i class="fa fa-paperclip fa-3x" style="color: #322f49;"></i>
+    
+    
+    <h1>fa fa-paragraph</h1>
+
+    <i class="fa fa-paragraph fa-3x"></i>
+
+    <i class="fa fa-paragraph fa-3x" style="color: #322f49;"></i>
+    
+    
+    <h1>fa fa-paste</h1>
+
+    <i class="fa fa-paste fa-3x"></i>
+
+    <i class="fa fa-paste fa-3x" style="color: green;"></i>
+    
+    
+    <h1>fa fa-pause</h1>
+
+    <i class="fa fa-pause fa-3x"></i>
+
+    <i class="fa fa-pause fa-3x" style="color: red;"></i>
+    
+    <h1>fa fa-pause-circle</h1>
+
+    <i class="fa fa-pause-circle fa-3x"></i>
+
+    <i class="fa fa-pause-circle fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-pause-circle-o</h1>
+
+    <i class="fa fa-pause-circle-o fa-3x"></i>
+
+    <i class="fa fa-pause-circle-o fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-paw</h1>
+
+    <i class="fa fa-paw fa-3x"></i>
+
+    <i class="fa fa-paw fa-3x" style="color: blue;"></i>
+    
+    <h1>fa fa-paypal</h1>
+
+    <i class="fa fa-paypal fa-3x"></i>
+
+    <i class="fa fa-paypal fa-3x" style="color: #3b7bbf;"></i>
+    
+    
+    <h1>fa fa-pencil</h1>
+
+    <i class="fa fa-pencil fa-3x"></i>
+
+    <i class="fa fa-pencil fa-3x" style="color: #6b6b6b;"></i>
+    
+    
+    <h1>fa fa-pencil-square</h1>
+
+    <i class="fa fa-pencil-square fa-3x"></i>
+
+    <i class="fa fa-pencil-square fa-3x" style="color: #6b6b6b;"></i>
+    
+    
+    <h1>fa fa-pencil-square-o</h1>
+
+    <i class="fa fa-pencil-square-o fa-3x"></i>
+
+    <i class="fa fa-pencil-square-o fa-3x" style="color: #6b6b6b;"></i>
+    
+    
+    <h1>fa fa-percent</h1>
+
+    <i class="fa fa-percent fa-3x"></i>
+
+    <i class="fa fa-percent fa-3x" style="color: #6b6b6b;"></i>
+    
+    
+    <h1>fa fa-phone</h1>
+
+    <i class="fa fa-phone fa-3x"></i>
+
+    <i class="fa fa-phone fa-3x" style="color: #812323;"></i>
+    
+    
+    <h1>fa fa-phone-square</h1>
+
+    <i class="fa fa-phone-square fa-3x"></i>
+
+    <i class="fa fa-phone-square fa-3x" style="color: #812323;"></i>
+    
+    
+    <h1>fa fa-photo</h1>
+
+    <i class="fa fa-photo fa-3x"></i>
+
+    <i class="fa fa-photo fa-3x" style="color: #7f9155;"></i>
+    
+    <h1>fa fa-picture-o</h1>
+
+    <i class="fa fa-picture-o fa-3x"></i>
+
+    <i class="fa fa-picture-o fa-3x" style="color: #7f9155;"></i>
+    
+    
+    <h1>fa fa-pie-chart</h1>
+
+    <i class="fa fa-pie-chart fa-3x"></i>
+
+    <i class="fa fa-pie-chart fa-3x" style="color: #8464a0;"></i>
+    
+    
+    <h1>fa fa-pied-piper</h1>
+
+    <i class="fa fa-pied-piper fa-3x"></i>
+
+    <i class="fa fa-pied-piper fa-3x" style="color: #01977a;"></i>
+    
+    
+    <h1>fa fa-pied-piper-alt</h1>
+
+    <i class="fa fa-pied-piper-alt fa-3x"></i>
+
+    <i class="fa fa-pied-piper-alt fa-3x" style="color: #01977a;"></i>
+    
+    
+    <h1>fa fa-pied-piper-pp</h1>
+
+    <i class="fa fa-pied-piper-pp fa-3x"></i>
+
+    <i class="fa fa-pied-piper-pp fa-3x" style="color: #01977a;"></i>
+    
+    
+    <h1>fa fa-pinterest</h1>
+
+    <i class="fa fa-pinterest fa-3x"></i>
+
+    <i class="fa fa-pinterest fa-3x" style="color: #c8232c;"></i>
+    
+    <h1>fa fa-pinterest-p</h1>
+
+    <i class="fa fa-pinterest-p fa-3x"></i>
+
+    <i class="fa fa-pinterest-p fa-3x" style="color: #c8232c;"></i>
+    
+    
+    <h1>fa fa-pinterest-square</h1>
+
+    <i class="fa fa-pinterest-square fa-3x"></i>
+
+    <i class="fa fa-pinterest-square fa-3x" style="color: #c8232c;"></i>
+    
+    
+    <h1>fa fa-plane</h1>
+
+    <i class="fa fa-plane fa-3x"></i>
+
+    <i class="fa fa-plane fa-3x" style="color: #3b4875;"></i>
+    
+    
+    <h1>fa fa-play</h1>
+
+    <i class="fa fa-play fa-3x"></i>
+
+    <i class="fa fa-play fa-3x" style="color: red;"></i>
+    
+    <h1>fa fa-play-circle</h1>
+
+    <i class="fa fa-play-circle fa-3x"></i>
+
+    <i class="fa fa-play-circle fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-play-circle-o</h1>
+
+    <i class="fa fa-play-circle-o fa-3x"></i>
+
+    <i class="fa fa-play-circle-o fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-plug</h1>
+
+    <i class="fa fa-plug fa-3x"></i>
+
+    <i class="fa fa-plug fa-3x" style="color: red;"></i>
+    
+    <h1>fa fa-plus</h1>
+
+    <i class="fa fa-plus fa-3x"></i>
+
+    <i class="fa fa-plus fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-plus-square</h1>
+
+    <i class="fa fa-plus-square fa-3x"></i>
+
+    <i class="fa fa-plus-square fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-plus-square-o</h1>
+
+    <i class="fa fa-plus-square-o fa-3x"></i>
+
+    <i class="fa fa-plus-square-o fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-podcast</h1>
+
+    <i class="fa fa-podcast fa-3x"></i>
+
+    <i class="fa fa-podcast fa-3x" style="color: #382213;"></i>
+    
+    
+    <h1>fa fa-power-off</h1>
+
+    <i class="fa fa-power-off fa-3x"></i>
+
+    <i class="fa fa-power-off fa-3x" style="color: red;"></i>
+    
+    
+    <h1>fa fa-print</h1>
+
+    <i class="fa fa-print fa-3x"></i>
+
+    <i class="fa fa-print fa-3x" style="color: #ff00b4;"></i>
+    
+    
+    <h1>fa fa-product-hunt</h1>
+
+    <i class="fa fa-product-hunt fa-3x"></i>
+
+    <i class="fa fa-product-hunt fa-3x" style="color: #da552f;"></i>
+    
+    
+    <h1>fa fa-puzzle-piece</h1>
+
+    <i class="fa fa-puzzle-piece fa-3x"></i>
+
+    <i class="fa fa-puzzle-piece fa-3x" style="color: #7acedc;"></i>
+    
+      
+
+</body>
+
+</html>

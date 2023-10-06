@@ -1,0 +1,92 @@
+********************
+
+LESSON: 16
+
+********************
+
+
+In this chapter, List of all icons starting with O.
+
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>fontawesome icon 4</title>
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+    <span style="font-size: 72px; font-style: italic;">O</span>
+
+        
+    <h1>fa fa-object-group</h1>
+
+    <i class="fa fa-object-group fa-3x"></i>
+
+    <i class="fa fa-object-group fa-3x" style="color: #65A637;"></i>
+    
+    
+    <h1>fa fa-object-ungroup</h1>
+
+    <i class="fa fa-object-ungroup fa-3x"></i>
+
+    <i class="fa fa-object-ungroup fa-3x" style="color: #65A637;"></i>
+    
+    
+    <h1>fa fa-odnoklassniki</h1>
+
+    <i class="fa fa-odnoklassniki fa-3x"></i>
+
+    <i class="fa fa-odnoklassniki fa-3x" style="color: #ed812b;"></i>
+    
+    
+    <h1>fa fa-odnoklassniki-square</h1>
+
+    <i class="fa fa-odnoklassniki-square fa-3x"></i>
+
+    <i class="fa fa-odnoklassniki-square fa-3x" style="color: #e89837;"></i>
+    
+    
+    <h1>fa fa-opencart</h1>
+
+    <i class="fa fa-opencart fa-3x"></i>
+
+    <i class="fa fa-opencart fa-3x" style="color: #229ac8;"></i>
+    
+    
+    <h1>fa fa-openid</h1>
+
+    <i class="fa fa-openid fa-3x"></i>
+
+    <i class="fa fa-openid fa-3x" style="color: #c3c3cb;"></i>
+    
+    
+    <h1>fa fa-opera</h1>
+
+    <i class="fa fa-opera fa-3x"></i>
+
+    <i class="fa fa-opera fa-3x" style="color: #ff1b2d;"></i>
+    
+    
+    <h1>fa fa-optin-monster</h1>
+
+    <i class="fa fa-optin-monster fa-3x"></i>
+
+    <i class="fa fa-optin-monster fa-3x" style="color: #83c11f;"></i>
+    
+    
+    <h1>fa fa-outdent</h1>
+
+    <i class="fa fa-outdent fa-3x"></i>
+
+    <i class="fa fa-outdent fa-3x" style="color: #ff1b2d;"></i>
+    
+      
+
+</body>
+
+</html>
