@@ -1,0 +1,118 @@
+********************
+
+LESSON: 17
+
+********************
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Font awesome 5</title>
+
+    <script src="icon5.js"></script>
+    <!--<link rel="stylesheet" href="fontawesome-free-5.15.4-web/css/all.min.css">-->
+</head>
+
+<body>
+
+    <span style="font-size: 72px; font-style: italic">Q</span>
+
+    <h1>fab fa-qq</h1>
+    <i class="fab fa-qq fa-3x"></i>
+    <i class="fab fa-qq fa-3x" style="color: dodgerblue;"></i>
+
+    <p>Used on a button:</p>
+    <button style='font-size:24px'>Button <i class='fab fa-qq'></i></button>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf1d6;</i>
+    
+    
+    <h1>fas fa-qrcode</h1>
+    <i class="fas fa-qrcode fa-3x"></i>
+    <i class="fas fa-qrcode fa-3x" style="color: #ce8949;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf029;</i>
+    
+    
+    <h1>fas fa-question</h1>
+    <i class="fas fa-question fa-3x"></i>
+    <i class="fas fa-question fa-3x" style="color: #ef9a49;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf128;</i>
+    
+    
+    <h1>fas fa-question-circle</h1>
+    <i class="fas fa-question-circle fa-3x"></i>
+    <i class="fas fa-question-circle fa-3x" style="color: #ef9a49;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf059;</i>
+    
+    
+    <h1>far fa-question-circle</h1>
+    <i class="far fa-question-circle fa-3x"></i>
+    <i class="far fa-question-circle fa-3x" style="color: #ef9a49;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="far">&#xf059;</i>
+    
+    
+    <h1>fas fa-quidditch</h1>
+    <i class="fas fa-quidditch fa-3x"></i>
+    <i class="fas fa-quidditch fa-3x" style="color: #0039b7;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf458;</i>
+    
+    
+    <h1>fab fa-quinscape</h1>
+    <i class="fab fa-quinscape fa-3x"></i>
+    <i class="fab fa-quinscape fa-3x" style="color: dodgerblue;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf459;</i>
+    
+    
+    <h1>fab fa-quora</h1>
+    <i class="fab fa-quora fa-3x"></i>
+    <i class="fab fa-quora fa-3x" style="color: #B92B27;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf2c4;</i>
+    
+    
+    <h1>fas fa-quote-left</h1>
+    <i class="fas fa-quote-left fa-3x"></i>
+    <i class="fas fa-quote-left fa-3x" style="color: #0CA174;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf10d;</i>
+    
+    
+    <h1>fas fa-quote-right</h1>
+    <i class="fas fa-quote-right fa-3x"></i>
+    <i class="fas fa-quote-right fa-3x" style="color: #0CA174;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf10e;</i>
+    
+    
+    <h1>fas fa-quran</h1>
+    <i class="fas fa-quran fa-3x"></i>
+    <i class="fas fa-quran fa-3x" style="color: #3dced5;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf687;</i>
+    
+    
+
+
+</body>
+
+</html>

@@ -1,0 +1,156 @@
+********************
+
+LESSON: 15
+
+********************
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Font awesome 5</title>
+
+    <script src="icon5.js"></script>
+    <!--<link rel="stylesheet" href="fontawesome-free-5.15.4-web/css/all.min.css">-->
+</head>
+
+<body>
+
+    <span style="font-size: 72px; font-style: italic">O</span>
+
+    <h1>fas fa-object-group</h1>
+    <i class="fas fa-object-group fa-3x"></i>
+    <i class="fas fa-object-group fa-3x" style="color: dodgerblue;"></i>
+
+    <p>Used on a button:</p>
+    <button style='font-size:24px'>Button <i class='fas fa-object-group'></i></button>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf247;</i>
+    
+    
+    <h1>far fa-object-group</h1>
+    <i class="far fa-object-group fa-3x"></i>
+    <i class="far fa-object-group fa-3x" style="color: dodgerblue;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="far">&#xf247;</i>
+    
+    
+    <h1>fas fa-object-ungroup</h1>
+    <i class="fas fa-object-ungroup fa-3x"></i>
+    <i class="fas fa-object-ungroup fa-3x" style="color: dodgerblue;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf248;</i>
+    
+    <h1>far fa-object-ungroup</h1>
+    <i class="far fa-object-ungroup fa-3x"></i>
+    <i class="far fa-object-ungroup fa-3x" style="color: dodgerblue;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="far">&#xf248;</i>
+    
+    
+    <h1>fab fa-odnoklassniki</h1>
+    <i class="fab fa-odnoklassniki fa-3x"></i>
+    <i class="fab fa-odnoklassniki fa-3x" style="color: #ed812b;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf263;</i>
+    
+    <h1>fab fa-odnoklassniki-square</h1>
+    <i class="fab fa-odnoklassniki-square fa-3x"></i>
+    <i class="fab fa-odnoklassniki-square fa-3x" style="color: #ed812b;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf264;</i>
+    
+    
+    <h1>fas fa-oil-can</h1>
+    <i class="fas fa-oil-can fa-3x"></i>
+    <i class="fas fa-oil-can fa-3x" style="color: #DFD855;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf613;</i>
+    
+    
+    <h1>fab fa-old-republic</h1>
+    <i class="fab fa-old-republic fa-3x"></i>
+    <i class="fab fa-old-republic fa-3x" style="color: #381010;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf510;</i>
+    
+    
+    <h1>fas fa-om</h1>
+    <i class="fas fa-om fa-3x"></i>
+    <i class="fas fa-om fa-3x" style="color: #0f7c6f;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf679;</i>
+    
+    
+    <h1>fab fa-opencart</h1>
+    <i class="fab fa-opencart fa-3x"></i>
+    <i class="fab fa-opencart fa-3x" style="color: #229ac8;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf23d;</i>
+    
+    
+    <h1>fab fa-openid</h1>
+    <i class="fab fa-openid fa-3x"></i>
+    <i class="fab fa-openid fa-3x" style="color: cadetblue;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf19b;</i>
+    
+    
+    <h1>fab fa-opera</h1>
+    <i class="fab fa-opera fa-3x"></i>
+    <i class="fab fa-opera fa-3x" style="color: #B20317;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf26a;</i>
+    
+    
+    <h1>fab fa-optin-monster</h1>
+    <i class="fab fa-optin-monster fa-3x"></i>
+    <i class="fab fa-optin-monster fa-3x" style="color: #919296;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf23c;</i>
+    
+    
+    <h1>fab fa-osi</h1>
+    <i class="fab fa-osi fa-3x"></i>
+    <i class="fab fa-osi fa-3x" style="color: #c62828;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf41a;</i>
+    
+    
+    <h1>fas fa-otter</h1>
+    <i class="fas fa-otter fa-3x"></i>
+    <i class="fas fa-otter fa-3x" style="color: #573b30;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf700;</i>
+    
+    
+    <h1>fas fa-outdent</h1>
+    <i class="fas fa-outdent fa-3x"></i>
+    <i class="fas fa-outdent fa-3x" style="color: #292929;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf03b;</i>
+    
+
+
+</body>
+
+</html>
+

@@ -1,0 +1,265 @@
+********************
+
+LESSON: 22
+
+********************
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Font awesome 5</title>
+
+    <script src="icon5.js"></script>
+    <!--<link rel="stylesheet" href="fontawesome-free-5.15.4-web/css/all.min.css">-->
+</head>
+
+<body>
+
+    <span style="font-size: 72px; font-style: italic">V</span>
+
+    <h1>fab fa-vaadin</h1>
+    <i class="fab fa-vaadin fa-3x"></i>
+    <i class="fab fa-vaadin fa-3x" style="color: #1fbad6;"></i>
+
+    <p>Used on a button:</p>
+    <button style='font-size:24px'>Button <i class='fab fa-vaadin'></i></button>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf408;</i>
+    
+    
+    <h1>fas fa-vector-square</h1>
+    <i class="fas fa-vector-square fa-3x"></i>
+    <i class="fas fa-vector-square fa-3x" style="color: dodgerblue;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf5cb;</i>
+    
+    
+    <h1>fas fa-venus</h1>
+    <i class="fas fa-venus fa-3x"></i>
+    <i class="fas fa-venus fa-3x" style="color: #a57c1b;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf221;</i>
+    
+    
+    <h1>fas fa-venus-double</h1>
+    <i class="fas fa-venus-double fa-3x"></i>
+    <i class="fas fa-venus-double fa-3x" style="color: #a57c1b;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf226;</i>
+    
+    
+    <h1>fas fa-venus-mars</h1>
+    <i class="fas fa-venus-mars fa-3x"></i>
+    <i class="fas fa-venus-mars fa-3x" style="color: #a57c1b;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf228;</i>
+    
+    
+    <h1>fab fa-viacoin</h1>
+    <i class="fab fa-viacoin fa-3x"></i>
+    <i class="fab fa-viacoin fa-3x" style="color: #6e2121;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf237;</i>
+    
+    
+    <h1>fab fa-viadeo</h1>
+    <i class="fab fa-viadeo fa-3x"></i>
+    <i class="fab fa-viadeo fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf2a9;</i>
+    
+    
+    <h1>fab fa-viadeo-square</h1>
+    <i class="fab fa-viadeo-square fa-3x"></i>
+    <i class="fab fa-viadeo-square fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf2aa;</i>
+    
+    
+    <h1>fas fa-vial</h1>
+    <i class="fas fa-vial fa-3x"></i>
+    <i class="fas fa-vial fa-3x" style="color: #8fce00;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf492;</i>
+    
+    
+    <h1>fas fa-vials</h1>
+    <i class="fas fa-vials fa-3x"></i>
+    <i class="fas fa-vials fa-3x" style="color: #8fce00;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf493;</i>
+    
+    
+    <h1>fab fa-viber</h1>
+    <i class="fab fa-viber fa-3x"></i>
+    <i class="fab fa-viber fa-3x" style="color: #59267c;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf409;</i>
+    
+    
+    <h1>fas fa-video</h1>
+    <i class="fas fa-video fa-3x"></i>
+    <i class="fas fa-video fa-3x" style="color: #2d8cff;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf03d;</i>
+    
+    
+    <h1>fas fa-video-slash</h1>
+    <i class="fas fa-video-slash fa-3x"></i>
+    <i class="fas fa-video-slash fa-3x" style="color: #2d8cff;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf4e2;</i>
+    
+    
+    <h1>fas fa-vihara</h1>
+    <i class="fas fa-vihara fa-3x"></i>
+    <i class="fas fa-vihara fa-3x" style="color: blue;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf6a7;</i>
+    
+    
+    <h1>fab fa-vimeo</h1>
+    <i class="fab fa-vimeo fa-3x"></i>
+    <i class="fab fa-vimeo fa-3x" style="color: #1ab7ea;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf40a;</i>
+    
+    
+    <h1>fab fa-vimeo-square</h1>
+    <i class="fab fa-vimeo-square fa-3x"></i>
+    <i class="fab fa-vimeo-square fa-3x" style="color: #1ab7ea;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf194;</i>
+    
+    
+    <h1>fab fa-vimeo-v</h1>
+    <i class="fab fa-vimeo-v fa-3x"></i>
+    <i class="fab fa-vimeo-v fa-3x" style="color: #1ab7ea;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf40a;</i>
+    
+    
+    <h1>fab fa-vine</h1>
+    <i class="fab fa-vine fa-3x"></i>
+    <i class="fab fa-vine fa-3x" style="color: #00a478;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf1ca;</i>
+    
+    
+    <h1>fas fa-virus</h1>
+    <i class="fas fa-virus fa-3x"></i>
+    <i class="fas fa-virus fa-3x" style="color: #947412;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xe074;</i>
+    
+    
+    <h1>fas fa-virus-slash</h1>
+    <i class="fas fa-virus-slash fa-3x"></i>
+    <i class="fas fa-virus-slash fa-3x" style="color: #947412;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xe075;</i>
+    
+    
+    <h1>fas fa-viruses</h1>
+    <i class="fas fa-viruses fa-3x"></i>
+    <i class="fas fa-viruses fa-3x" style="color: #947412;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xe076;</i>
+    
+    
+    <h1>fab fa-vk</h1>
+    <i class="fab fa-vk fa-3x"></i>
+    <i class="fab fa-vk fa-3x" style="color: #4C75A3;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf189;</i>
+    
+    
+    <h1>fab fa-vnv</h1>
+    <i class="fab fa-vnv fa-3x"></i>
+    <i class="fab fa-vnv fa-3x" style="color: #4C75A3;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf40b;</i>
+    
+    
+    <h1>fas fa-volleyball-ball</h1>
+    <i class="fas fa-volleyball-ball fa-3x"></i>
+    <i class="fas fa-volleyball-ball fa-3x" style="color: #fb7d0e;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf45f;</i>
+    
+    
+    <h1>fas fa-volume-down</h1>
+    <i class="fas fa-volume-down fa-3x"></i>
+    <i class="fas fa-volume-down fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf027;</i>
+    
+    <h1>fas fa-volume-mute</h1>
+    <i class="fas fa-volume-mute fa-3x"></i>
+    <i class="fas fa-volume-mute fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf6a9;</i>
+    
+    <h1>fas fa-volume-off</h1>
+    <i class="fas fa-volume-off fa-3x"></i>
+    <i class="fas fa-volume-off fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf026;</i>
+    
+    <h1>fas fa-volume-up</h1>
+    <i class="fas fa-volume-up fa-3x"></i>
+    <i class="fas fa-volume-up fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf028;</i>
+    
+    
+    <h1>fas fa-vote-yea</h1>
+    <i class="fas fa-vote-yea fa-3x"></i>
+    <i class="fas fa-vote-yea fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf772;</i>
+    
+    
+    <h1>fab fa-vuejs</h1>
+    <i class="fab fa-vuejs fa-3x"></i>
+    <i class="fab fa-vuejs fa-3x" style="color: #42b883;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf41f;</i>
+
+
+</body>
+
+</html>

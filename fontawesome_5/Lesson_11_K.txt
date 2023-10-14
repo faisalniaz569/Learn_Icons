@@ -1,0 +1,168 @@
+********************
+
+LESSON: 11
+
+********************
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Font awesome 5</title>
+
+    <script src="icon5.js"></script>
+    <!--<link rel="stylesheet" href="fontawesome-free-5.15.4-web/css/all.min.css">-->
+</head>
+
+<body>
+
+    <span style="font-size: 72px; font-style: italic">K</span>
+
+    <h1>fas fa-kaaba</h1>
+    <i class="fas fa-kaaba fa-3x"></i>
+    <i class="fas fa-kaaba fa-3x" style="color: #F76300"></i>
+
+    <p>Used on a button:</p>
+    <button style='font-size:24px'>Button <i class='fas fa-kaaba'></i></button>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf66b;</i>
+    
+    
+    <h1>fab fa-kaggle</h1>
+    <i class="fab fa-kaggle fa-3x"></i>
+    <i class="fab fa-kaggle fa-3x" style="color: #F76300"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf5fa;</i>
+    
+    
+    <h1>fas fa-key</h1>
+    <i class="fas fa-key fa-3x"></i>
+    <i class="fas fa-key fa-3x" style="color: #333"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf084;</i>
+    
+    
+    <h1>fab fa-keybase</h1>
+    <i class="fab fa-keybase fa-3x"></i>
+    <i class="fab fa-keybase fa-3x" style="color: #ea4c89"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf4f5;</i>
+    
+    
+    <h1>fas fa-keyboard</h1>
+    <i class="fas fa-keyboard fa-3x"></i>
+    <i class="fas fa-keyboard fa-3x" style="color: #5615f9"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf11c;</i>
+    
+    <h1>far fa-keyboard</h1>
+    <i class="far fa-keyboard fa-3x"></i>
+    <i class="far fa-keyboard fa-3x" style="color: #5615f9"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="far">&#xf11c;</i>
+    
+    
+    <h1>fab fa-keycdn</h1>
+    <i class="fab fa-keycdn fa-3x"></i>
+    <i class="fab fa-keycdn fa-3x" style="color: #ea4c89"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf3ba;</i>
+    
+    <h1>fas fa-khanda</h1>
+    <i class="fas fa-khanda fa-3x"></i>
+    <i class="fas fa-khanda fa-3x" style="color: #0F3259"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf66d;</i>
+    
+    <h1>fab fa-kickstarter</h1>
+    <i class="fab fa-kickstarter fa-3x"></i>
+    <i class="fab fa-kickstarter fa-3x" style="color: #2bde73"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf3bb;</i>
+    
+    <h1>fab fa-kickstarter-k</h1>
+    <i class="fab fa-kickstarter-k fa-3x"></i>
+    <i class="fab fa-kickstarter-k fa-3x" style="color: #2bde73"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf3bc;</i>
+    
+    
+    <h1>fas fa-kiss</h1>
+    <i class="fas fa-kiss fa-3x"></i>
+    <i class="fas fa-kiss fa-3x" style="color: red"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf596;</i>
+    
+    
+    <h1>far fa-kiss</h1>
+    <i class="far fa-kiss fa-3x"></i>
+    <i class="far fa-kiss fa-3x" style="color: red"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="far">&#xf596;</i>
+    
+    
+    <h1>fas fa-kiss-beam</h1>
+    <i class="fas fa-kiss-beam fa-3x"></i>
+    <i class="fas fa-kiss-beam fa-3x" style="color: red"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf597;</i>
+    
+    <h1>far fa-kiss-beam</h1>
+    <i class="far fa-kiss-beam fa-3x"></i>
+    <i class="far fa-kiss-beam fa-3x" style="color: red"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="far">&#xf597;</i>
+    
+    
+    <h1>fas fa-kiss-wink-heart</h1>
+    <i class="fas fa-kiss-wink-heart fa-3x"></i>
+    <i class="fas fa-kiss-wink-heart fa-3x" style="color: red"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf598;</i>
+    
+    
+    <h1>far fa-kiss-wink-heart</h1>
+    <i class="far fa-kiss-wink-heart fa-3x"></i>
+    <i class="far fa-kiss-wink-heart fa-3x" style="color: red"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="far">&#xf598;</i>
+    
+    
+    <h1>fas fa-kiwi-bird</h1>
+    <i class="fas fa-kiwi-bird fa-3x"></i>
+    <i class="fas fa-kiwi-bird fa-3x" style="color: #CFCAA1"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf535;</i>
+    
+    
+    <h1>fab fa-korvue</h1>
+    <i class="fab fa-korvue fa-3x"></i>
+    <i class="fab fa-korvue fa-3x" style="color: #32475b"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf42f;</i>
+
+
+
+</body>
+
+</html>

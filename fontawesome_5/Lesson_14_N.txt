@@ -1,0 +1,135 @@
+********************
+
+LESSON: 14
+
+********************
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Font awesome 5</title>
+
+    <script src="icon5.js"></script>
+    <!--<link rel="stylesheet" href="fontawesome-free-5.15.4-web/css/all.min.css">-->
+</head>
+
+<body>
+
+    <span style="font-size: 72px; font-style: italic">N</span>
+
+    <h1>fab fa-napster</h1>
+    <i class="fab fa-napster fa-3x"></i>
+    <i class="fab fa-napster fa-3x" style="color: #4056ff"></i>
+
+    <p>Used on a button:</p>
+    <button style='font-size:24px'>Button <i class='fab fa-napster'></i></button>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf3d2;</i>
+    
+    <h1>fab fa-neos</h1>
+    <i class="fab fa-neos fa-3x"></i>
+    <i class="fab fa-neos fa-3x" style="color: #4056ff"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf612;</i>
+    
+    
+    <h1>fas fa-network-wired</h1>
+    <i class="fas fa-network-wired fa-3x"></i>
+    <i class="fas fa-network-wired fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf6ff;</i>
+    
+    <h1>fas fa-neuter</h1>
+    <i class="fas fa-neuter fa-3x"></i>
+    <i class="fas fa-neuter fa-3x" style="color: #c3c3cb;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf22c;</i>
+    
+    
+    <h1>fas fa-newspaper</h1>
+    <i class="fas fa-newspaper fa-3x"></i>
+    <i class="fas fa-newspaper fa-3x" style="color: peru;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf1ea;</i>
+    
+    <h1>far fa-newspaper</h1>
+    <i class="far fa-newspaper fa-3x"></i>
+    <i class="far fa-newspaper fa-3x" style="color: peru;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="far">&#xf1ea;</i>
+    
+    
+    <h1>fab fa-nimblr</h1>
+    <i class="fab fa-nimblr fa-3x"></i>
+    <i class="fab fa-nimblr fa-3x" style="color: #a32638;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf5a8;</i>
+    
+    
+    <h1>fab fa-node</h1>
+    <i class="fab fa-node fa-3x"></i>
+    <i class="fab fa-node fa-3x" style="color: #e60012;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf419;</i>
+    
+    <h1>fab fa-node-js</h1>
+    <i class="fab fa-node-js fa-3x"></i>
+    <i class="fab fa-node-js fa-3x" style="color: #e60012;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf3d3;</i>
+    
+    <h1>fas fa-not-equal</h1>
+    <i class="fas fa-not-equal fa-3x"></i>
+    <i class="fas fa-not-equal fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf53e;</i>
+    
+    
+    <h1>fas fa-notes-medical</h1>
+    <i class="fas fa-notes-medical fa-3x"></i>
+    <i class="fas fa-notes-medical fa-3x" style="color: #0494fb;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf481;</i>
+    
+    
+    <h1>fab fa-npm</h1>
+    <i class="fab fa-npm fa-3x"></i>
+    <i class="fab fa-npm fa-3x" style="color: #cc3534;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf3d4;</i>
+    
+    <h1>fab fa-ns8</h1>
+    <i class="fab fa-ns8 fa-3x"></i>
+    <i class="fab fa-ns8 fa-3x" style="color: lawngreen;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf3d5;</i>
+    
+    
+    <h1>fab fa-nutritionix</h1>
+    <i class="fab fa-nutritionix fa-3x"></i>
+    <i class="fab fa-nutritionix fa-3x" style="color: chocolate;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf3d6;</i>
+    
+
+
+</body>
+
+</html>

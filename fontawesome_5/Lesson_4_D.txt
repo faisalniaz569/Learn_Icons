@@ -1,0 +1,481 @@
+********************
+
+LESSON: 04
+
+********************
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Font awesome 5</title>
+
+    <script src="icon5.js"></script>
+    <!--<link rel="stylesheet" href="fontawesome-free-5.15.4-web/css/all.min.css">-->
+</head>
+
+<body>
+
+    <span style="font-size: 72px; font-style: italic">D</span>
+
+    <h1>fab fa-d-and-d</h1>
+    <i class="fab fa-d-and-d fa-3x"></i>
+    <i class="fab fa-d-and-d fa-3x" style="color: #d4d4d2"></i>
+
+    <p>Used on a button:</p>
+    <button style='font-size:24px'>Button <i class='fab fa-d-and-d'></i></button>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf38d;</i>
+    
+    
+    <h1>fab fa-d-and-d-beyond</h1>
+    <i class="fab fa-d-and-d-beyond fa-3x"></i>
+    <i class="fab fa-d-and-d-beyond fa-3x" style="color: #E973AE"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf6ca;</i>
+    
+    
+    <h1>fab fa-dashcube</h1>
+    <i class="fab fa-dashcube fa-3x"></i>
+    <i class="fab fa-dashcube fa-3x" style="color: #D28A33"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf210;</i>
+    
+    <h1>fas fa-database</h1>
+    <i class="fas fa-database fa-3x"></i>
+    <i class="fas fa-database fa-3x" style="color: #40BAF3"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf1c0;</i>
+    
+    <h1>fas fa-deaf</h1>
+    <i class="fas fa-deaf fa-3x"></i>
+    <i class="fas fa-deaf fa-3x" style="color: #EC7765"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf2a4;</i>
+    
+    <h1>fab fa-delicious</h1>
+    <i class="fab fa-delicious fa-3x"></i>
+    <i class="fab fa-delicious fa-3x" style="color: #D28A33"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf1a5;</i>
+    
+    <h1>fas fa-democrat</h1>
+    <i class="fas fa-democrat fa-3x"></i>
+    <i class="fas fa-democrat fa-3x" style="color: #00A9EB"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf747;</i>
+    
+    <h1>fab fa-deploydog</h1>
+    <i class="fab fa-deploydog fa-3x"></i>
+    <i class="fab fa-deploydog fa-3x" style="color: #C8AA64"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf38e;</i>
+    
+    
+    <h1>fab fa-deskpro</h1>
+    <i class="fab fa-deskpro fa-3x"></i>
+    <i class="fab fa-deskpro fa-3x" style="color: #1465AE"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf38f;</i>
+    
+    <h1>fas fa-desktop</h1>
+    <i class="fas fa-desktop fa-3x"></i>
+    <i class="fas fa-desktop fa-3x" style="color: #99b898"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf108;</i>
+
+    <h1>fab fa-dev</h1>
+    <i class="fab fa-dev fa-3x"></i>
+    <i class="fab fa-dev fa-3x" style="color: #656986"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf6cc;</i>
+    
+    <h1>fab fa-deviantart</h1>
+    <i class="fab fa-deviantart fa-3x"></i>
+    <i class="fab fa-deviantart fa-3x" style="color: #4e6252"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf1bd;</i>
+    
+    
+    <h1>fas fa-dharmachakra</h1>
+    <i class="fas fa-dharmachakra fa-3x"></i>
+    <i class="fas fa-dharmachakra fa-3x" style="color: #000088"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf655;</i>
+    
+    <h1>fab fa-dhl</h1>
+    <i class="fab fa-dhl fa-3x"></i>
+    <i class="fab fa-dhl fa-3x" style="color: #D40511"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf790;</i>
+    
+    
+    <h1>fas fa-diagnoses</h1>
+    <i class="fas fa-diagnoses fa-3x"></i>
+    <i class="fas fa-diagnoses fa-3x" style="color: #b9c930"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf470;</i>
+    
+    <h1>fab fa-diaspora</h1>
+    <i class="fab fa-diaspora fa-3x"></i>
+    <i class="fab fa-diaspora fa-3x" style="color: #D40511"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf791;</i>
+    
+    
+    <h1>fas fa-dice</h1>
+    <i class="fas fa-dice fa-3x"></i>
+    <i class="fas fa-dice fa-3x" style="color: #F70103"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf522;</i>
+    
+    <h1>fas fa-dice-d20</h1>
+    <i class="fas fa-dice-d20 fa-3x"></i>
+    <i class="fas fa-dice-d20 fa-3x" style="color: #F70103"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf6cf;</i>
+    
+    <h1>fas fa-dice-d6</h1>
+    <i class="fas fa-dice-d6 fa-3x"></i>
+    <i class="fas fa-dice-d6 fa-3x" style="color: #F70103"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf6d1;</i>
+    
+    <h1>fas fa-dice-six</h1>
+    <i class="fas fa-dice-six fa-3x"></i>
+    <i class="fas fa-dice-six fa-3x" style="color: #F70103"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf526;</i>
+    
+    <h1>fas fa-dice-five</h1>
+    <i class="fas fa-dice-five fa-3x"></i>
+    <i class="fas fa-dice-five fa-3x" style="color: #F70103"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf523;</i>
+    
+    <h1>fas fa-dice-four</h1>
+    <i class="fas fa-dice-four fa-3x"></i>
+    <i class="fas fa-dice-four fa-3x" style="color: #F70103"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf524;</i>
+    
+    <h1>fas fa-dice-three</h1>
+    <i class="fas fa-dice-three fa-3x"></i>
+    <i class="fas fa-dice-three fa-3x" style="color: #F70103"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf527;</i>
+    
+    <h1>fas fa-dice-two</h1>
+    <i class="fas fa-dice-two fa-3x"></i>
+    <i class="fas fa-dice-two fa-3x" style="color: #F70103"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf528;</i>
+    
+    <h1>fas fa-dice-one</h1>
+    <i class="fas fa-dice-one fa-3x"></i>
+    <i class="fas fa-dice-one fa-3x" style="color: #F70103"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf525;</i>
+    
+    
+    <h1>fab fa-digg</h1>
+    <i class="fab fa-digg fa-3x"></i>
+    <i class="fab fa-digg fa-3x" style="color: #D40511"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf1a6;</i>
+    
+    <h1>fab fa-digital-ocean</h1>
+    <i class="fab fa-digital-ocean fa-3x"></i>
+    <i class="fab fa-digital-ocean fa-3x" style="color: #d40511"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf391;</i>
+    
+    
+    <h1>fas fa-digital-tachograph</h1>
+    <i class="fas fa-digital-tachograph fa-3x"></i>
+    <i class="fas fa-digital-tachograph fa-3x" style="color: green"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf566;</i>
+    
+    <h1>fas fa-directions</h1>
+    <i class="fas fa-directions fa-3x"></i>
+    <i class="fas fa-directions fa-3x" style="color: red"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf5eb;</i>
+    
+    <h1>fab fa-discord</h1>
+    <i class="fab fa-discord fa-3x"></i>
+    <i class="fab fa-discord fa-3x" style="color: red"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf392;</i>
+    
+    <h1>fab fa-discourse</h1>
+    <i class="fab fa-discourse fa-3x"></i>
+    <i class="fab fa-discourse fa-3x" style="color: red"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf393;</i>
+    
+    <h1>fas fa-divide</h1>
+    <i class="fas fa-divide fa-3x"></i>
+    <i class="fas fa-divide fa-3x" style="color: red"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf529;</i>
+    
+    <h1>fas fa-dizzy</h1>
+    <i class="fas fa-dizzy fa-3x"></i>
+    <i class="fas fa-dizzy fa-3x" style="color: red"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf567;</i>
+    
+    <h1>far fa-dizzy</h1>
+    <i class="far fa-dizzy fa-3x"></i>
+    <i class="far fa-dizzy fa-3x" style="color: red"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="far">&#xf567;</i>
+    
+    
+    <h1>fas fa-dna</h1>
+    <i class="fas fa-dna fa-3x"></i>
+    <i class="fas fa-dna fa-3x" style="color: #ae00fe"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf471;</i>
+    
+    
+    <h1>fab fa-dochub</h1>
+    <i class="fab fa-dochub fa-3x"></i>
+    <i class="fab fa-dochub fa-3x" style="color: #189de4"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf394;</i>
+    
+    <h1>fab fa-docker</h1>
+    <i class="fab fa-docker fa-3x"></i>
+    <i class="fab fa-docker fa-3x" style="color: #384d54"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf395;</i>
+    
+    <h1>fas fa-dog</h1>
+    <i class="fas fa-dog fa-3x"></i>
+    <i class="fas fa-dog fa-3x" style="color: #bd9a82"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf6d3;</i>
+    
+    <h1>fas fa-dollar-sign</h1>
+    <i class="fas fa-dollar-sign fa-3x"></i>
+    <i class="fas fa-dollar-sign fa-3x" style="color: #6B8068"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf155;</i>
+    
+    <h1>fas fa-dolly</h1>
+    <i class="fas fa-dolly fa-3x"></i>
+    <i class="fas fa-dolly fa-3x" style="color: #ee2b74"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf472;</i>
+    
+    <h1>fas fa-dolly-flatbed</h1>
+    <i class="fas fa-dolly-flatbed fa-3x"></i>
+    <i class="fas fa-dolly-flatbed fa-3x" style="color: #ee2b74"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf474;</i>
+    
+    <h1>fas fa-donate</h1>
+    <i class="fas fa-donate fa-3x"></i>
+    <i class="fas fa-donate fa-3x" style="color: #c05a9a"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf4b9;</i>
+    
+    <h1>fas fa-door-closed</h1>
+    <i class="fas fa-door-closed fa-3x"></i>
+    <i class="fas fa-door-closed fa-3x" style="color: #9CBA54"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf52a;</i>
+    
+    <h1>fas fa-door-open</h1>
+    <i class="fas fa-door-open fa-3x"></i>
+    <i class="fas fa-door-open fa-3x" style="color: #9CBA54"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf52b;</i>
+    
+    <h1>fas fa-dot-circle</h1>
+    <i class="fas fa-dot-circle fa-3x"></i>
+    <i class="fas fa-dot-circle fa-3x" style="color: #FE8500"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf192;</i>
+    
+    <h1>fas fa-dove</h1>
+    <i class="fas fa-dove fa-3x"></i>
+    <i class="fas fa-dove fa-3x" style="color: #C2A962"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf4ba;</i>
+    
+    <h1>fas fa-download</h1>
+    <i class="fas fa-download fa-3x"></i>
+    <i class="fas fa-download fa-3x" style="color: #18acb6"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf019;</i>
+    
+    <h1>fab fa-draft2digital</h1>
+    <i class="fab fa-draft2digital fa-3x"></i>
+    <i class="fab fa-draft2digital fa-3x" style="color: #ad2d09"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf396;</i>
+    
+    <h1>fas fa-drafting-compass</h1>
+    <i class="fas fa-drafting-compass fa-3x"></i>
+    <i class="fas fa-drafting-compass fa-3x" style="color: #B9B9B9"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf568;</i>
+    
+    <h1>fas fa-dragon</h1>
+    <i class="fas fa-dragon fa-3x"></i>
+    <i class="fas fa-dragon fa-3x" style="color: #107444"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf6d5;</i>
+    
+    <h1>fas fa-draw-polygon</h1>
+    <i class="fas fa-draw-polygon fa-3x"></i>
+    <i class="fas fa-draw-polygon fa-3x" style="color: #182F51"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf5ee;</i>
+    
+    <h1>fab fa-dribbble</h1>
+    <i class="fab fa-dribbble fa-3x"></i>
+    <i class="fab fa-dribbble fa-3x" style="color: #AC2057"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf17d;</i>
+    
+    <h1>fab fa-dribbble-square</h1>
+    <i class="fab fa-dribbble-square fa-3x"></i>
+    <i class="fab fa-dribbble-square fa-3x" style="color: #AC2057"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf397;</i>
+    
+    <h1>fab fa-dropbox</h1>
+    <i class="fab fa-dropbox fa-3x"></i>
+    <i class="fab fa-dropbox fa-3x" style="color: #005EF7"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf16b;</i>
+    
+    <h1>fas fa-drum</h1>
+    <i class="fas fa-drum fa-3x"></i>
+    <i class="fas fa-drum fa-3x" style="color: #F7A000"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf569;</i>
+    
+    <h1>fas fa-drum-steelpan</h1>
+    <i class="fas fa-drum-steelpan fa-3x"></i>
+    <i class="fas fa-drum-steelpan fa-3x" style="color: #F7A000"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf56a;</i>
+    
+    <h1>fas fa-drumstick-bite</h1>
+    <i class="fas fa-drumstick-bite fa-3x"></i>
+    <i class="fas fa-drumstick-bite fa-3x" style="color: #946432"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf6d7;</i>
+    
+    <h1>fab fa-drupal</h1>
+    <i class="fab fa-drupal fa-3x"></i>
+    <i class="fab fa-drupal fa-3x" style="color: #008AC8"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf1a9;</i>
+    
+    <h1>fas fa-dumbbell</h1>
+    <i class="fas fa-dumbbell fa-3x"></i>
+    <i class="fas fa-dumbbell fa-3x" style="color: #94B500"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf44b;</i>
+    
+    <h1>fas fa-dumpster</h1>
+    <i class="fas fa-dumpster fa-3x"></i>
+    <i class="fas fa-dumpster fa-3x" style="color: #75C800"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf793;</i>
+    
+    <h1>fas fa-dumpster-fire</h1>
+    <i class="fas fa-dumpster-fire fa-3x"></i>
+    <i class="fas fa-dumpster-fire fa-3x" style="color: #75C800"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf794;</i>
+    
+    <h1>fas fa-dungeon</h1>
+    <i class="fas fa-dungeon fa-3x"></i>
+    <i class="fas fa-dungeon fa-3x" style="color: #BF2F4E"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf6d9;</i>
+    
+    
+    <h1>fab fa-dyalog</h1>
+    <i class="fab fa-dyalog fa-3x"></i>
+    <i class="fab fa-dyalog fa-3x" style="color: #005EF7"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf399;</i>
+    
+    
+
+</body>
+
+</html>

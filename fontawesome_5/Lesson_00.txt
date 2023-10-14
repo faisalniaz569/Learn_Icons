@@ -1,0 +1,90 @@
+Font awesome 5 is discussed in every chapter starting from this chapter.
+
+Example 1:
+
+First, Download fontawesome 5, than link css folder at icon css files.
+Here, fas and fab is prefix in fontawesome 5.
+
+fas => solid,
+fab => Make a bold statement in small sizes.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Font awesome 5</title>
+    <link rel="stylesheet" href="fontawesome-free-5.15.4-web/css/all.min.css">
+</head>
+<body>
+    
+    <h1>fab fa-500px</h1>
+
+    <i class="fab fa-500px fa-3x"></i>
+
+    <i class="fab fa-500px fa-3x" style="color: #165CAA;"></i>
+     
+</body>
+</html>
+
+
+or,
+
+linkup with online fontawesome js files and create icons.
+
+Example:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Font awesome 5</title>
+    
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    
+    <h1>fab fa-500px</h1>
+
+    <i class="fab fa-500px fa-3x"></i>
+
+    <i class="fab fa-500px fa-3x" style="color: #165CAA;"></i>
+    
+    
+    <h1>fab fa-accessible-icon</h1>
+
+    <i class="fab fa-accessible-icon fa-3x"></i>
+
+    <i class="fab fa-accessible-icon fa-3x" style="color: #165CAA;"></i>
+     
+</body>
+</html>
+
+or,
+
+Create a js file for icon code and save it. Follow below instruction.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Font awesome 5</title>
+    
+    <script src="icon5.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    
+    <h1>fab fa-500px</h1>
+
+    <i class="fab fa-500px fa-3x"></i>
+
+    <i class="fab fa-500px fa-3x" style="color: #165CAA;"></i>
+    
+    
+    <h1>fab fa-accessible-icon</h1>
+
+    <i class="fab fa-accessible-icon fa-3x"></i>
+
+    <i class="fab fa-accessible-icon fa-3x" style="color: #165CAA;"></i>
+    
+</body>
+</html>

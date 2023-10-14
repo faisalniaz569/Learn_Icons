@@ -1,0 +1,688 @@
+********************
+
+LESSON: 07
+
+********************
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Font awesome 5</title>
+
+    <script src="icon5.js"></script>
+    <!--<link rel="stylesheet" href="fontawesome-free-5.15.4-web/css/all.min.css">-->
+</head>
+
+<body>
+
+    <span style="font-size: 72px; font-style: italic">G</span>
+
+    <h1>fab fa-galactic-republic</h1>
+    <i class="fab fa-galactic-republic fa-3x"></i>
+    <i class="fab fa-galactic-republic fa-3x" style="color: #3B5998"></i>
+
+    <p>Used on a button:</p>
+    <button style='font-size:24px'>Button <i class='fab fa-galactic-republic'></i></button>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf50c;</i>
+    
+    
+    <h1>fab fa-galactic-senate</h1>
+    <i class="fab fa-galactic-senate fa-3x"></i>
+    <i class="fab fa-galactic-senate fa-3x" style="color: #17277B"></i>
+
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf50d;</i>
+    
+    
+    <h1>fas fa-gamepad</h1>
+    <i class="fas fa-gamepad fa-3x"></i>
+    <i class="fas fa-gamepad fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf11b;</i>
+    
+    
+    <h1>fas fa-gas-pump</h1>
+    <i class="fas fa-gas-pump fa-3x"></i>
+    <i class="fas fa-gas-pump fa-3x" style="color: #CC5200;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf52f;</i>
+    
+    
+    <h1>fas fa-gavel</h1>
+    <i class="fas fa-gavel fa-3x"></i>
+    <i class="fas fa-gavel fa-3x" style="color: #a31515;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf0e3;</i>
+    
+    <h1>fas fa-gem</h1>
+    <i class="fas fa-gem fa-3x"></i>
+    <i class="fas fa-gem fa-3x" style="color: #21ACE0;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf3a5;</i>
+    
+    
+    <h1>far fa-gem</h1>
+    <i class="far fa-gem fa-3x"></i>
+    <i class="far fa-gem fa-3x" style="color: #21ACE0;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="far">&#xf3a5;</i>
+    
+    <h1>fas fa-genderless</h1>
+    <i class="fas fa-genderless fa-3x"></i>
+    <i class="fas fa-genderless fa-3x" style="color: #21ACE0;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf22d;</i>
+    
+    
+    <h1>fab fa-get-pocket</h1>
+    <i class="fab fa-get-pocket fa-3x"></i>
+    <i class="fab fa-get-pocket fa-3x" style="color: #E83E53;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf265;</i>
+    
+    
+    <h1>fab fa-gg</h1>
+    <i class="fab fa-gg fa-3x"></i>
+    <i class="fab fa-gg fa-3x" style="color: #cc8383;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf260;</i>
+    
+    
+    <h1>fab fa-gg-circle</h1>
+    <i class="fab fa-gg-circle fa-3x"></i>
+    <i class="fab fa-gg-circle fa-3x" style="color: #cc8383;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf261;</i>
+    
+    
+    <h1>fas fa-ghost</h1>
+    <i class="fas fa-ghost fa-3x"></i>
+    <i class="fas fa-ghost fa-3x" style="color: #53646F;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf6e2;</i>
+    
+    <h1>fas fa-gift</h1>
+    <i class="fas fa-gift fa-3x"></i>
+    <i class="fas fa-gift fa-3x" style="color: #E92122;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf06b;</i>
+    
+    
+    <h1>fas fa-gifts</h1>
+    <i class="fas fa-gifts fa-3x"></i>
+    <i class="fas fa-gifts fa-3x" style="color: #E92122;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf79c;</i>
+    
+    
+    <h1>fab fa-git</h1>
+    <i class="fab fa-git fa-3x"></i>
+    <i class="fab fa-git fa-3x" style="color: #E94D20;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf1d3;</i>
+    
+    <h1>fab fa-git-square</h1>
+    <i class="fab fa-git-square fa-3x"></i>
+    <i class="fab fa-git-square fa-3x" style="color: #E94D20;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf1d2;</i>
+    
+    <h1>fab fa-github</h1>
+    <i class="fab fa-github fa-3x"></i>
+    <i class="fab fa-github fa-3x" style="color: #808278;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf09b;</i>
+    
+    
+    <h1>fab fa-github-square</h1>
+    <i class="fab fa-github-square fa-3x"></i>
+    <i class="fab fa-github-square fa-3x" style="color: #808278;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf092;</i>
+    
+    
+    <h1>fab fa-github-alt</h1>
+    <i class="fab fa-github-alt fa-3x"></i>
+    <i class="fab fa-github-alt fa-3x" style="color: #808278;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf113;</i>
+    
+    <h1>fab fa-gitkraken</h1>
+    <i class="fab fa-gitkraken fa-3x"></i>
+    <i class="fab fa-gitkraken fa-3x" style="color: #117F75;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf3a6;</i>
+    
+    <h1>fab fa-gitlab</h1>
+    <i class="fab fa-gitlab fa-3x"></i>
+    <i class="fab fa-gitlab fa-3x" style="color: #fca326;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf296;</i>
+    
+    
+    <h1>fab fa-gitter</h1>
+    <i class="fab fa-gitter fa-3x"></i>
+    <i class="fab fa-gitter fa-3x" style="color: #dfb722;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf426;</i>
+    
+    
+    <h1>fas fa-glass-cheers</h1>
+    <i class="fas fa-glass-cheers fa-3x"></i>
+    <i class="fas fa-glass-cheers fa-3x" style="color: #5093F7;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf79f;</i>
+    
+    <h1>fas fa-glass-martini</h1>
+    <i class="fas fa-glass-martini fa-3x"></i>
+    <i class="fas fa-glass-martini fa-3x" style="color: #5093F7;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf000;</i>
+    
+    
+    <h1>fas fa-glass-martini-alt</h1>
+    <i class="fas fa-glass-martini-alt fa-3x"></i>
+    <i class="fas fa-glass-martini-alt fa-3x" style="color: #5093F7;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf57b;</i>
+    
+    
+    <h1>fas fa-glass-whiskey</h1>
+    <i class="fas fa-glass-whiskey fa-3x"></i>
+    <i class="fas fa-glass-whiskey fa-3x" style="color: #B5A587;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf7a0;</i>
+    
+    
+    <h1>fas fa-glasses</h1>
+    <i class="fas fa-glasses fa-3x"></i>
+    <i class="fas fa-glasses fa-3x" style="color: #F7A000;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf530;</i>
+    
+    
+    <h1>fab fa-glide</h1>
+    <i class="fab fa-glide fa-3x"></i>
+    <i class="fab fa-glide fa-3x" style="color: green;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf2a5;</i>
+    
+    <h1>fab fa-glide-g</h1>
+    <i class="fab fa-glide-g fa-3x"></i>
+    <i class="fab fa-glide-g fa-3x" style="color: green;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf2a6;</i>
+    
+    
+    <h1>fas fa-globe</h1>
+    <i class="fas fa-globe fa-3x"></i>
+    <i class="fas fa-globe fa-3x" style="color: #0e90b8;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf0ac;</i>
+    
+    
+    <h1>fas fa-globe-africa</h1>
+    <i class="fas fa-globe-africa fa-3x"></i>
+    <i class="fas fa-globe-africa fa-3x" style="color: #0e90b8;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf57c;</i>
+    
+    <h1>fas fa-globe-americas</h1>
+    <i class="fas fa-globe-americas fa-3x"></i>
+    <i class="fas fa-globe-americas fa-3x" style="color: #0e90b8;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf57d;</i>
+    
+    
+    <h1>fas fa-globe-asia</h1>
+    <i class="fas fa-globe-asia fa-3x"></i>
+    <i class="fas fa-globe-asia fa-3x" style="color: #0e90b8;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf57e;</i>
+    
+    <h1>fas fa-globe-europe</h1>
+    <i class="fas fa-globe-europe fa-3x"></i>
+    <i class="fas fa-globe-europe fa-3x" style="color: #0e90b8;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf7a2;</i>
+    
+    
+    <h1>fab fa-gofore</h1>
+    <i class="fab fa-gofore fa-3x"></i>
+    <i class="fab fa-gofore fa-3x" style="color: #F7814E;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf3a7;</i>
+    
+    
+    <h1>fas fa-golf-ball</h1>
+    <i class="fas fa-golf-ball fa-3x"></i>
+    <i class="fas fa-golf-ball fa-3x" style="color: #CDCDCD;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf450;</i>
+    
+    
+    <h1>fab fa-goodreads</h1>
+    <i class="fab fa-goodreads fa-3x"></i>
+    <i class="fab fa-goodreads fa-3x" style="color: #703701;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf3a8;</i>
+    
+    <h1>fab fa-goodreads-g</h1>
+    <i class="fab fa-goodreads-g fa-3x"></i>
+    <i class="fab fa-goodreads-g fa-3x" style="color: #703701;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf3a9;</i>
+    
+    
+    <h1>fab fa-google</h1>
+    <i class="fab fa-google fa-3x"></i>
+    <i class="fab fa-google fa-3x" style="color: #dd4b39;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf1a0;</i>
+    
+    <h1>fab fa-google-drive</h1>
+    <i class="fab fa-google-drive fa-3x"></i>
+    <i class="fab fa-google-drive fa-3x" style="color: #00ae3b;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf3aa;</i>
+    
+    
+    <h1>fab fa-google-play</h1>
+    <i class="fab fa-google-play fa-3x"></i>
+    <i class="fab fa-google-play fa-3x" style="color: #3bccff;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf3ab;</i>
+    
+    <h1>fab fa-google-plus</h1>
+    <i class="fab fa-google-plus fa-3x"></i>
+    <i class="fab fa-google-plus fa-3x" style="color: #db4a39;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf2b3;</i>
+    
+    <h1>fab fa-google-plus-g</h1>
+    <i class="fab fa-google-plus-g fa-3x"></i>
+    <i class="fab fa-google-plus-g fa-3x" style="color: #db4a39;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf0d5;</i>
+    
+    
+    <h1>fab fa-google-plus-square</h1>
+    <i class="fab fa-google-plus-square fa-3x"></i>
+    <i class="fab fa-google-plus-square fa-3x" style="color: #db4a39;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf0d4;</i>
+    
+    
+    <h1>fab fa-google-wallet</h1>
+    <i class="fab fa-google-wallet fa-3x"></i>
+    <i class="fab fa-google-wallet fa-3x" style="color: #307DEF;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf1ee;</i>
+    
+    <h1>fas fa-gopuram</h1>
+    <i class="fas fa-gopuram fa-3x"></i>
+    <i class="fas fa-gopuram fa-3x" style="color: blue;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf664;</i>
+    
+    
+    <h1>fas fa-graduation-cap</h1>
+    <i class="fas fa-graduation-cap fa-3x"></i>
+    <i class="fas fa-graduation-cap fa-3x" style="color: #4FA6AD;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf19d;</i>
+    
+    <h1>fab fa-gratipay</h1>
+    <i class="fab fa-gratipay fa-3x"></i>
+    <i class="fab fa-gratipay fa-3x" style="color: #F03A58;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf184;</i>
+    
+    
+    <h1>fas fa-greater-than</h1>
+    <i class="fas fa-greater-than fa-3x"></i>
+    <i class="fas fa-greater-than fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf531;</i>
+    
+    <h1>fas fa-greater-than-equal</h1>
+    <i class="fas fa-greater-than-equal fa-3x"></i>
+    <i class="fas fa-greater-than-equal fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf532;</i>
+    
+    
+    <h1>fas fa-grimace</h1>
+    <i class="fas fa-grimace fa-3x"></i>
+    <i class="fas fa-grimace fa-3x" style="color:  #a660c5;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf57f;</i>
+    
+    <h1>far fa-grimace</h1>
+    <i class="far fa-grimace fa-3x"></i>
+    <i class="far fa-grimace fa-3x" style="color:  #a660c5;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="far">&#xf57f;</i>
+    
+    
+    <h1>fas fa-grin</h1>
+    <i class="fas fa-grin fa-3x"></i>
+    <i class="fas fa-grin fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf580;</i>
+    
+    <h1>far fa-grin</h1>
+    <i class="far fa-grin fa-3x"></i>
+    <i class="far fa-grin fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="far">&#xf580;</i>
+    
+    
+    <h1>fas fa-grin-alt</h1>
+    <i class="fas fa-grin-alt fa-3x"></i>
+    <i class="fas fa-grin-alt fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf581;</i>
+    
+    <h1>far fa-grin-alt</h1>
+    <i class="far fa-grin-alt fa-3x"></i>
+    <i class="far fa-grin-alt fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="far">&#xf581;</i>
+    
+    
+    <h1>fas fa-grin-beam</h1>
+    <i class="fas fa-grin-beam fa-3x"></i>
+    <i class="fas fa-grin-beam fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf582;</i>
+    
+    <h1>far fa-grin-beam</h1>
+    <i class="far fa-grin-beam fa-3x"></i>
+    <i class="far fa-grin-beam fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="far">&#xf582;</i>
+    
+    
+    <h1>fas fa-grin-beam-sweat</h1>
+    <i class="fas fa-grin-beam-sweat fa-3x"></i>
+    <i class="fas fa-grin-beam-sweat fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf583;</i>
+    
+    <h1>far fa-grin-beam-sweat</h1>
+    <i class="far fa-grin-beam-sweat fa-3x"></i>
+    <i class="far fa-grin-beam-sweat fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="far">&#xf583;</i>
+    
+    <h1>fas fa-grin-hearts</h1>
+    <i class="fas fa-grin-hearts fa-3x"></i>
+    <i class="fas fa-grin-hearts fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf584;</i>
+    
+    
+    <h1>far fa-grin-hearts</h1>
+    <i class="far fa-grin-hearts fa-3x"></i>
+    <i class="far fa-grin-hearts fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="far">&#xf584;</i>
+    
+    
+    <h1>fas fa-grin-squint</h1>
+    <i class="fas fa-grin-squint fa-3x"></i>
+    <i class="fas fa-grin-squint fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf585;</i>
+    
+    
+    <h1>far fa-grin-squint</h1>
+    <i class="far fa-grin-squint fa-3x"></i>
+    <i class="far fa-grin-squint fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="far">&#xf585;</i>
+    
+    
+    <h1>fas fa-grin-squint-tears</h1>
+    <i class="fas fa-grin-squint-tears fa-3x"></i>
+    <i class="fas fa-grin-squint-tears fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf586;</i>
+    
+    
+    <h1>far fa-grin-squint-tears</h1>
+    <i class="far fa-grin-squint-tears fa-3x"></i>
+    <i class="far fa-grin-squint-tears fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="far">&#xf586;</i>
+    
+    
+    <h1>fas fa-grin-stars</h1>
+    <i class="fas fa-grin-stars fa-3x"></i>
+    <i class="fas fa-grin-stars fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf587;</i>
+    
+    
+    <h1>far fa-grin-stars</h1>
+    <i class="far fa-grin-stars fa-3x"></i>
+    <i class="far fa-grin-stars fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="far">&#xf587;</i>
+    
+    
+    <h1>fas fa-grin-tears</h1>
+    <i class="fas fa-grin-tears fa-3x"></i>
+    <i class="fas fa-grin-tears fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf588;</i>
+    
+    
+    <h1>far fa-grin-tears</h1>
+    <i class="far fa-grin-tears fa-3x"></i>
+    <i class="far fa-grin-tears fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="far">&#xf588;</i>
+    
+    
+    <h1>fas fa-grin-tongue</h1>
+    <i class="fas fa-grin-tongue fa-3x"></i>
+    <i class="fas fa-grin-tongue fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf589;</i>
+    
+    
+    <h1>far fa-grin-tongue</h1>
+    <i class="far fa-grin-tongue fa-3x"></i>
+    <i class="far fa-grin-tongue fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="far">&#xf589;</i>
+    
+    
+    <h1>fas fa-grin-tongue-squint</h1>
+    <i class="fas fa-grin-tongue-squint fa-3x"></i>
+    <i class="fas fa-grin-tongue-squint fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf58a;</i>
+    
+    
+    <h1>far fa-grin-tongue-squint</h1>
+    <i class="far fa-grin-tongue-squint fa-3x"></i>
+    <i class="far fa-grin-tongue-squint fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="far">&#xf58a;</i>
+    
+    
+    <h1>fas fa-grin-tongue-wink</h1>
+    <i class="fas fa-grin-tongue-wink fa-3x"></i>
+    <i class="fas fa-grin-tongue-wink fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf58b;</i>
+    
+    
+    <h1>far fa-grin-tongue-wink</h1>
+    <i class="far fa-grin-tongue-wink fa-3x"></i>
+    <i class="far fa-grin-tongue-wink fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="far">&#xf58b;</i>
+    
+    
+    <h1>fas fa-grin-wink</h1>
+    <i class="fas fa-grin-wink fa-3x"></i>
+    <i class="fas fa-grin-wink fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf58c;</i>
+    
+    
+    <h1>far fa-grin-wink</h1>
+    <i class="far fa-grin-wink fa-3x"></i>
+    <i class="far fa-grin-wink fa-3x" style="color: red;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="far">&#xf58c;</i>
+    
+    
+    <h1>fas fa-grip-horizontal</h1>
+    <i class="fas fa-grip-horizontal fa-3x"></i>
+    <i class="fas fa-grip-horizontal fa-3x" style="color: chocolate;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf58d;</i>
+    
+    <h1>fas fa-grip-vertical</h1>
+    <i class="fas fa-grip-vertical fa-3x"></i>
+    <i class="fas fa-grip-vertical fa-3x" style="color: chocolate;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf58e;</i>
+    
+    <h1>fas fa-grip-lines</h1>
+    <i class="fas fa-grip-lines fa-3x"></i>
+    <i class="fas fa-grip-lines fa-3x" style="color: chocolate;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf7a4;</i>
+    
+    <h1>fas fa-grip-lines-vertical</h1>
+    <i class="fas fa-grip-lines-vertical fa-3x"></i>
+    <i class="fas fa-grip-lines-vertical fa-3x" style="color: chocolate;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf7a5;</i>
+    
+    
+    <h1>fab fa-gripfire</h1>
+    <i class="fab fa-gripfire fa-3x"></i>
+    <i class="fab fa-gripfire fa-3x" style="color: #ce0606;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf3ac;</i>
+    
+    <h1>fab fa-grunt</h1>
+    <i class="fab fa-grunt fa-3x"></i>
+    <i class="fab fa-grunt fa-3x" style="color: #453014;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf3ad;</i>
+    
+    
+    <h1>fas fa-guitar</h1>
+    <i class="fas fa-guitar fa-3x"></i>
+    <i class="fas fa-guitar fa-3x" style="color: #d4a853;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fas">&#xf7a6;</i>
+    
+    
+    <h1>fab fa-gulp</h1>
+    <i class="fab fa-gulp fa-3x"></i>
+    <i class="fab fa-gulp fa-3x" style="color: #d34a47;"></i>
+    
+    <p>Unicode:</p>
+    <i style="font-size: 24px" class="fab">&#xf3ae;</i>
+    
+    
+
+</body>
+
+</html>

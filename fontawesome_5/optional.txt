@@ -1,0 +1,45 @@
+Html:
+------
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Optional icons</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <script src="icon5.js" crossorigin="anonymous"></script>
+  </head>
+  <body>
+
+    <div id="sudo">
+      <a class="home">Home</a>
+    </div>
+    <br /><br />
+
+    <i style="font-size: 24px" class="fas">&#xf015;</i>
+
+  </body>
+</html>
+
+Css:
+====
+
+#sudo a.home::after {
+    content: "\f015";
+    color: red;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+#sudo a.home::after {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+}
