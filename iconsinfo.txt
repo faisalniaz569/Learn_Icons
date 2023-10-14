@@ -1,0 +1,8 @@
+** Information -
+
+## How To Add Icons
+
+To insert an icon, add the name of the icon class to any inline HTML element.
+
+The <i> and <span> elements are widely used to add icons.
+
