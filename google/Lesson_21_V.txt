@@ -1,0 +1,342 @@
+********************
+
+Lesson: 21
+
+********************
+
+The following icons start with V.
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google icon</title>
+    <link rel="stylesheet" href="matrix.css">
+
+</head>
+<body>
+    
+    <span style="font-size: 72px; font-style: italic">V</span>
+
+    <br><br>
+    <h3>verified_user</h3>
+    <i class="material-icons">verified_user</i>
+    <i class="material-icons" style="font-size:36px">verified_user</i>
+    <i class="material-icons" style="font-size:48px; color: #845b4c;">verified_user</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8e8;</i>
+    
+    
+    <h3>vertical_align_bottom</h3>
+    <i class="material-icons">vertical_align_bottom</i>
+    <i class="material-icons" style="font-size:36px">vertical_align_bottom</i>
+    <i class="material-icons" style="font-size:48px; color: red;">vertical_align_bottom</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe258;</i>
+    
+    
+    <h3>vertical_align_center</h3>
+    <i class="material-icons">vertical_align_center</i>
+    <i class="material-icons" style="font-size:36px">vertical_align_center</i>
+    <i class="material-icons" style="font-size:48px; color: red;">vertical_align_center</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe259;</i>
+    
+    
+    <h3>vertical_align_top</h3>
+    <i class="material-icons">vertical_align_top</i>
+    <i class="material-icons" style="font-size:36px">vertical_align_top</i>
+    <i class="material-icons" style="font-size:48px; color: red;">vertical_align_top</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe25a;</i>
+    
+    
+    <h3>vibration</h3>
+    <i class="material-icons">vibration</i>
+    <i class="material-icons" style="font-size:36px">vibration</i>
+    <i class="material-icons" style="font-size:48px; color:  #497d91;">vibration</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe62d;</i>
+    
+    
+    <h3>video_call</h3>
+    <i class="material-icons">video_call</i>
+    <i class="material-icons" style="font-size:36px">video_call</i>
+    <i class="material-icons" style="font-size:48px; color: #6c44fc;">video_call</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe070;</i>
+    
+    
+    <h3>video_label</h3>
+    <i class="material-icons">video_label</i>
+    <i class="material-icons" style="font-size:36px">video_label</i>
+    <i class="material-icons" style="font-size:48px; color: #6c44fc;">video_label</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe071;</i>
+    
+    
+    <h3>video_library</h3>
+    <i class="material-icons">video_library</i>
+    <i class="material-icons" style="font-size:36px">video_library</i>
+    <i class="material-icons" style="font-size:48px; color: orange;">video_library</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe04a;</i>
+    
+    
+    <h3>videocam</h3>
+    <i class="material-icons">videocam</i>
+    <i class="material-icons" style="font-size:36px">videocam</i>
+    <i class="material-icons" style="font-size:48px; color: #6C8CBC;">videocam</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe04b;</i>
+    
+    
+    <h3>videocam_off</h3>
+    <i class="material-icons">videocam_off</i>
+    <i class="material-icons" style="font-size:36px">videocam_off</i>
+    <i class="material-icons" style="font-size:48px; color: #6C8CBC;">videocam_off</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe04c;</i>
+    
+    
+    <h3>videogame_asset</h3>
+    <i class="material-icons">videogame_asset</i>
+    <i class="material-icons" style="font-size:36px">videogame_asset</i>
+    <i class="material-icons" style="font-size:48px; color: #bcdb1a;">videogame_asset</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe338;</i>
+    
+    
+    <h3>view_agenda</h3>
+    <i class="material-icons">view_agenda</i>
+    <i class="material-icons" style="font-size:36px">view_agenda</i>
+    <i class="material-icons" style="font-size:48px; color: purple;">view_agenda</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8e9;</i>
+    
+    
+    <h3>view_array</h3>
+    <i class="material-icons">view_array</i>
+    <i class="material-icons" style="font-size:36px">view_array</i>
+    <i class="material-icons" style="font-size:48px; color: purple;">view_array</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8ea;</i>
+    
+    
+    <h3>view_carousel</h3>
+    <i class="material-icons">view_carousel</i>
+    <i class="material-icons" style="font-size:36px">view_carousel</i>
+    <i class="material-icons" style="font-size:48px; color: purple;">view_carousel</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8eb;</i>
+    
+    
+    <h3>view_column</h3>
+    <i class="material-icons">view_column</i>
+    <i class="material-icons" style="font-size:36px">view_column</i>
+    <i class="material-icons" style="font-size:48px; color: purple;">view_column</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8ec;</i>
+    
+    
+    <h3>view_comfy</h3>
+    <i class="material-icons">view_comfy</i>
+    <i class="material-icons" style="font-size:36px">view_comfy</i>
+    <i class="material-icons" style="font-size:48px; color: purple;">view_comfy</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe42a;</i>
+    
+    
+    <h3>view_compact</h3>
+    <i class="material-icons">view_compact</i>
+    <i class="material-icons" style="font-size:36px">view_compact</i>
+    <i class="material-icons" style="font-size:48px; color: purple;">view_compact</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe42b;</i>
+    
+    
+    <h3>view_day</h3>
+    <i class="material-icons">view_day</i>
+    <i class="material-icons" style="font-size:36px">view_day</i>
+    <i class="material-icons" style="font-size:48px; color: purple;">view_day</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8ed;</i>
+    
+    
+    <h3>view_headline</h3>
+    <i class="material-icons">view_headline</i>
+    <i class="material-icons" style="font-size:36px">view_headline</i>
+    <i class="material-icons" style="font-size:48px; color: purple;">view_headline</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8ee;</i>
+    
+    
+    <h3>view_list</h3>
+    <i class="material-icons">view_list</i>
+    <i class="material-icons" style="font-size:36px">view_list</i>
+    <i class="material-icons" style="font-size:48px; color: purple;">view_list</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8ef;</i>
+    
+    
+    <h3>view_module</h3>
+    <i class="material-icons">view_module</i>
+    <i class="material-icons" style="font-size:36px">view_module</i>
+    <i class="material-icons" style="font-size:48px; color: purple;">view_module</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8f0;</i>
+    
+    
+    <h3>view_quilt</h3>
+    <i class="material-icons">view_quilt</i>
+    <i class="material-icons" style="font-size:36px">view_quilt</i>
+    <i class="material-icons" style="font-size:48px; color: purple;">view_quilt</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8f1;</i>
+    
+    
+    <h3>view_stream</h3>
+    <i class="material-icons">view_stream</i>
+    <i class="material-icons" style="font-size:36px">view_stream</i>
+    <i class="material-icons" style="font-size:48px; color: red;">view_stream</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8f2;</i>
+    
+    
+    <h3>view_week</h3>
+    <i class="material-icons">view_week</i>
+    <i class="material-icons" style="font-size:36px">view_week</i>
+    <i class="material-icons" style="font-size:48px; color: red;">view_week</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8f3;</i>
+    
+    
+    <h3>vignette</h3>
+    <i class="material-icons">vignette</i>
+    <i class="material-icons" style="font-size:36px">vignette</i>
+    <i class="material-icons" style="font-size:48px; color: red;">vignette</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe435;</i>
+    
+    
+    <h3>visibility</h3>
+    <i class="material-icons">visibility</i>
+    <i class="material-icons" style="font-size:36px">visibility</i>
+    <i class="material-icons" style="font-size:48px; color: #2e536f;">visibility</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8f4;</i>
+    
+    
+    <h3>visibility_off</h3>
+    <i class="material-icons">visibility_off</i>
+    <i class="material-icons" style="font-size:36px">visibility_off</i>
+    <i class="material-icons" style="font-size:48px; color: #2e536f;">visibility_off</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8f5;</i>
+    
+    
+    <h3>voice_chat</h3>
+    <i class="material-icons">voice_chat</i>
+    <i class="material-icons" style="font-size:36px">voice_chat</i>
+    <i class="material-icons" style="font-size:48px; color: #3970ee;">voice_chat</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe62e;</i>
+    
+    
+    <h3>voicemail</h3>
+    <i class="material-icons">voicemail</i>
+    <i class="material-icons" style="font-size:36px">voicemail</i>
+    <i class="material-icons" style="font-size:48px; color: #3970ee;">voicemail</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe0d9;</i>
+    
+    <h3>volume_up</h3>
+    <i class="material-icons">volume_up</i>
+    <i class="material-icons" style="font-size:36px">volume_up</i>
+    <i class="material-icons" style="font-size:48px; color: red;">volume_up</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe050;</i>
+    
+    
+    <h3>volume_down</h3>
+    <i class="material-icons">volume_down</i>
+    <i class="material-icons" style="font-size:36px">volume_down</i>
+    <i class="material-icons" style="font-size:48px; color: red;">volume_down</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe04d;</i>
+    
+    
+    <h3>volume_mute</h3>
+    <i class="material-icons">volume_mute</i>
+    <i class="material-icons" style="font-size:36px">volume_mute</i>
+    <i class="material-icons" style="font-size:48px; color: red;">volume_mute</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe04e;</i>
+    
+    
+    <h3>volume_off</h3>
+    <i class="material-icons">volume_off</i>
+    <i class="material-icons" style="font-size:36px">volume_off</i>
+    <i class="material-icons" style="font-size:48px; color: red;">volume_off</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe04f;</i>
+    
+    
+    <h3>vpn_key</h3>
+    <i class="material-icons">vpn_key</i>
+    <i class="material-icons" style="font-size:36px">vpn_key</i>
+    <i class="material-icons" style="font-size:48px; color: #05d48c;">vpn_key</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe0da;</i>
+    
+    
+    <h3>vpn_lock</h3>
+    <i class="material-icons">vpn_lock</i>
+    <i class="material-icons" style="font-size:36px">vpn_lock</i>
+    <i class="material-icons" style="font-size:48px; color: #05d48c;">vpn_lock</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe62f;</i>
+    
+    
+
+</body>
+
+</html>

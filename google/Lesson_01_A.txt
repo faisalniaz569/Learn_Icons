@@ -1,0 +1,640 @@
+********************
+
+Lesson: 01
+
+********************
+
+This is Google fonts Tutorial. Now, it begins in start A.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google icon</title>
+    <link rel="stylesheet" href="matrix.css">
+
+</head>
+<body>
+    
+    <span style="font-size: 72px; font-style: italic">A</span>
+
+    <br><br>
+    <h3>ac_unit</h3>
+    <i class="material-icons">ac_unit</i>
+    <i class="material-icons" style="font-size:36px">ac_unit</i>
+    <i class="material-icons" style="font-size:48px; color: #dd2d00">ac_unit</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xeb3b;</i>
+
+    <br><br>
+    <h3>access_alarm</h3>
+    <i class="material-icons">access_alarm</i>
+    <i class="material-icons" style="font-size:36px">access_alarm</i>
+    <i class="material-icons" style="font-size:48px; color: #dd2d00">access_alarm</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe190;</i>
+    
+    
+    <h3>access_alarms</h3>
+    <i class="material-icons">access_alarms</i>
+    <i class="material-icons" style="font-size:36px">access_alarms</i>
+    <i class="material-icons" style="font-size:48px; color: #dd2d00">access_alarms</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe191;</i>
+    
+    
+    <h3>access_time</h3>
+    <i class="material-icons">access_time</i>
+    <i class="material-icons" style="font-size:36px">access_time</i>
+    <i class="material-icons" style="font-size:48px; color: #dd2d00">access_time</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe192;</i>
+    
+    
+    <h3>accessibility</h3>
+    <i class="material-icons">accessibility</i>
+    <i class="material-icons" style="font-size:36px">accessibility</i>
+    <i class="material-icons" style="font-size:48px; color: #dd2d00">accessibility</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe84e;</i>
+    
+    
+    <h3>accessible</h3>
+    <i class="material-icons">accessible</i>
+    <i class="material-icons" style="font-size:36px">accessible</i>
+    <i class="material-icons" style="font-size:48px; color: #E07400;">accessible</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe914;</i>
+    
+    
+    <h3>account_balance</h3>
+    <i class="material-icons">account_balance</i>
+    <i class="material-icons" style="font-size:36px">account_balance</i>
+    <i class="material-icons" style="font-size:48px; color: #338420;">account_balance</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe84f;</i>
+    
+    
+    <h3>account_balance_wallet</h3>
+    <i class="material-icons">account_balance_wallet</i>
+    <i class="material-icons" style="font-size:36px">account_balance_wallet</i>
+    <i class="material-icons" style="font-size:48px; color: #914900;">account_balance_wallet</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe850;</i>
+    
+    
+    <h3>account_box</h3>
+    <i class="material-icons">account_box</i>
+    <i class="material-icons" style="font-size:36px">account_box</i>
+    <i class="material-icons" style="font-size:48px; color: #42B7A9;">account_box</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe851;</i>
+    
+    
+    <h3>account_circle</h3>
+    <i class="material-icons">account_circle</i>
+    <i class="material-icons" style="font-size:36px">account_circle</i>
+    <i class="material-icons" style="font-size:48px; color: #42B7A9;">account_circle</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe853;</i>
+    
+    
+    <h3>adb</h3>
+    <i class="material-icons">adb</i>
+    <i class="material-icons" style="font-size:36px">adb</i>
+    <i class="material-icons" style="font-size:48px; color: #aaddbb;">adb</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe60e;</i>
+    
+    
+    <h3>add</h3>
+    <i class="material-icons">add</i>
+    <i class="material-icons" style="font-size:36px">add</i>
+    <i class="material-icons" style="font-size:48px; color: #c3c3cb;">add</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe145;</i>
+    
+    
+    <h3>add_a_photo</h3>
+    <i class="material-icons">add_a_photo</i>
+    <i class="material-icons" style="font-size:36px">add_a_photo</i>
+    <i class="material-icons" style="font-size:48px; color: #646761;">add_a_photo</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe439;</i>
+    
+    
+    <h3>add_alarm</h3>
+    <i class="material-icons">add_alarm</i>
+    <i class="material-icons" style="font-size:36px">add_alarm</i>
+    <i class="material-icons" style="font-size:48px; color: #c98239;">add_alarm</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe193;</i>
+    
+    
+    <h3>add_alert</h3>
+    <i class="material-icons">add_alert</i>
+    <i class="material-icons" style="font-size:36px">add_alert</i>
+    <i class="material-icons" style="font-size:48px; color: red;">add_alert</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe003;</i>
+    
+    <h3>add_box</h3>
+    <i class="material-icons">add_box</i>
+    <i class="material-icons" style="font-size:36px">add_box</i>
+    <i class="material-icons" style="font-size:48px; color: #dc6b9a;">add_box</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe146;</i>
+    
+    
+    <h3>add_circle</h3>
+    <i class="material-icons">add_circle</i>
+    <i class="material-icons" style="font-size:36px">add_circle</i>
+    <i class="material-icons" style="font-size:48px; color: #1de8b5;">add_circle</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe147;</i>
+    
+    
+    <h3>add_circle_outline</h3>
+    <i class="material-icons">add_circle_outline</i>
+    <i class="material-icons" style="font-size:36px">add_circle_outline</i>
+    <i class="material-icons" style="font-size:48px; color: chocolate;">add_circle_outline</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe148;</i>
+    
+    
+    <h3>add_shopping_cart</h3>
+    <i class="material-icons">add_shopping_cart</i>
+    <i class="material-icons" style="font-size:36px">add_shopping_cart</i>
+    <i class="material-icons" style="font-size:48px; color: #6EAE40;">add_shopping_cart</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe854;</i>
+    
+    
+    <h3>add_to_photos</h3>
+    <i class="material-icons">add_to_photos</i>
+    <i class="material-icons" style="font-size:36px">add_to_photos</i>
+    <i class="material-icons" style="font-size:48px; color: #8dc44f;">add_to_photos</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe39d;</i>
+    
+    
+    <h3>add_to_queue</h3>
+    <i class="material-icons">add_to_queue</i>
+    <i class="material-icons" style="font-size:36px">add_to_queue</i>
+    <i class="material-icons" style="font-size:48px; color: #DC2026;">add_to_queue</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe05c;</i>
+    
+    
+    <h3>adjust</h3>
+    <i class="material-icons">adjust</i>
+    <i class="material-icons" style="font-size:36px">adjust</i>
+    <i class="material-icons" style="font-size:48px; color: blue;">adjust</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe39e;</i>
+    
+    <h3>airline_seat_flat</h3>
+    <i class="material-icons">airline_seat_flat</i>
+    <i class="material-icons" style="font-size:36px">airline_seat_flat</i>
+    <i class="material-icons" style="font-size:48px; color: #4995fd;">airline_seat_flat</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe630;</i>
+    
+    
+    <h3>airline_seat_flat_angled</h3>
+    <i class="material-icons">airline_seat_flat_angled</i>
+    <i class="material-icons" style="font-size:36px">airline_seat_flat_angled</i>
+    <i class="material-icons" style="font-size:48px; color: #4995fd;">airline_seat_flat_angled</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe631;</i>
+    
+    
+    
+    <h3>airline_seat_individual_suite</h3>
+    <i class="material-icons">airline_seat_individual_suite</i>
+    <i class="material-icons" style="font-size:36px">airline_seat_individual_suite</i>
+    <i class="material-icons" style="font-size:48px; color: #4995fd;">airline_seat_individual_suite</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe632;</i>
+    
+    
+    <h3>airline_seat_legroom_extra</h3>
+    <i class="material-icons">airline_seat_legroom_extra</i>
+    <i class="material-icons" style="font-size:36px">airline_seat_legroom_extra</i>
+    <i class="material-icons" style="font-size:48px; color:  #005589;">airline_seat_legroom_extra</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe633;</i>
+    
+    <h3>airline_seat_legroom_normal</h3>
+    <i class="material-icons">airline_seat_legroom_normal</i>
+    <i class="material-icons" style="font-size:36px">airline_seat_legroom_normal</i>
+    <i class="material-icons" style="font-size:48px; color:  #005589;">airline_seat_legroom_normal</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe634;</i>
+    
+    
+    <h3>airline_seat_legroom_reduced</h3>
+    <i class="material-icons">airline_seat_legroom_reduced</i>
+    <i class="material-icons" style="font-size:36px">airline_seat_legroom_reduced</i>
+    <i class="material-icons" style="font-size:48px; color:  #005589;">airline_seat_legroom_reduced</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe635;</i>
+    
+    
+    <h3>airline_seat_recline_extra</h3>
+    <i class="material-icons">airline_seat_recline_extra</i>
+    <i class="material-icons" style="font-size:36px">airline_seat_recline_extra</i>
+    <i class="material-icons" style="font-size:48px; color:  #005589;">airline_seat_recline_extra</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe636;</i>
+    
+    
+    <h3>airline_seat_recline_normal</h3>
+    <i class="material-icons">airline_seat_recline_normal</i>
+    <i class="material-icons" style="font-size:36px">airline_seat_recline_normal</i>
+    <i class="material-icons" style="font-size:48px; color:  #005589;">airline_seat_recline_normal</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe637;</i>
+    
+    
+    <h3>airplanemode_active</h3>
+    <i class="material-icons">airplanemode_active</i>
+    <i class="material-icons" style="font-size:36px">airplanemode_active</i>
+    <i class="material-icons" style="font-size:48px; color: blue;">airplanemode_active</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe195;</i>
+    
+    
+    <h3>airplanemode_inactive</h3>
+    <i class="material-icons">airplanemode_inactive</i>
+    <i class="material-icons" style="font-size:36px">airplanemode_inactive</i>
+    <i class="material-icons" style="font-size:48px; color: blue;">airplanemode_inactive</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe194;</i>
+    
+    
+    <h3>airplay</h3>
+    <i class="material-icons">airplay</i>
+    <i class="material-icons" style="font-size:36px">airplay</i>
+    <i class="material-icons" style="font-size:48px; color: #c98239;">airplay</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe055;</i>
+    
+    
+    <h3>airport_shuttle</h3>
+    <i class="material-icons">airport_shuttle</i>
+    <i class="material-icons" style="font-size:36px">airport_shuttle</i>
+    <i class="material-icons" style="font-size:48px; color: #3796B0;">airport_shuttle</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xeb3c;</i>
+    
+    
+    <h3>alarm</h3>
+    <i class="material-icons">alarm</i>
+    <i class="material-icons" style="font-size:36px">alarm</i>
+    <i class="material-icons" style="font-size:48px; color: #c98239;">alarm</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe855;</i>
+    
+    <h3>alarm_add</h3>
+    <i class="material-icons">alarm_add</i>
+    <i class="material-icons" style="font-size:36px">alarm_add</i>
+    <i class="material-icons" style="font-size:48px; color: #c98239;">alarm_add</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe856;</i>
+    
+    
+    <h3>alarm_off</h3>
+    <i class="material-icons">alarm_off</i>
+    <i class="material-icons" style="font-size:36px">alarm_off</i>
+    <i class="material-icons" style="font-size:48px; color: #c98239;">alarm_off</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe857;</i>
+    
+    <h3>alarm_on</h3>
+    <i class="material-icons">alarm_on</i>
+    <i class="material-icons" style="font-size:36px">alarm_on</i>
+    <i class="material-icons" style="font-size:48px; color: #c98239;">alarm_on</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe858;</i>
+    
+    
+    <h3>album</h3>
+    <i class="material-icons">album</i>
+    <i class="material-icons" style="font-size:36px">album</i>
+    <i class="material-icons" style="font-size:48px; color: #8e4256;">album</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe019;</i>
+    
+    <h3>all_out</h3>
+    <i class="material-icons">all_out</i>
+    <i class="material-icons" style="font-size:36px">all_out</i>
+    <i class="material-icons" style="font-size:48px; color: blue;">all_out</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe90b;</i>
+    
+    
+    <h3>all_inclusive</h3>
+    <i class="material-icons">all_inclusive</i>
+    <i class="material-icons" style="font-size:36px">all_inclusive</i>
+    <i class="material-icons" style="font-size:48px; color: blue;">all_inclusive</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xeb3d;</i>
+    
+    
+    <h3>android</h3>
+    <i class="material-icons">android</i>
+    <i class="material-icons" style="font-size:36px">android</i>
+    <i class="material-icons" style="font-size:48px; color: #3DDC84;">android</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe859;</i>
+    
+    
+    <h3>announcement</h3>
+    <i class="material-icons">announcement</i>
+    <i class="material-icons" style="font-size:36px">announcement</i>
+    <i class="material-icons" style="font-size:48px; color: #6CB0F2;">announcement</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe85a;</i>
+    
+    
+    <h3>apps</h3>
+    <i class="material-icons">apps</i>
+    <i class="material-icons" style="font-size:36px">apps</i>
+    <i class="material-icons" style="font-size:48px; color: #044d94;">apps</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe5c3;</i>
+    
+    
+    <h3>archive</h3>
+    <i class="material-icons">archive</i>
+    <i class="material-icons" style="font-size:36px">archive</i>
+    <i class="material-icons" style="font-size:48px; color: red;">archive</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe149;</i>
+    
+    
+    <h3>arrow_upward</h3>
+    <i class="material-icons">arrow_upward</i>
+    <i class="material-icons" style="font-size:36px">arrow_upward</i>
+    <i class="material-icons" style="font-size:48px; color: #044d94;">arrow_upward</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe5d8;</i>
+    
+    <h3>arrow_forward</h3>
+    <i class="material-icons">arrow_forward</i>
+    <i class="material-icons" style="font-size:36px">arrow_forward</i>
+    <i class="material-icons" style="font-size:48px; color: #044d94;">arrow_forward</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe5c8;</i>
+    
+    
+    <h3>arrow_downward</h3>
+    <i class="material-icons">arrow_downward</i>
+    <i class="material-icons" style="font-size:36px">arrow_downward</i>
+    <i class="material-icons" style="font-size:48px; color: #044d94;">arrow_downward</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe5db;</i>
+    
+    
+    <h3>arrow_back</h3>
+    <i class="material-icons">arrow_back</i>
+    <i class="material-icons" style="font-size:36px">arrow_back</i>
+    <i class="material-icons" style="font-size:48px; color: #044d94;">arrow_back</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe5c4;</i>
+    
+    
+    <h3>arrow_drop_up</h3>
+    <i class="material-icons">arrow_drop_up</i>
+    <i class="material-icons" style="font-size:36px">arrow_drop_up</i>
+    <i class="material-icons" style="font-size:48px; color: #044d94;">arrow_drop_up</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe5c7;</i>
+    
+    
+    <h3>arrow_drop_down</h3>
+    <i class="material-icons">arrow_drop_down</i>
+    <i class="material-icons" style="font-size:36px">arrow_drop_down</i>
+    <i class="material-icons" style="font-size:48px; color: #044d94;">arrow_drop_down</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe5c5;</i>
+    
+    
+    <h3>arrow_drop_down_circle</h3>
+    <i class="material-icons">arrow_drop_down_circle</i>
+    <i class="material-icons" style="font-size:36px">arrow_drop_down_circle</i>
+    <i class="material-icons" style="font-size:48px; color: #044d94;">arrow_drop_down_circle</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe5c6;</i>
+    
+    
+    <h3>art_track</h3>
+    <i class="material-icons">art_track</i>
+    <i class="material-icons" style="font-size:36px">art_track</i>
+    <i class="material-icons" style="font-size:48px; color: red;">art_track</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe060;</i>
+    
+    
+    <h3>aspect_ratio</h3>
+    <i class="material-icons">aspect_ratio</i>
+    <i class="material-icons" style="font-size:36px">aspect_ratio</i>
+    <i class="material-icons" style="font-size:48px; color: #c70000;">aspect_ratio</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe85b;</i>
+    
+    
+    <h3>assessment</h3>
+    <i class="material-icons">assessment</i>
+    <i class="material-icons" style="font-size:36px">assessment</i>
+    <i class="material-icons" style="font-size:48px; color: #4e65f7;">assessment</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe85c;</i>
+    
+    
+    <h3>assignment</h3>
+    <i class="material-icons">assignment</i>
+    <i class="material-icons" style="font-size:36px">assignment</i>
+    <i class="material-icons" style="font-size:48px; color: cadetblue;">assignment</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe85d;</i>
+    
+    
+    <h3>assignment_ind</h3>
+    <i class="material-icons">assignment_ind</i>
+    <i class="material-icons" style="font-size:36px">assignment_ind</i>
+    <i class="material-icons" style="font-size:48px; color: cadetblue;">assignment_ind</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe85e;</i>
+    
+    
+    <h3>assignment_late</h3>
+    <i class="material-icons">assignment_late</i>
+    <i class="material-icons" style="font-size:36px">assignment_late</i>
+    <i class="material-icons" style="font-size:48px; color: cadetblue;">assignment_late</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe85f;</i>
+    
+    
+    <h3>assignment_return</h3>
+    <i class="material-icons">assignment_return</i>
+    <i class="material-icons" style="font-size:36px">assignment_return</i>
+    <i class="material-icons" style="font-size:48px; color: cadetblue;">assignment_return</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe860;</i>
+    
+    
+    <h3>assignment_returned</h3>
+    <i class="material-icons">assignment_returned</i>
+    <i class="material-icons" style="font-size:36px">assignment_returned</i>
+    <i class="material-icons" style="font-size:48px; color: cadetblue;">assignment_returned</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe861;</i>
+    
+    
+    <h3>assignment_turned_in</h3>
+    <i class="material-icons">assignment_turned_in</i>
+    <i class="material-icons" style="font-size:36px">assignment_turned_in</i>
+    <i class="material-icons" style="font-size:48px; color: cadetblue;">assignment_turned_in</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe862;</i>
+    
+    
+    <h3>assistant</h3>
+    <i class="material-icons">assistant</i>
+    <i class="material-icons" style="font-size:36px">assistant</i>
+    <i class="material-icons" style="font-size:48px; color: #4e65f7;">assistant</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe39f;</i>
+    
+    
+    <h3>assistant_photo</h3>
+    <i class="material-icons">assistant_photo</i>
+    <i class="material-icons" style="font-size:36px">assistant_photo</i>
+    <i class="material-icons" style="font-size:48px; color: #4e65f7;">assistant_photo</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3a0;</i>
+    
+    <h3>attach_file</h3>
+    <i class="material-icons">attach_file</i>
+    <i class="material-icons" style="font-size:36px">attach_file</i>
+    <i class="material-icons" style="font-size:48px; color: #4e65f7;">attach_file</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe226;</i>
+    
+    
+    <h3>attach_money</h3>
+    <i class="material-icons">attach_money</i>
+    <i class="material-icons" style="font-size:36px">attach_money</i>
+    <i class="material-icons" style="font-size:48px; color: blue;">attach_money</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe227;</i>
+    
+    
+    <h3>attachment</h3>
+    <i class="material-icons">attachment</i>
+    <i class="material-icons" style="font-size:36px">attachment</i>
+    <i class="material-icons" style="font-size:48px; color: #4e65f7;">attachment</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe2bc;</i>
+    
+    
+    <h3>audiotrack</h3>
+    <i class="material-icons">audiotrack</i>
+    <i class="material-icons" style="font-size:36px">audiotrack</i>
+    <i class="material-icons" style="font-size:48px; color: #929B4B;">audiotrack</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3a1;</i>
+
+    
+    <h3>autorenew</h3>
+    <i class="material-icons">autorenew</i>
+    <i class="material-icons" style="font-size:36px">autorenew</i>
+    <i class="material-icons" style="font-size:48px; color: red;">autorenew</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe863;</i>
+    
+    
+    <h3>av_timer</h3>
+    <i class="material-icons">av_timer</i>
+    <i class="material-icons" style="font-size:36px">av_timer</i>
+    <i class="material-icons" style="font-size:48px; color: #7986cb;">av_timer</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe01b;</i>
+
+
+
+</body>
+</html>

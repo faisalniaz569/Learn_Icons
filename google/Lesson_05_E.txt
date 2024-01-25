@@ -1,0 +1,261 @@
+********************
+
+Lesson: 05
+
+********************
+
+This is Chapter 5 for Google fonts Tutorial. Now, The following icons start with E.
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google icon</title>
+    <link rel="stylesheet" href="matrix.css">
+
+</head>
+<body>
+    
+    <span style="font-size: 72px; font-style: italic">E</span>
+
+    <br><br>
+    <h3>edit</h3>
+    <i class="material-icons">edit</i>
+    <i class="material-icons" style="font-size:36px">edit</i>
+    <i class="material-icons" style="font-size:48px; color: #D36E00;">edit</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3c9;</i>
+    
+    
+    <h3>edit_location</h3>
+    <i class="material-icons">edit_location</i>
+    <i class="material-icons" style="font-size:36px">edit_location</i>
+    <i class="material-icons" style="font-size:48px; color: #EA4335;">edit_location</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe568;</i>
+
+   
+    <h3>eject</h3>
+    <i class="material-icons">eject</i>
+    <i class="material-icons" style="font-size:36px">eject</i>
+    <i class="material-icons" style="font-size:48px; color: red;">eject</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8fb;</i>
+    
+    
+    <h3>email</h3>
+    <i class="material-icons">email</i>
+    <i class="material-icons" style="font-size:36px">email</i>
+    <i class="material-icons" style="font-size:48px; color: #67A623;">email</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe0be;</i>
+    
+    
+    <h3>enhanced_encryption</h3>
+    <i class="material-icons">enhanced_encryption</i>
+    <i class="material-icons" style="font-size:36px">enhanced_encryption</i>
+    <i class="material-icons" style="font-size:48px; color: #F70000;">enhanced_encryption</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe63f;</i>
+    
+    
+    <h3>equalizer</h3>
+    <i class="material-icons">equalizer</i>
+    <i class="material-icons" style="font-size:36px">equalizer</i>
+    <i class="material-icons" style="font-size:48px; color: #408FF7;">equalizer</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe01d;</i>
+    
+    
+    <h3>error</h3>
+    <i class="material-icons">error</i>
+    <i class="material-icons" style="font-size:36px">error</i>
+    <i class="material-icons" style="font-size:48px; color: #F70000;">error</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe000;</i>
+    
+    
+    <h3>error_outline</h3>
+    <i class="material-icons">error_outline</i>
+    <i class="material-icons" style="font-size:36px">error_outline</i>
+    <i class="material-icons" style="font-size:48px; color: #F70000;">error_outline</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe001;</i>
+    
+    
+    <h3>euro_symbol</h3>
+    <i class="material-icons">euro_symbol</i>
+    <i class="material-icons" style="font-size:36px">euro_symbol</i>
+    <i class="material-icons" style="font-size:48px; color: #8A5B00;">euro_symbol</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe926;</i>
+    
+    
+    <h3>ev_station</h3>
+    <i class="material-icons">ev_station</i>
+    <i class="material-icons" style="font-size:36px">ev_station</i>
+    <i class="material-icons" style="font-size:48px; color: #00A874;">ev_station</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe56d;</i>
+    
+    
+    <h3>event</h3>
+    <i class="material-icons">event</i>
+    <i class="material-icons" style="font-size:36px">event</i>
+    <i class="material-icons" style="font-size:48px; color: #E95A58;">event</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe878;</i>
+    
+    
+    <h3>event_available</h3>
+    <i class="material-icons">event_available</i>
+    <i class="material-icons" style="font-size:36px">event_available</i>
+    <i class="material-icons" style="font-size:48px; color: #E95A58;">event_available</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe614;</i>
+    
+    
+    <h3>event_busy</h3>
+    <i class="material-icons">event_busy</i>
+    <i class="material-icons" style="font-size:36px">event_busy</i>
+    <i class="material-icons" style="font-size:48px; color: #E95A58;">event_busy</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe615;</i>
+    
+    
+    <h3>event_note</h3>
+    <i class="material-icons">event_note</i>
+    <i class="material-icons" style="font-size:36px">event_note</i>
+    <i class="material-icons" style="font-size:48px; color: #E95A58;">event_note</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe616;</i>
+    
+    
+    <h3>event_seat</h3>
+    <i class="material-icons">event_seat</i>
+    <i class="material-icons" style="font-size:36px">event_seat</i>
+    <i class="material-icons" style="font-size:48px; color: #CE9790;">event_seat</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe903;</i>
+    
+    
+    <h3>exit_to_app</h3>
+    <i class="material-icons">exit_to_app</i>
+    <i class="material-icons" style="font-size:36px">exit_to_app</i>
+    <i class="material-icons" style="font-size:48px; color: red;">exit_to_app</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe879;</i>
+    
+    
+    <h3>expand_less</h3>
+    <i class="material-icons">expand_less</i>
+    <i class="material-icons" style="font-size:36px">expand_less</i>
+    <i class="material-icons" style="font-size:48px; color: red;">expand_less</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe5ce;</i>
+    
+    
+    <h3>expand_more</h3>
+    <i class="material-icons">expand_more</i>
+    <i class="material-icons" style="font-size:36px">expand_more</i>
+    <i class="material-icons" style="font-size:48px; color: red;">expand_more</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe5cf;</i>
+    
+    
+    <h3>explicit</h3>
+    <i class="material-icons">explicit</i>
+    <i class="material-icons" style="font-size:36px">explicit</i>
+    <i class="material-icons" style="font-size:48px; color: #680000;">explicit</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe01e;</i>
+    
+    
+    <h3>explore</h3>
+    <i class="material-icons">explore</i>
+    <i class="material-icons" style="font-size:36px">explore</i>
+    <i class="material-icons" style="font-size:48px; color: #0066FF;">explore</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe87a;</i>
+    
+    
+    <h3> 	exposure_neg_1</h3>
+    <i class="material-icons"> 	exposure_neg_1</i>
+    <i class="material-icons" style="font-size:36px"> 	exposure_neg_1</i>
+    <i class="material-icons" style="font-size:48px; color: #0066FF;"> 	exposure_neg_1</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3cb;</i>
+    
+    
+    <h3>exposure_neg_2</h3>
+    <i class="material-icons">exposure_neg_2</i>
+    <i class="material-icons" style="font-size:36px">exposure_neg_2</i>
+    <i class="material-icons" style="font-size:48px; color: #0066FF;">exposure_neg_2</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3cc;</i>
+    
+    
+    <h3>exposure_plus_1</h3>
+    <i class="material-icons">exposure_plus_1</i>
+    <i class="material-icons" style="font-size:36px">exposure_plus_1</i>
+    <i class="material-icons" style="font-size:48px; color: #0066FF;">exposure_plus_1</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3cd;</i>
+    
+    
+    <h3>exposure_plus_2</h3>
+    <i class="material-icons">exposure_plus_2</i>
+    <i class="material-icons" style="font-size:36px">exposure_plus_2</i>
+    <i class="material-icons" style="font-size:48px; color: #0066FF;">exposure_plus_2</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3ce;</i>
+    
+    
+    <h3>exposure_zero</h3>
+    <i class="material-icons">exposure_zero</i>
+    <i class="material-icons" style="font-size:36px">exposure_zero</i>
+    <i class="material-icons" style="font-size:48px; color: #0066FF;">exposure_zero</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3cf;</i>
+    
+    
+    <h3>extension</h3>
+    <i class="material-icons">extension</i>
+    <i class="material-icons" style="font-size:36px">extension</i>
+    <i class="material-icons" style="font-size:48px; color: burlywood;">extension</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe87b;</i>
+    
+
+
+</body>
+</html>

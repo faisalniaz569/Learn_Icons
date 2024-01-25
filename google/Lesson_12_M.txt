@@ -1,0 +1,328 @@
+********************
+
+Lesson: 12
+
+********************
+
+The following icons start with M.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google icon</title>
+    <link rel="stylesheet" href="matrix.css">
+
+</head>
+<body>
+    
+    <span style="font-size: 72px; font-style: italic">M</span>
+
+    <br><br>
+    <h3>mail</h3>
+    <i class="material-icons">mail</i>
+    <i class="material-icons" style="font-size:36px">mail</i>
+    <i class="material-icons" style="font-size:48px; color: #004f9f;">mail</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe158;</i>
+    
+    <h3>markunread</h3>
+    <i class="material-icons">markunread</i>
+    <i class="material-icons" style="font-size:36px">markunread</i>
+    <i class="material-icons" style="font-size:48px; color: #004f9f;">markunread</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe159;</i>
+    
+    
+    <h3>mail_outline</h3>
+    <i class="material-icons">mail_outline</i>
+    <i class="material-icons" style="font-size:36px">mail_outline</i>
+    <i class="material-icons" style="font-size:48px; color: #004f9f;">mail_outline</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe0e1;</i>
+    
+    
+    <h3>map</h3>
+    <i class="material-icons">map</i>
+    <i class="material-icons" style="font-size:36px">map</i>
+    <i class="material-icons" style="font-size:48px; color: green;">map</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe55b;</i>
+    
+    
+    <h3>markunread_mailbox</h3>
+    <i class="material-icons">markunread_mailbox</i>
+    <i class="material-icons" style="font-size:36px">markunread_mailbox</i>
+    <i class="material-icons" style="font-size:48px; color: #a30421;">markunread_mailbox</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe89b;</i>
+    
+    <h3>memory</h3>
+    <i class="material-icons">memory</i>
+    <i class="material-icons" style="font-size:36px">memory</i>
+    <i class="material-icons" style="font-size:48px; color: #dcdd83;">memory</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe322;</i>
+    
+    
+    <h3>menu</h3>
+    <i class="material-icons">menu</i>
+    <i class="material-icons" style="font-size:36px">menu</i>
+    <i class="material-icons" style="font-size:48px; color: red;">menu</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe5d2;</i>
+    
+    
+    <h3>merge_type</h3>
+    <i class="material-icons">merge_type</i>
+    <i class="material-icons" style="font-size:36px">merge_type</i>
+    <i class="material-icons" style="font-size:48px; color: #50A2A7;">merge_type</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe252;</i>
+    
+    
+    <h3>message</h3>
+    <i class="material-icons">message</i>
+    <i class="material-icons" style="font-size:36px">message</i>
+    <i class="material-icons" style="font-size:48px; color: #99cc33;">message</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe0c9;</i>
+    
+    
+    <h3>messenger</h3>
+    <i class="material-icons">messenger</i>
+    <i class="material-icons" style="font-size:36px">messenger</i>
+    <i class="material-icons" style="font-size:48px; color: #99cc33;">messenger</i>
+    
+    
+    <h3>mic</h3>
+    <i class="material-icons">mic</i>
+    <i class="material-icons" style="font-size:36px">mic</i>
+    <i class="material-icons" style="font-size:48px; color: #c54a4a;">mic</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe029;</i>
+    
+    
+    <h3>mic_none</h3>
+    <i class="material-icons">mic_none</i>
+    <i class="material-icons" style="font-size:36px">mic_none</i>
+    <i class="material-icons" style="font-size:48px; color: #c54a4a;">mic_none</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe02a;</i>
+
+    
+    <h3>mic_off</h3>
+    <i class="material-icons">mic_off</i>
+    <i class="material-icons" style="font-size:36px">mic_off</i>
+    <i class="material-icons" style="font-size:48px; color: #c54a4a;">mic_off</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe02b;</i>
+    
+    
+    <h3>mms</h3>
+    <i class="material-icons">mms</i>
+    <i class="material-icons" style="font-size:36px">mms</i>
+    <i class="material-icons" style="font-size:48px; color: #49230c;">mms</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe618;</i>
+    
+    
+    <h3>mode_comment</h3>
+    <i class="material-icons">mode_comment</i>
+    <i class="material-icons" style="font-size:36px">mode_comment</i>
+    <i class="material-icons" style="font-size:48px; color: #42d742;">mode_comment</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe253;</i>
+    
+    
+    <h3>mode_edit</h3>
+    <i class="material-icons">mode_edit</i>
+    <i class="material-icons" style="font-size:36px">mode_edit</i>
+    <i class="material-icons" style="font-size:48px; color: red;">mode_edit</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe254;</i>
+    
+    
+    <h3>monetization_on</h3>
+    <i class="material-icons">monetization_on</i>
+    <i class="material-icons" style="font-size:36px">monetization_on</i>
+    <i class="material-icons" style="font-size:48px; color: #f0bb78;">monetization_on</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe263;</i>
+    
+    
+    <h3>money_off</h3>
+    <i class="material-icons">money_off</i>
+    <i class="material-icons" style="font-size:36px">money_off</i>
+    <i class="material-icons" style="font-size:48px; color: #3e9c35;">money_off</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe25c;</i>
+    
+    
+    <h3>monochrome_photos</h3>
+    <i class="material-icons">monochrome_photos</i>
+    <i class="material-icons" style="font-size:36px">monochrome_photos</i>
+    <i class="material-icons" style="font-size:48px; color: #2794f1;">monochrome_photos</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe403;</i>
+    
+    
+    <h3>mood</h3>
+    <i class="material-icons">mood</i>
+    <i class="material-icons" style="font-size:36px">mood</i>
+    <i class="material-icons" style="font-size:48px; color: #ffcc33;">mood</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe7f2;</i>
+    
+    
+    <h3>mood_bad</h3>
+    <i class="material-icons">mood_bad</i>
+    <i class="material-icons" style="font-size:36px">mood_bad</i>
+    <i class="material-icons" style="font-size:48px; color: #ffcc33;">mood_bad</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe7f3;</i>
+    
+    
+    <h3>more</h3>
+    <i class="material-icons">more</i>
+    <i class="material-icons" style="font-size:36px">more</i>
+    <i class="material-icons" style="font-size:48px; color: brown;">more</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe619;</i>
+    
+    
+    <h3>more_horiz</h3>
+    <i class="material-icons">more_horiz</i>
+    <i class="material-icons" style="font-size:36px">more_horiz</i>
+    <i class="material-icons" style="font-size:48px; color: brown;">more_horiz</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe5d3;</i>
+    
+    
+    <h3>more_vert</h3>
+    <i class="material-icons">more_vert</i>
+    <i class="material-icons" style="font-size:36px">more_vert</i>
+    <i class="material-icons" style="font-size:48px; color: brown;">more_vert</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe5d4;</i>
+    
+    
+    <h3>motorcycle</h3>
+    <i class="material-icons">motorcycle</i>
+    <i class="material-icons" style="font-size:36px">motorcycle</i>
+    <i class="material-icons" style="font-size:48px; color: #242961;">motorcycle</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe91b;</i>
+    
+    
+    <h3>mouse</h3>
+    <i class="material-icons">mouse</i>
+    <i class="material-icons" style="font-size:36px">mouse</i>
+    <i class="material-icons" style="font-size:48px; color: #a49b73;">mouse</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe323;</i>
+    
+    
+    <h3>move_to_inbox</h3>
+    <i class="material-icons">move_to_inbox</i>
+    <i class="material-icons" style="font-size:36px">move_to_inbox</i>
+    <i class="material-icons" style="font-size:48px; color: coral;">move_to_inbox</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe168;</i>
+    
+    
+    <h3>movie</h3>
+    <i class="material-icons">movie</i>
+    <i class="material-icons" style="font-size:36px">movie</i>
+    <i class="material-icons" style="font-size:48px; color: #7e1616;">movie</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe02c;</i>
+    
+    
+    <h3>movie_creation</h3>
+    <i class="material-icons">movie_creation</i>
+    <i class="material-icons" style="font-size:36px">movie_creation</i>
+    <i class="material-icons" style="font-size:48px; color: #7e1616;">movie_creation</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe404;</i>
+    
+    
+    <h3>movie_filter</h3>
+    <i class="material-icons">movie_filter</i>
+    <i class="material-icons" style="font-size:36px">movie_filter</i>
+    <i class="material-icons" style="font-size:48px; color: #7e1616;">movie_filter</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe43a;</i>
+    
+    
+    <h3>multiline_chart</h3>
+    <i class="material-icons">multiline_chart</i>
+    <i class="material-icons" style="font-size:36px">multiline_chart</i>
+    <i class="material-icons" style="font-size:48px; color: #848B9E;">multiline_chart</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe6df;</i>
+    
+    
+    <h3>music_note</h3>
+    <i class="material-icons">music_note</i>
+    <i class="material-icons" style="font-size:36px">music_note</i>
+    <i class="material-icons" style="font-size:48px; color: #ff00ea;">music_note</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe405;</i>
+    
+    
+    <h3>music_video</h3>
+    <i class="material-icons">music_video</i>
+    <i class="material-icons" style="font-size:36px">music_video</i>
+    <i class="material-icons" style="font-size:48px; color: #ff00ea;">music_video</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe063;</i>
+    
+    
+    <h3>my_location</h3>
+    <i class="material-icons">my_location</i>
+    <i class="material-icons" style="font-size:36px">my_location</i>
+    <i class="material-icons" style="font-size:48px; color: #960A0A;">my_location</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe55c;</i>
+    
+
+
+</body>
+
+</html>

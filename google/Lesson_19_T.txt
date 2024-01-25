@@ -1,0 +1,416 @@
+********************
+
+Lesson: 19
+
+********************
+
+The following icons start with T.
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google icon</title>
+    <link rel="stylesheet" href="matrix.css">
+
+</head>
+<body>
+    
+    <span style="font-size: 72px; font-style: italic">T</span>
+
+    <br><br>
+    <h3>tab</h3>
+    <i class="material-icons">tab</i>
+    <i class="material-icons" style="font-size:36px">tab</i>
+    <i class="material-icons" style="font-size:48px; color: #4a536b;">tab</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8d8;</i>
+    
+    
+    <h3>tab_unselected</h3>
+    <i class="material-icons">tab_unselected</i>
+    <i class="material-icons" style="font-size:36px">tab_unselected</i>
+    <i class="material-icons" style="font-size:48px; color: #4a536b;">tab_unselected</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8d9;</i>
+    
+    
+    <h3>tablet</h3>
+    <i class="material-icons">tablet</i>
+    <i class="material-icons" style="font-size:36px">tablet</i>
+    <i class="material-icons" style="font-size:48px; color: coral;">tablet</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe32f;</i>
+    
+    
+    <h3>tablet_android</h3>
+    <i class="material-icons">tablet_android</i>
+    <i class="material-icons" style="font-size:36px">tablet_android</i>
+    <i class="material-icons" style="font-size:48px; color: coral;">tablet_android</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe330;</i>
+    
+    
+    <h3>tablet_mac</h3>
+    <i class="material-icons">tablet_mac</i>
+    <i class="material-icons" style="font-size:36px">tablet_mac</i>
+    <i class="material-icons" style="font-size:48px; color: coral;">tablet_mac</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe331;</i>
+    
+    
+    <h3>tap_and_play</h3>
+    <i class="material-icons">tap_and_play</i>
+    <i class="material-icons" style="font-size:36px">tap_and_play</i>
+    <i class="material-icons" style="font-size:48px; color: coral;">tap_and_play</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe62b;</i>
+    
+    
+    <h3>tag_faces</h3>
+    <i class="material-icons">tag_faces</i>
+    <i class="material-icons" style="font-size:36px">tag_faces</i>
+    <i class="material-icons" style="font-size:48px; color: #ffcc33;">tag_faces</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe420;</i>
+    
+    
+    <h3>terrain</h3>
+    <i class="material-icons">terrain</i>
+    <i class="material-icons" style="font-size:36px">terrain</i>
+    <i class="material-icons" style="font-size:48px; color: #7c8d4c;">terrain</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe564;</i>
+    
+    
+    <h3>text_fields</h3>
+    <i class="material-icons">text_fields</i>
+    <i class="material-icons" style="font-size:36px">text_fields</i>
+    <i class="material-icons" style="font-size:48px; color: red;">text_fields</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe262;</i>
+    
+    
+    <h3>text_format</h3>
+    <i class="material-icons">text_format</i>
+    <i class="material-icons" style="font-size:36px">text_format</i>
+    <i class="material-icons" style="font-size:48px; color: red;">text_format</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe165;</i>
+    
+    
+    <h3>textsms</h3>
+    <i class="material-icons">textsms</i>
+    <i class="material-icons" style="font-size:36px">textsms</i>
+    <i class="material-icons" style="font-size:48px; color: red;">textsms</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe0d8;</i>
+    
+    
+    <h3>texture</h3>
+    <i class="material-icons">texture</i>
+    <i class="material-icons" style="font-size:36px">texture</i>
+    <i class="material-icons" style="font-size:48px; color: #6e4c3c;">texture</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe421;</i>
+    
+    
+    <h3>theaters</h3>
+    <i class="material-icons">theaters</i>
+    <i class="material-icons" style="font-size:36px">theaters</i>
+    <i class="material-icons" style="font-size:48px; color: #ecac8e;">theaters</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8da;</i>
+    
+    
+    <h3>thumb_down</h3>
+    <i class="material-icons">thumb_down</i>
+    <i class="material-icons" style="font-size:36px">thumb_down</i>
+    <i class="material-icons" style="font-size:48px; color: #ff721a;">thumb_down</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8db;</i>
+    
+    
+    <h3>thumb_up</h3>
+    <i class="material-icons">thumb_up</i>
+    <i class="material-icons" style="font-size:36px">thumb_up</i>
+    <i class="material-icons" style="font-size:48px; color: #ff721a;">thumb_up</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8dc;</i>
+    
+    
+    <h3>thumbs_up_down</h3>
+    <i class="material-icons">thumbs_up_down</i>
+    <i class="material-icons" style="font-size:36px">thumbs_up_down</i>
+    <i class="material-icons" style="font-size:48px; color: #ff721a;">thumbs_up_down</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8dd;</i>
+    
+    
+    <h3>timelapse</h3>
+    <i class="material-icons">timelapse</i>
+    <i class="material-icons" style="font-size:36px">timelapse</i>
+    <i class="material-icons" style="font-size:48px; color: #38799d;">timelapse</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe422;</i>
+    
+    
+    <h3>timer_10</h3>
+    <i class="material-icons">timer_10</i>
+    <i class="material-icons" style="font-size:36px">timer_10</i>
+    <i class="material-icons" style="font-size:48px; color: #38799d;">timer_10</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe423;</i>
+    
+    
+    <h3>time_to_leave</h3>
+    <i class="material-icons">time_to_leave</i>
+    <i class="material-icons" style="font-size:36px">time_to_leave</i>
+    <i class="material-icons" style="font-size:48px; color: #38799d;">time_to_leave</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe62c;</i>
+    
+    
+    <h3>timer</h3>
+    <i class="material-icons">timer</i>
+    <i class="material-icons" style="font-size:36px">timer</i>
+    <i class="material-icons" style="font-size:48px; color: red;">timer</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe425;</i>
+    
+    
+    <h3>timer_off</h3>
+    <i class="material-icons">timer_off</i>
+    <i class="material-icons" style="font-size:36px">timer_off</i>
+    <i class="material-icons" style="font-size:48px; color: red;">timer_off</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe426;</i>
+    
+    
+    <h3>timer_3</h3>
+    <i class="material-icons">timer_3</i>
+    <i class="material-icons" style="font-size:36px">timer_3</i>
+    <i class="material-icons" style="font-size:48px; color: red;">timer_3</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe424;</i>
+    
+    
+    <h3>title</h3>
+    <i class="material-icons">title</i>
+    <i class="material-icons" style="font-size:36px">title</i>
+    <i class="material-icons" style="font-size:48px; color: green;">title</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe264;</i>
+    
+    
+    <h3>toc</h3>
+    <i class="material-icons">toc</i>
+    <i class="material-icons" style="font-size:36px">toc</i>
+    <i class="material-icons" style="font-size:48px; color: #ed5559;">toc</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8de;</i>
+    
+    
+    <h3>today</h3>
+    <i class="material-icons">today</i>
+    <i class="material-icons" style="font-size:36px">today</i>
+    <i class="material-icons" style="font-size:48px; color: #428bca;">today</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8df;</i>
+    
+    
+    <h3>toll</h3>
+    <i class="material-icons">toll</i>
+    <i class="material-icons" style="font-size:36px">toll</i>
+    <i class="material-icons" style="font-size:48px; color: #428bca;">toll</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8e0;</i>
+    
+    
+    <h3>tonality</h3>
+    <i class="material-icons">tonality</i>
+    <i class="material-icons" style="font-size:36px">tonality</i>
+    <i class="material-icons" style="font-size:48px; color: #329998;">tonality</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe427;</i>
+    
+    
+    <h3>touch_app</h3>
+    <i class="material-icons">touch_app</i>
+    <i class="material-icons" style="font-size:36px">touch_app</i>
+    <i class="material-icons" style="font-size:48px; color: #9704fd;">touch_app</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe913;</i>
+    
+    
+    <h3>toys</h3>
+    <i class="material-icons">toys</i>
+    <i class="material-icons" style="font-size:36px">toys</i>
+    <i class="material-icons" style="font-size:48px; color: cadetblue;">toys</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe332;</i>
+    
+    
+    <h3>track_changes</h3>
+    <i class="material-icons">track_changes</i>
+    <i class="material-icons" style="font-size:36px">track_changes</i>
+    <i class="material-icons" style="font-size:48px; color: cadetblue;">track_changes</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8e1;</i>
+    
+    
+    <h3>traffic</h3>
+    <i class="material-icons">traffic</i>
+    <i class="material-icons" style="font-size:36px">traffic</i>
+    <i class="material-icons" style="font-size:48px; color: #2dc937;">traffic</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe565;</i>
+    
+    
+    <h3>train</h3>
+    <i class="material-icons">train</i>
+    <i class="material-icons" style="font-size:36px">train</i>
+    <i class="material-icons" style="font-size:48px; color: #79916a;">train</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe570;</i>
+    
+    
+    <h3>tram</h3>
+    <i class="material-icons">tram</i>
+    <i class="material-icons" style="font-size:36px">tram</i>
+    <i class="material-icons" style="font-size:48px; color: #79916a;">tram</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe571;</i>
+    
+    
+    <h3>transfer_within_a_station</h3>
+    <i class="material-icons">transfer_within_a_station</i>
+    <i class="material-icons" style="font-size:36px">transfer_within_a_station</i>
+    <i class="material-icons" style="font-size:48px; color: #95979f;">transfer_within_a_station</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe572;</i>
+    
+    
+    <h3>transform</h3>
+    <i class="material-icons">transform</i>
+    <i class="material-icons" style="font-size:36px">transform</i>
+    <i class="material-icons" style="font-size:48px; color: blue;">transform</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe428;</i>
+    
+    
+    <h3>translate</h3>
+    <i class="material-icons">translate</i>
+    <i class="material-icons" style="font-size:36px">translate</i>
+    <i class="material-icons" style="font-size:48px; color: red;">translate</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8e2;</i>
+    
+    
+    <h3>trending_down</h3>
+    <i class="material-icons">trending_down</i>
+    <i class="material-icons" style="font-size:36px">trending_down</i>
+    <i class="material-icons" style="font-size:48px; color: red;">trending_down</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8e3;</i>
+    
+    
+    <h3>trending_up</h3>
+    <i class="material-icons">trending_up</i>
+    <i class="material-icons" style="font-size:36px">trending_up</i>
+    <i class="material-icons" style="font-size:48px; color: red;">trending_up</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8e5;</i>
+    
+    
+    <h3>trending_flat</h3>
+    <i class="material-icons">trending_flat</i>
+    <i class="material-icons" style="font-size:36px">trending_flat</i>
+    <i class="material-icons" style="font-size:48px; color: red;">trending_flat</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8e4;</i>
+    
+    
+    <h3>tune</h3>
+    <i class="material-icons">tune</i>
+    <i class="material-icons" style="font-size:36px">tune</i>
+    <i class="material-icons" style="font-size:48px; color: #8d5524;">tune</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe429;</i>
+    
+    
+    <h3>turned_in</h3>
+    <i class="material-icons">turned_in</i>
+    <i class="material-icons" style="font-size:36px">turned_in</i>
+    <i class="material-icons" style="font-size:48px; color: #B3AA49;">turned_in</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8e6;</i>
+    
+    
+    <h3>turned_in_not</h3>
+    <i class="material-icons">turned_in_not</i>
+    <i class="material-icons" style="font-size:36px">turned_in_not</i>
+    <i class="material-icons" style="font-size:48px; color: #B3AA49;">turned_in_not</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8e7;</i>
+    
+    
+    <h3>tv</h3>
+    <i class="material-icons">tv</i>
+    <i class="material-icons" style="font-size:36px">tv</i>
+    <i class="material-icons" style="font-size:48px; color: red;">tv</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe333;</i>
+    
+    
+
+</body>
+
+</html>

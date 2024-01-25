@@ -1,0 +1,201 @@
+********************
+
+Lesson: 07
+
+********************
+
+The following icons start with G.
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google icon</title>
+    <link rel="stylesheet" href="matrix.css">
+
+</head>
+<body>
+    
+    <span style="font-size: 72px; font-style: italic">G</span>
+
+    <br><br>
+    <h3>g_translate</h3>
+    <i class="material-icons">g_translate</i>
+    <i class="material-icons" style="font-size:36px">g_translate</i>
+    <i class="material-icons" style="font-size:48px; color: #c7c72f;">g_translate</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe927;</i>
+    
+    
+    <h3>gamepad</h3>
+    <i class="material-icons">gamepad</i>
+    <i class="material-icons" style="font-size:36px">gamepad</i>
+    <i class="material-icons" style="font-size:48px; color: #4ea48e;">gamepad</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe30f;</i>
+    
+    <h3>games</h3>
+    <i class="material-icons">games</i>
+    <i class="material-icons" style="font-size:36px">games</i>
+    <i class="material-icons" style="font-size:48px; color: #4ea48e;">games</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe021;</i>
+    
+    
+    <h3>gavel</h3>
+    <i class="material-icons">gavel</i>
+    <i class="material-icons" style="font-size:36px">gavel</i>
+    <i class="material-icons" style="font-size:48px; color: #0a5743;">gavel</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe90e;</i>
+    
+    
+    <h3>gesture</h3>
+    <i class="material-icons">gesture</i>
+    <i class="material-icons" style="font-size:36px">gesture</i>
+    <i class="material-icons" style="font-size:48px; color: #6d5373;">gesture</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe155;</i>
+    
+    
+    <h3>get_app</h3>
+    <i class="material-icons">get_app</i>
+    <i class="material-icons" style="font-size:36px">get_app</i>
+    <i class="material-icons" style="font-size:48px; color: darkgoldenrod;">get_app</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe884;</i>
+    
+    
+    <h3>gif</h3>
+    <i class="material-icons">gif</i>
+    <i class="material-icons" style="font-size:36px">gif</i>
+    <i class="material-icons" style="font-size:48px; color: #735139;">gif</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe908;</i>
+    
+    
+    <h3>golf_course</h3>
+    <i class="material-icons">golf_course</i>
+    <i class="material-icons" style="font-size:36px">golf_course</i>
+    <i class="material-icons" style="font-size:48px; color: #1216f9;">golf_course</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xeb45;</i>
+    
+    <h3>gps_fixed</h3>
+    <i class="material-icons">gps_fixed</i>
+    <i class="material-icons" style="font-size:36px">gps_fixed</i>
+    <i class="material-icons" style="font-size:48px; color: #9f5252;">gps_fixed</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1b3;</i>
+    
+    
+    <h3>gps_not_fixed</h3>
+    <i class="material-icons">gps_not_fixed</i>
+    <i class="material-icons" style="font-size:36px">gps_not_fixed</i>
+    <i class="material-icons" style="font-size:48px; color: #9f5252;">gps_not_fixed</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1b4;</i>
+    
+    
+    <h3>gps_off</h3>
+    <i class="material-icons">gps_off</i>
+    <i class="material-icons" style="font-size:36px">gps_off</i>
+    <i class="material-icons" style="font-size:48px; color: #9f5252;">gps_off</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1b5;</i>
+    
+    
+    <h3>grade</h3>
+    <i class="material-icons">grade</i>
+    <i class="material-icons" style="font-size:36px">grade</i>
+    <i class="material-icons" style="font-size:48px; color: #4ce600;">grade</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe885;</i>
+    
+    
+    <h3>gradient</h3>
+    <i class="material-icons">gradient</i>
+    <i class="material-icons" style="font-size:36px">gradient</i>
+    <i class="material-icons" style="font-size:48px; color: #02ba84;">gradient</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3e9;</i>
+    
+    <h3>grain</h3>
+    <i class="material-icons">grain</i>
+    <i class="material-icons" style="font-size:36px">grain</i>
+    <i class="material-icons" style="font-size:48px; color: #E4C798;">grain</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3ea;</i>
+    
+    
+    <h3>graphic_eq</h3>
+    <i class="material-icons">graphic_eq</i>
+    <i class="material-icons" style="font-size:36px">graphic_eq</i>
+    <i class="material-icons" style="font-size:48px; color: #a14256;">graphic_eq</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1b8;</i>
+    
+    <h3>grid_off</h3>
+    <i class="material-icons">grid_off</i>
+    <i class="material-icons" style="font-size:36px">grid_off</i>
+    <i class="material-icons" style="font-size:48px; color: red;">grid_off</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3eb;</i>
+    
+    
+    <h3>grid_on</h3>
+    <i class="material-icons">grid_on</i>
+    <i class="material-icons" style="font-size:36px">grid_on</i>
+    <i class="material-icons" style="font-size:48px; color: red;">grid_on</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3ec;</i>
+    
+    
+    <h3>group</h3>
+    <i class="material-icons">group</i>
+    <i class="material-icons" style="font-size:36px">group</i>
+    <i class="material-icons" style="font-size:48px; color: #1da1f2;">group</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe7ef;</i>
+    
+    <h3>group_add</h3>
+    <i class="material-icons">group_add</i>
+    <i class="material-icons" style="font-size:36px">group_add</i>
+    <i class="material-icons" style="font-size:48px; color: #1da1f2;">group_add</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe7f0;</i>
+    
+    <h3>group_work</h3>
+    <i class="material-icons">group_work</i>
+    <i class="material-icons" style="font-size:36px">group_work</i>
+    <i class="material-icons" style="font-size:48px; color: #1da1f2;">group_work</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe886;</i>
+
+
+</body>
+
+</html>

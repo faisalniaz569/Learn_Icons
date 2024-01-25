@@ -1,0 +1,37 @@
+********************
+
+Lesson: 23
+
+********************
+
+The following icons start with Y.
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google icon</title>
+    <link rel="stylesheet" href="matrix.css">
+
+</head>
+<body>
+    
+    <span style="font-size: 72px; font-style: italic">Y</span>
+
+    <br><br>
+    <h3>youtube_searched_for</h3>
+    <i class="material-icons">youtube_searched_for</i>
+    <i class="material-icons" style="font-size:36px">youtube_searched_for</i>
+    <i class="material-icons" style="font-size:48px; color: #4f657a;">youtube_searched_for</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8fa;</i>
+
+
+
+</body>
+
+</html>

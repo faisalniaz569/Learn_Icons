@@ -1,0 +1,82 @@
+********************
+
+Lesson: 14
+
+********************
+
+The following icons start with O.
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google icon</title>
+    <link rel="stylesheet" href="matrix.css">
+
+</head>
+<body>
+    
+    <span style="font-size: 72px; font-style: italic">O</span>
+
+    <br><br>
+    <h3>offline_pin</h3>
+    <i class="material-icons">offline_pin</i>
+    <i class="material-icons" style="font-size:36px">offline_pin</i>
+    <i class="material-icons" style="font-size:48px; color: #88a376;">offline_pin</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe90a;</i>
+    
+    
+    <h3>ondemand_video</h3>
+    <i class="material-icons">ondemand_video</i>
+    <i class="material-icons" style="font-size:36px">ondemand_video</i>
+    <i class="material-icons" style="font-size:48px; color: red;">ondemand_video</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe63a;</i>
+    
+    
+    <h3>opacity</h3>
+    <i class="material-icons">opacity</i>
+    <i class="material-icons" style="font-size:36px">opacity</i>
+    <i class="material-icons" style="font-size:48px; color: #94bbd1;">opacity</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe91c;</i>
+
+   
+    <h3>open_in_browser</h3>
+    <i class="material-icons">open_in_browser</i>
+    <i class="material-icons" style="font-size:36px">open_in_browser</i>
+    <i class="material-icons" style="font-size:48px; color: #D64E42;">open_in_browser</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe89d;</i>
+    
+    
+    <h3>open_in_new</h3>
+    <i class="material-icons">open_in_new</i>
+    <i class="material-icons" style="font-size:36px">open_in_new</i>
+    <i class="material-icons" style="font-size:48px; color: #D64E42;">open_in_new</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe89e;</i>
+    
+    
+    <h3>open_with</h3>
+    <i class="material-icons">open_with</i>
+    <i class="material-icons" style="font-size:36px">open_with</i>
+    <i class="material-icons" style="font-size:48px; color: #D64E42;">open_with</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe89f;</i>
+    
+
+
+</body>
+
+</html>

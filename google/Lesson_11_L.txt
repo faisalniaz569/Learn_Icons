@@ -1,0 +1,700 @@
+********************
+
+Lesson: 11
+
+********************
+
+The following icons start with L.
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google icon</title>
+    <link rel="stylesheet" href="matrix.css">
+
+</head>
+<body>
+    
+    <span style="font-size: 72px; font-style: italic">L</span>
+
+    <br><br>
+    <h3>label</h3>
+    <i class="material-icons">label</i>
+    <i class="material-icons" style="font-size:36px">label</i>
+    <i class="material-icons" style="font-size:48px; color: green;">label</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe892;</i>
+    
+    
+    <h3>label_outline</h3>
+    <i class="material-icons">label_outline</i>
+    <i class="material-icons" style="font-size:36px">label_outline</i>
+    <i class="material-icons" style="font-size:48px; color: green;">label_outline</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe893;</i>
+    
+    
+    <h3>landscape</h3>
+    <i class="material-icons">landscape</i>
+    <i class="material-icons" style="font-size:36px">landscape</i>
+    <i class="material-icons" style="font-size:48px; color: #884400;">landscape</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3f7;</i>
+    
+    
+    <h3>language</h3>
+    <i class="material-icons">language</i>
+    <i class="material-icons" style="font-size:36px">language</i>
+    <i class="material-icons" style="font-size:48px; color: #165CAA;">language</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe894;</i>
+    
+    
+    <h3>laptop</h3>
+    <i class="material-icons">laptop</i>
+    <i class="material-icons" style="font-size:36px">laptop</i>
+    <i class="material-icons" style="font-size:48px; color: #815454;">laptop</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe31e;</i>
+    
+    
+    <h3>laptop_chromebook</h3>
+    <i class="material-icons">laptop_chromebook</i>
+    <i class="material-icons" style="font-size:36px">laptop_chromebook</i>
+    <i class="material-icons" style="font-size:48px; color: #815454;">laptop_chromebook</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe31f;</i>
+    
+    
+    <h3>laptop_mac</h3>
+    <i class="material-icons">laptop_mac</i>
+    <i class="material-icons" style="font-size:36px">laptop_mac</i>
+    <i class="material-icons" style="font-size:48px; color: #815454;">laptop_mac</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe320;</i>
+    
+    
+    <h3>laptop_windows</h3>
+    <i class="material-icons">laptop_windows</i>
+    <i class="material-icons" style="font-size:36px">laptop_windows</i>
+    <i class="material-icons" style="font-size:48px; color: #815454;">laptop_windows</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe321;</i>
+    
+    
+    <h3>last_page</h3>
+    <i class="material-icons">last_page</i>
+    <i class="material-icons" style="font-size:36px">last_page</i>
+    <i class="material-icons" style="font-size:48px; color: red;">last_page</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe5dd;</i>
+    
+    
+    <h3>launch</h3>
+    <i class="material-icons">launch</i>
+    <i class="material-icons" style="font-size:36px">launch</i>
+    <i class="material-icons" style="font-size:48px; color: #3A76F0;">launch</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe895;</i>
+    
+    
+    <h3>layers</h3>
+    <i class="material-icons">layers</i>
+    <i class="material-icons" style="font-size:36px">layers</i>
+    <i class="material-icons" style="font-size:48px; color: #3c443b;">layers</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe53b;</i>
+    
+    
+    <h3>layers_clear</h3>
+    <i class="material-icons">layers_clear</i>
+    <i class="material-icons" style="font-size:36px">layers_clear</i>
+    <i class="material-icons" style="font-size:48px; color: #3c443b;">layers_clear</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe53c;</i>
+    
+    
+    <h3>leak_add</h3>
+    <i class="material-icons">leak_add</i>
+    <i class="material-icons" style="font-size:36px">leak_add</i>
+    <i class="material-icons" style="font-size:48px; color: blue;">leak_add</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3f8;</i>
+    
+    
+    <h3>leak_remove</h3>
+    <i class="material-icons">leak_remove</i>
+    <i class="material-icons" style="font-size:36px">leak_remove</i>
+    <i class="material-icons" style="font-size:48px; color: blue;">leak_remove</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3f9;</i>
+    
+    
+    <h3>lens</h3>
+    <i class="material-icons">lens</i>
+    <i class="material-icons" style="font-size:36px">lens</i>
+    <i class="material-icons" style="font-size:48px; color: #3c443b;">lens</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3fa;</i>
+    
+    
+    <h3>library_add</h3>
+    <i class="material-icons">library_add</i>
+    <i class="material-icons" style="font-size:36px">library_add</i>
+    <i class="material-icons" style="font-size:48px; color: blue;">library_add</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe02e;</i>
+    
+    
+    <h3>library_books</h3>
+    <i class="material-icons">library_books</i>
+    <i class="material-icons" style="font-size:36px">library_books</i>
+    <i class="material-icons" style="font-size:48px; color: #5faa68;">library_books</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe02f;</i>
+    
+    
+    <h3>library_music</h3>
+    <i class="material-icons">library_music</i>
+    <i class="material-icons" style="font-size:36px">library_music</i>
+    <i class="material-icons" style="font-size:48px; color: #006bff;">library_music</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe030;</i>
+    
+    
+    <h3>lightbulb_outline</h3>
+    <i class="material-icons">lightbulb_outline</i>
+    <i class="material-icons" style="font-size:36px">lightbulb_outline</i>
+    <i class="material-icons" style="font-size:48px; color: #EFCC08;">lightbulb_outline</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe90f;</i>
+    
+    
+    <h3>line_style</h3>
+    <i class="material-icons">line_style</i>
+    <i class="material-icons" style="font-size:36px">line_style</i>
+    <i class="material-icons" style="font-size:48px; color: #D2191A;">line_style</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe919;</i>
+    
+    <h3>line_weight</h3>
+    <i class="material-icons">line_weight</i>
+    <i class="material-icons" style="font-size:36px">line_weight</i>
+    <i class="material-icons" style="font-size:48px; color: #D2191A;">line_weight</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe91a;</i>
+    
+    
+    <h3>linear_scale</h3>
+    <i class="material-icons">linear_scale</i>
+    <i class="material-icons" style="font-size:36px">linear_scale</i>
+    <i class="material-icons" style="font-size:48px; color: #EF8C44;">linear_scale</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe260;</i>
+    
+    
+    <h3>link</h3>
+    <i class="material-icons">link</i>
+    <i class="material-icons" style="font-size:36px">link</i>
+    <i class="material-icons" style="font-size:48px; color: #70A1F0;">link</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe157;</i>
+    
+    
+    <h3>linked_camera</h3>
+    <i class="material-icons">linked_camera</i>
+    <i class="material-icons" style="font-size:36px">linked_camera</i>
+    <i class="material-icons" style="font-size:48px; color: #BCBCBE;">linked_camera</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe438;</i>
+    
+    
+    <h3>list</h3>
+    <i class="material-icons">list</i>
+    <i class="material-icons" style="font-size:36px">list</i>
+    <i class="material-icons" style="font-size:48px; color: brown;">list</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe896;</i>
+    
+    
+    <h3>live_help</h3>
+    <i class="material-icons">live_help</i>
+    <i class="material-icons" style="font-size:36px">live_help</i>
+    <i class="material-icons" style="font-size:48px; color: #B292DA;">live_help</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons"> &#xe0c6;</i>
+    
+    
+    <h3>live_tv</h3>
+    <i class="material-icons">live_tv</i>
+    <i class="material-icons" style="font-size:36px">live_tv</i>
+    <i class="material-icons" style="font-size:48px; color: #E9666F;">live_tv</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe639;</i>
+    
+    
+    <h3>local_activity</h3>
+    <i class="material-icons">local_activity</i>
+    <i class="material-icons" style="font-size:36px">local_activity</i>
+    <i class="material-icons" style="font-size:48px; color: #609194;">local_activity</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe53f;</i>
+    
+    
+    <h3>local_airport</h3>
+    <i class="material-icons">local_airport</i>
+    <i class="material-icons" style="font-size:36px">local_airport</i>
+    <i class="material-icons" style="font-size:48px; color: #609194;">local_airport</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe53d;</i>
+    
+    
+    <h3>local_atm</h3>
+    <i class="material-icons">local_atm</i>
+    <i class="material-icons" style="font-size:36px">local_atm</i>
+    <i class="material-icons" style="font-size:48px; color: indianred;">local_atm</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe53e;</i>
+    
+    
+    <h3>local_bar</h3>
+    <i class="material-icons">local_bar</i>
+    <i class="material-icons" style="font-size:36px">local_bar</i>
+    <i class="material-icons" style="font-size:48px; color: indianred;">local_bar</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe540;</i>
+    
+    
+    <h3>local_cafe</h3>
+    <i class="material-icons">local_cafe</i>
+    <i class="material-icons" style="font-size:36px">local_cafe</i>
+    <i class="material-icons" style="font-size:48px; color: indianred;">local_cafe</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe541;</i>
+    
+    
+    <h3>local_car_wash</h3>
+    <i class="material-icons">local_car_wash</i>
+    <i class="material-icons" style="font-size:36px">local_car_wash</i>
+    <i class="material-icons" style="font-size:48px; color: #18acb6;">local_car_wash</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe542;</i>
+    
+    
+    <h3>local_convenience_store</h3>
+    <i class="material-icons">local_convenience_store</i>
+    <i class="material-icons" style="font-size:36px">local_convenience_store</i>
+    <i class="material-icons" style="font-size:48px; color: #ad5c51;">local_convenience_store</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe543;</i>
+    
+    
+    <h3>local_dining</h3>
+    <i class="material-icons">local_dining</i>
+    <i class="material-icons" style="font-size:36px">local_dining</i>
+    <i class="material-icons" style="font-size:48px; color: #85311b;">local_dining</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe556;</i>
+    
+    
+    <h3>local_drink</h3>
+    <i class="material-icons">local_drink</i>
+    <i class="material-icons" style="font-size:36px">local_drink</i>
+    <i class="material-icons" style="font-size:48px; color: #C2D72D;">local_drink</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe544;</i>
+    
+    
+    <h3>local_florist</h3>
+    <i class="material-icons">local_florist</i>
+    <i class="material-icons" style="font-size:36px">local_florist</i>
+    <i class="material-icons" style="font-size:48px; color: #E06377;">local_florist</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe545;</i>
+    
+    
+    <h3>local_gas_station</h3>
+    <i class="material-icons">local_gas_station</i>
+    <i class="material-icons" style="font-size:36px">local_gas_station</i>
+    <i class="material-icons" style="font-size:48px; color: #F7493E;">local_gas_station</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe546;</i>
+    
+    
+    <h3>local_grocery_store</h3>
+    <i class="material-icons">local_grocery_store</i>
+    <i class="material-icons" style="font-size:36px">local_grocery_store</i>
+    <i class="material-icons" style="font-size:48px; color: #5A9679;">local_grocery_store</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe547;</i>
+    
+    
+    <h3>local_hospital</h3>
+    <i class="material-icons">local_hospital</i>
+    <i class="material-icons" style="font-size:36px">local_hospital</i>
+    <i class="material-icons" style="font-size:48px; color: #E53729;">local_hospital</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe548;</i>
+    
+    
+    <h3>local_hotel</h3>
+    <i class="material-icons">local_hotel</i>
+    <i class="material-icons" style="font-size:36px">local_hotel</i>
+    <i class="material-icons" style="font-size:48px; color: #B1694D;">local_hotel</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe549;</i>
+    
+    
+    <h3>local_laundry_service</h3>
+    <i class="material-icons">local_laundry_service</i>
+    <i class="material-icons" style="font-size:36px">local_laundry_service</i>
+    <i class="material-icons" style="font-size:48px; color: #04A9E4;">local_laundry_service</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe54a;</i>
+    
+    
+    <h3>local_library</h3>
+    <i class="material-icons">local_library</i>
+    <i class="material-icons" style="font-size:36px">local_library</i>
+    <i class="material-icons" style="font-size:48px; color: #810000;">local_library</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe54b;</i>
+    
+    
+    <h3>local_mall</h3>
+    <i class="material-icons">local_mall</i>
+    <i class="material-icons" style="font-size:36px">local_mall</i>
+    <i class="material-icons" style="font-size:48px; color: #d93831;">local_mall</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe54c;</i>
+    
+    
+    <h3>local_movies</h3>
+    <i class="material-icons">local_movies</i>
+    <i class="material-icons" style="font-size:36px">local_movies</i>
+    <i class="material-icons" style="font-size:48px; color: #d27575;">local_movies</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe54d;</i>
+    
+    
+    <h3>local_offer</h3>
+    <i class="material-icons">local_offer</i>
+    <i class="material-icons" style="font-size:36px">local_offer</i>
+    <i class="material-icons" style="font-size:48px; color: #F9546B;">local_offer</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe54e;</i>
+    
+    
+    <h3>local_parking</h3>
+    <i class="material-icons">local_parking</i>
+    <i class="material-icons" style="font-size:36px">local_parking</i>
+    <i class="material-icons" style="font-size:48px; color: #524f5e;">local_parking</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe54f;</i>
+    
+    <h3>local_pharmacy</h3>
+    <i class="material-icons">local_pharmacy</i>
+    <i class="material-icons" style="font-size:36px">local_pharmacy</i>
+    <i class="material-icons" style="font-size:48px; color: #335e90;">local_pharmacy</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe550;</i>
+
+    
+    <h3>local_phone</h3>
+    <i class="material-icons">local_phone</i>
+    <i class="material-icons" style="font-size:36px">local_phone</i>
+    <i class="material-icons" style="font-size:48px; color: #b24141;">local_phone</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe551;</i>
+    
+    
+    <h3>local_pizza</h3>
+    <i class="material-icons">local_pizza</i>
+    <i class="material-icons" style="font-size:36px">local_pizza</i>
+    <i class="material-icons" style="font-size:48px; color: #D49B17;">local_pizza</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe552;</i>
+    
+    
+    <h3>local_play</h3>
+    <i class="material-icons">local_play</i>
+    <i class="material-icons" style="font-size:36px">local_play</i>
+    <i class="material-icons" style="font-size:48px; color: #01875f;">local_play</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe553;</i>
+    
+    
+    <h3>local_post_office</h3>
+    <i class="material-icons">local_post_office</i>
+    <i class="material-icons" style="font-size:36px">local_post_office</i>
+    <i class="material-icons" style="font-size:48px; color: #a23b3c;">local_post_office</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe554;</i>
+
+
+    <h3>local_printshop</h3>
+    <i class="material-icons">local_printshop</i>
+    <i class="material-icons" style="font-size:36px">local_printshop</i>
+    <i class="material-icons" style="font-size:48px; color: #ff00b4;">local_printshop</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe555;</i>
+    
+    
+    <h3>local_see</h3>
+    <i class="material-icons">local_see</i>
+    <i class="material-icons" style="font-size:36px">local_see</i>
+    <i class="material-icons" style="font-size:48px; color: #634e34;">local_see</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe557;</i>
+    
+    
+    <h3>local_shipping</h3>
+    <i class="material-icons">local_shipping</i>
+    <i class="material-icons" style="font-size:36px">local_shipping</i>
+    <i class="material-icons" style="font-size:48px; color: #d51913;">local_shipping</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe558;</i>
+    
+    
+    <h3>local_taxi</h3>
+    <i class="material-icons">local_taxi</i>
+    <i class="material-icons" style="font-size:36px">local_taxi</i>
+    <i class="material-icons" style="font-size:48px; color: #BD890F;">local_taxi</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe559;</i>
+    
+    
+    <h3>location_city</h3>
+    <i class="material-icons">location_city</i>
+    <i class="material-icons" style="font-size:36px">location_city</i>
+    <i class="material-icons" style="font-size:48px; color: #151c34;">location_city</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe7f1;</i>
+    
+    
+    <h3>location_disabled</h3>
+    <i class="material-icons">location_disabled</i>
+    <i class="material-icons" style="font-size:36px">location_disabled</i>
+    <i class="material-icons" style="font-size:48px; color: blue;">location_disabled</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1b6;</i>
+    
+    
+    <h3>location_on</h3>
+    <i class="material-icons">location_on</i>
+    <i class="material-icons" style="font-size:36px">location_on</i>
+    <i class="material-icons" style="font-size:48px; color: blue;">location_on</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe0c8;</i>
+    
+    
+    <h3>location_off</h3>
+    <i class="material-icons">location_off</i>
+    <i class="material-icons" style="font-size:36px">location_off</i>
+    <i class="material-icons" style="font-size:48px; color: blue;">location_off</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe0c7;</i>
+    
+    
+    <h3>location_searching</h3>
+    <i class="material-icons">location_searching</i>
+    <i class="material-icons" style="font-size:36px">location_searching</i>
+    <i class="material-icons" style="font-size:48px; color: blue;">location_searching</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1b7;</i>
+    
+    
+    <h3>lock</h3>
+    <i class="material-icons">lock</i>
+    <i class="material-icons" style="font-size:36px">lock</i>
+    <i class="material-icons" style="font-size:48px; color: #1046a9;">lock</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe897;</i>
+    
+    
+    <h3>lock_outline</h3>
+    <i class="material-icons">lock_outline</i>
+    <i class="material-icons" style="font-size:36px">lock_outline</i>
+    <i class="material-icons" style="font-size:48px; color: #1046a9;">lock_outline</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe899;</i>
+    
+    
+    <h3>lock_open</h3>
+    <i class="material-icons">lock_open</i>
+    <i class="material-icons" style="font-size:36px">lock_open</i>
+    <i class="material-icons" style="font-size:48px; color: #1046a9;">lock_open</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe898;</i>
+    
+    
+    <h3>looks</h3>
+    <i class="material-icons">looks</i>
+    <i class="material-icons" style="font-size:36px">looks</i>
+    <i class="material-icons" style="font-size:48px; color: #ffa500;">looks</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3fc;</i>
+    
+    
+    <h3>looks_one</h3>
+    <i class="material-icons">looks_one</i>
+    <i class="material-icons" style="font-size:36px">looks_one</i>
+    <i class="material-icons" style="font-size:48px; color: #ffa500;">looks_one</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe400;</i>
+
+
+    <h3>looks_two</h3>
+    <i class="material-icons">looks_two</i>
+    <i class="material-icons" style="font-size:36px">looks_two</i>
+    <i class="material-icons" style="font-size:48px; color: #ffa500;">looks_two</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe401;</i>
+    
+    
+    <h3>looks_3</h3>
+    <i class="material-icons">looks_3</i>
+    <i class="material-icons" style="font-size:36px">looks_3</i>
+    <i class="material-icons" style="font-size:48px; color: #ffa500;">looks_3</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3fb;</i>
+    
+    
+    <h3>looks_4</h3>
+    <i class="material-icons">looks_4</i>
+    <i class="material-icons" style="font-size:36px">looks_4</i>
+    <i class="material-icons" style="font-size:48px; color: #ffa500;">looks_4</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3fd;</i>
+    
+    
+    <h3>looks_5</h3>
+    <i class="material-icons">looks_5</i>
+    <i class="material-icons" style="font-size:36px">looks_5</i>
+    <i class="material-icons" style="font-size:48px; color: #ffa500;">looks_5</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3fe;</i>
+    
+    
+    <h3>looks_6</h3>
+    <i class="material-icons">looks_6</i>
+    <i class="material-icons" style="font-size:36px">looks_6</i>
+    <i class="material-icons" style="font-size:48px; color: #ffa500;">looks_6</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3ff;</i>
+    
+    
+    <h3>loop</h3>
+    <i class="material-icons">loop</i>
+    <i class="material-icons" style="font-size:36px">loop</i>
+    <i class="material-icons" style="font-size:48px; color: #004155;">loop</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe028;</i>
+    
+    
+    <h3>loupe</h3>
+    <i class="material-icons">loupe</i>
+    <i class="material-icons" style="font-size:36px">loupe</i>
+    <i class="material-icons" style="font-size:48px; color: dodgerblue;">loupe</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe402;</i>
+    
+    
+    <h3>loyalty</h3>
+    <i class="material-icons">loyalty</i>
+    <i class="material-icons" style="font-size:36px">loyalty</i>
+    <i class="material-icons" style="font-size:48px; color: #FF7737;">loyalty</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe89a;</i>
+    
+    
+    <h3>low_priority</h3>
+    <i class="material-icons">low_priority</i>
+    <i class="material-icons" style="font-size:36px">low_priority</i>
+    <i class="material-icons" style="font-size:48px; color: #F58800;">low_priority</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe16d;</i>
+
+
+</body>
+
+</html>

@@ -1,0 +1,507 @@
+********************
+
+Lesson: 02
+
+********************
+
+This is Chapter 2 for Google fonts Tutorial. Now, The following icons start with B.
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google icon</title>
+    <link rel="stylesheet" href="matrix.css">
+
+</head>
+<body>
+    
+    <span style="font-size: 72px; font-style: italic">B</span>
+
+    <br><br>
+    <h3>backspace</h3>
+    <i class="material-icons">backspace</i>
+    <i class="material-icons" style="font-size:36px">backspace</i>
+    <i class="material-icons" style="font-size:48px; color: #dd2d00;">backspace</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe14a;</i>
+    
+    
+    <h3>backup</h3>
+    <i class="material-icons">backup</i>
+    <i class="material-icons" style="font-size:36px">backup</i>
+    <i class="material-icons" style="font-size:48px; color: green;">backup</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe864;</i>
+    
+    
+    <h3>battery_alert</h3>
+    <i class="material-icons">battery_alert</i>
+    <i class="material-icons" style="font-size:36px">battery_alert</i>
+    <i class="material-icons" style="font-size:48px; color: red;">battery_alert</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe19c;</i>
+    
+    
+    <h3>battery_charging_full</h3>
+    <i class="material-icons">battery_charging_full</i>
+    <i class="material-icons" style="font-size:36px">battery_charging_full</i>
+    <i class="material-icons" style="font-size:48px; color: red;">battery_charging_full</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1a3;</i>
+
+
+    <h3>battery_full</h3>
+    <i class="material-icons">battery_full</i>
+    <i class="material-icons" style="font-size:36px">battery_full</i>
+    <i class="material-icons" style="font-size:48px; color: red;">battery_full</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1a4;</i>
+    
+    
+    <h3>battery_std</h3>
+    <i class="material-icons">battery_std</i>
+    <i class="material-icons" style="font-size:36px">battery_std</i>
+    <i class="material-icons" style="font-size:48px; color: red;">battery_std</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1a5;</i>
+    
+    
+    <h3>battery_unknown</h3>
+    <i class="material-icons">battery_unknown</i>
+    <i class="material-icons" style="font-size:36px">battery_unknown</i>
+    <i class="material-icons" style="font-size:48px; color: red;">battery_unknown</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1a6;</i>
+    
+    
+    <h3>beach_access</h3>
+    <i class="material-icons">beach_access</i>
+    <i class="material-icons" style="font-size:36px">beach_access</i>
+    <i class="material-icons" style="font-size:48px; color: green;">beach_access</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xeb3e;</i>
+    
+    
+    <h3>beenhere</h3>
+    <i class="material-icons">beenhere</i>
+    <i class="material-icons" style="font-size:36px">beenhere</i>
+    <i class="material-icons" style="font-size:48px; color: green;">beenhere</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe52d;</i>
+    
+    
+    <h3>block</h3>
+    <i class="material-icons">block</i>
+    <i class="material-icons" style="font-size:36px">block</i>
+    <i class="material-icons" style="font-size:48px; color: red;">block</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe14b;</i>
+    
+    
+    <h3>bluetooth</h3>
+    <i class="material-icons">bluetooth</i>
+    <i class="material-icons" style="font-size:36px">bluetooth</i>
+    <i class="material-icons" style="font-size:48px; color: #0082FC;">bluetooth</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1a7;</i>
+    
+    <h3>bluetooth_audio</h3>
+    <i class="material-icons">bluetooth_audio</i>
+    <i class="material-icons" style="font-size:36px">bluetooth_audio</i>
+    <i class="material-icons" style="font-size:48px; color: #0082FC;">bluetooth_audio</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe60f;</i>
+    
+    
+    <h3>bluetooth_connected</h3>
+    <i class="material-icons">bluetooth_connected</i>
+    <i class="material-icons" style="font-size:36px">bluetooth_connected</i>
+    <i class="material-icons" style="font-size:48px; color: #0082FC;">bluetooth_connected</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1a8;</i>
+    
+    
+    <h3>bluetooth_disabled</h3>
+    <i class="material-icons">bluetooth_disabled</i>
+    <i class="material-icons" style="font-size:36px">bluetooth_disabled</i>
+    <i class="material-icons" style="font-size:48px; color: #0082FC;">bluetooth_disabled</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1a9;</i>
+    
+    
+    <h3>bluetooth_searching</h3>
+    <i class="material-icons">bluetooth_searching</i>
+    <i class="material-icons" style="font-size:36px">bluetooth_searching</i>
+    <i class="material-icons" style="font-size:48px; color: #0082FC;">bluetooth_searching</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1aa;</i>
+    
+    
+    <h3>blur_circular</h3>
+    <i class="material-icons">blur_circular</i>
+    <i class="material-icons" style="font-size:36px">blur_circular</i>
+    <i class="material-icons" style="font-size:48px; color: coral;">blur_circular</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3a2;</i>
+    
+    
+    <h3>blur_linear</h3>
+    <i class="material-icons">blur_linear</i>
+    <i class="material-icons" style="font-size:36px">blur_linear</i>
+    <i class="material-icons" style="font-size:48px; color: coral;">blur_linear</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3a3;</i>
+    
+    
+    <h3>blur_off</h3>
+    <i class="material-icons">blur_off</i>
+    <i class="material-icons" style="font-size:36px">blur_off</i>
+    <i class="material-icons" style="font-size:48px; color: coral;">blur_off</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3a4;</i>
+    
+    
+    <h3>blur_on</h3>
+    <i class="material-icons">blur_on</i>
+    <i class="material-icons" style="font-size:36px">blur_on</i>
+    <i class="material-icons" style="font-size:48px; color: coral;">blur_on</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3a5;</i>
+    
+    
+    <h3>book</h3>
+    <i class="material-icons">book</i>
+    <i class="material-icons" style="font-size:36px">book</i>
+    <i class="material-icons" style="font-size:48px; color: #8da683;">book</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe865;</i>
+    
+    
+    <h3>bookmark</h3>
+    <i class="material-icons">bookmark</i>
+    <i class="material-icons" style="font-size:36px">bookmark</i>
+    <i class="material-icons" style="font-size:48px; color:  #f18317;">bookmark</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe866;</i>
+    
+    
+    <h3>bookmark_border</h3>
+    <i class="material-icons">bookmark_border</i>
+    <i class="material-icons" style="font-size:36px">bookmark_border</i>
+    <i class="material-icons" style="font-size:48px; color:  #f18317;">bookmark_border</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe867;</i>
+    
+    
+    <h3>border_all</h3>
+    <i class="material-icons">border_all</i>
+    <i class="material-icons" style="font-size:36px">border_all</i>
+    <i class="material-icons" style="font-size:48px; color:  #f18317;">border_all</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe228;</i>
+    
+    <h3>border_top</h3>
+    <i class="material-icons">border_top</i>
+    <i class="material-icons" style="font-size:36px">border_top</i>
+    <i class="material-icons" style="font-size:48px; color:  #f18317;">border_top</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe232;</i>
+    
+    <h3>border_right</h3>
+    <i class="material-icons">border_right</i>
+    <i class="material-icons" style="font-size:36px">border_right</i>
+    <i class="material-icons" style="font-size:48px; color:  #f18317;">border_right</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe230;</i>
+    
+    
+    <h3>border_bottom</h3>
+    <i class="material-icons">border_bottom</i>
+    <i class="material-icons" style="font-size:36px">border_bottom</i>
+    <i class="material-icons" style="font-size:48px; color:  #f18317;">border_bottom</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe229;</i>
+    
+    <h3>border_left</h3>
+    <i class="material-icons">border_left</i>
+    <i class="material-icons" style="font-size:36px">border_left</i>
+    <i class="material-icons" style="font-size:48px; color:  #f18317;">border_left</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe22e;</i>
+    
+    
+    <h3>border_clear</h3>
+    <i class="material-icons">border_clear</i>
+    <i class="material-icons" style="font-size:36px">border_clear</i>
+    <i class="material-icons" style="font-size:48px; color:  #f18317;">border_clear</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe22a;</i>
+    
+    
+    <h3>border_color</h3>
+    <i class="material-icons">border_color</i>
+    <i class="material-icons" style="font-size:36px">border_color</i>
+    <i class="material-icons" style="font-size:48px; color:  #f18317;">border_color</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe22b;</i>
+    
+    
+    <h3>border_horizontal</h3>
+    <i class="material-icons">border_horizontal</i>
+    <i class="material-icons" style="font-size:36px">border_horizontal</i>
+    <i class="material-icons" style="font-size:48px; color:  #f18317;">border_horizontal</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe22c;</i>
+    
+    <h3>border_vertical</h3>
+    <i class="material-icons">border_vertical</i>
+    <i class="material-icons" style="font-size:36px">border_vertical</i>
+    <i class="material-icons" style="font-size:48px; color:  #f18317;">border_vertical</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe233;</i>
+    
+    
+    <h3>border_inner</h3>
+    <i class="material-icons">border_inner</i>
+    <i class="material-icons" style="font-size:36px">border_inner</i>
+    <i class="material-icons" style="font-size:48px; color:  #f18317;">border_inner</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe22d;</i>
+    
+    <h3>border_outer</h3>
+    <i class="material-icons">border_outer</i>
+    <i class="material-icons" style="font-size:36px">border_outer</i>
+    <i class="material-icons" style="font-size:48px; color:  #f18317;">border_outer</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe22f;</i>
+    
+    
+    <h3>border_style</h3>
+    <i class="material-icons">border_style</i>
+    <i class="material-icons" style="font-size:36px">border_style</i>
+    <i class="material-icons" style="font-size:48px; color:  #f18317;">border_style</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe231;</i>
+    
+    
+    <h3>branding_watermark</h3>
+    <i class="material-icons">branding_watermark</i>
+    <i class="material-icons" style="font-size:36px">branding_watermark</i>
+    <i class="material-icons" style="font-size:48px; color: #f0bb78;">branding_watermark</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe06b;</i>
+    
+    
+    <h3>brightness_auto</h3>
+    <i class="material-icons">brightness_auto</i>
+    <i class="material-icons" style="font-size:36px">brightness_auto</i>
+    <i class="material-icons" style="font-size:48px; color: #eedd82;">brightness_auto</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1ab;</i>
+    
+    
+    <h3>brightness_1</h3>
+    <i class="material-icons">brightness_1</i>
+    <i class="material-icons" style="font-size:36px">brightness_1</i>
+    <i class="material-icons" style="font-size:48px; color: #ffcbcb;">brightness_1</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3a6;</i>
+    
+    
+    <h3>brightness_2</h3>
+    <i class="material-icons">brightness_2</i>
+    <i class="material-icons" style="font-size:36px">brightness_2</i>
+    <i class="material-icons" style="font-size:48px; color: #ff6666;">brightness_2</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3a7;</i>
+    
+    
+    <h3>brightness_3</h3>
+    <i class="material-icons">brightness_3</i>
+    <i class="material-icons" style="font-size:36px">brightness_3</i>
+    <i class="material-icons" style="font-size:48px; color: #ff4d4d;">brightness_3</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3a8;</i>
+    
+    
+    <h3>brightness_4</h3>
+    <i class="material-icons">brightness_4</i>
+    <i class="material-icons" style="font-size:36px">brightness_4</i>
+    <i class="material-icons" style="font-size:48px; color: red;">brightness_4</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3a9;</i>
+    
+    
+    <h3>brightness_5</h3>
+    <i class="material-icons">brightness_5</i>
+    <i class="material-icons" style="font-size:36px">brightness_5</i>
+    <i class="material-icons" style="font-size:48px; color: #e60000;">brightness_5</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3aa;</i>
+    
+    
+    <h3>brightness_6</h3>
+    <i class="material-icons">brightness_6</i>
+    <i class="material-icons" style="font-size:36px">brightness_6</i>
+    <i class="material-icons" style="font-size:48px; color: #b30000;">brightness_6</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3ab;</i>
+    
+    
+    <h3>brightness_7</h3>
+    <i class="material-icons">brightness_7</i>
+    <i class="material-icons" style="font-size:36px">brightness_7</i>
+    <i class="material-icons" style="font-size:48px; color: #990000;">brightness_7</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3ac;</i>
+    
+    
+    <h3>brightness_high</h3>
+    <i class="material-icons">brightness_high</i>
+    <i class="material-icons" style="font-size:36px">brightness_high</i>
+    <i class="material-icons" style="font-size:48px; color: #A9FF70;">brightness_high</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1ac;</i>
+    
+    
+    <h3>brightness_medium</h3>
+    <i class="material-icons">brightness_medium</i>
+    <i class="material-icons" style="font-size:36px">brightness_medium</i>
+    <i class="material-icons" style="font-size:48px; color: #558038;">brightness_medium</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1ae;</i>
+    
+    
+    <h3>brightness_low</h3>
+    <i class="material-icons">brightness_low</i>
+    <i class="material-icons" style="font-size:36px">brightness_low</i>
+    <i class="material-icons" style="font-size:48px; color: #223416;">brightness_low</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1ad;</i>
+    
+    
+    <h3>broken_image</h3>
+    <i class="material-icons">broken_image</i>
+    <i class="material-icons" style="font-size:36px">broken_image</i>
+    <i class="material-icons" style="font-size:48px; color: #E0A538;">broken_image</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3ad;</i>
+    
+    
+    <h3>brush</h3>
+    <i class="material-icons">brush</i>
+    <i class="material-icons" style="font-size:36px">brush</i>
+    <i class="material-icons" style="font-size:48px; color: #78543c;">brush</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3ae;</i>
+    
+    
+    <h3>bubble_chart</h3>
+    <i class="material-icons">bubble_chart</i>
+    <i class="material-icons" style="font-size:36px">bubble_chart</i>
+    <i class="material-icons" style="font-size:48px; color: #00acd2;">bubble_chart</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe6dd;</i>
+    
+    
+    <h3>bug_report</h3>
+    <i class="material-icons">bug_report</i>
+    <i class="material-icons" style="font-size:36px">bug_report</i>
+    <i class="material-icons" style="font-size:48px; color: #c70000;">bug_report</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe868;</i>
+    
+    
+    <h3>build</h3>
+    <i class="material-icons">build</i>
+    <i class="material-icons" style="font-size:36px">build</i>
+    <i class="material-icons" style="font-size:48px; color: gray;">build</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe869;</i>
+    
+    
+    <h3>burst_mode</h3>
+    <i class="material-icons">burst_mode</i>
+    <i class="material-icons" style="font-size:36px">burst_mode</i>
+    <i class="material-icons" style="font-size:48px; color: blue;">burst_mode</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe43c;</i>
+    
+    
+    <h3>business</h3>
+    <i class="material-icons">business</i>
+    <i class="material-icons" style="font-size:36px">business</i>
+    <i class="material-icons" style="font-size:48px; color: #2988bc;">business</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe0af;</i>
+    
+    
+    <h3>business_center</h3>
+    <i class="material-icons">business_center</i>
+    <i class="material-icons" style="font-size:36px">business_center</i>
+    <i class="material-icons" style="font-size:48px; color: #2988bc;">business_center</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xeb3f;</i>
+
+
+
+</body>
+</html>

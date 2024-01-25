@@ -1,0 +1,422 @@
+********************
+
+Lesson: 04
+
+********************
+
+This is Chapter 4 for Google fonts Tutorial. Now, The following icons start with D.
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google icon</title>
+    <link rel="stylesheet" href="matrix.css">
+
+</head>
+<body>
+    
+    <span style="font-size: 72px; font-style: italic">D</span>
+
+    <br><br>
+    <h3>dashboard</h3>
+    <i class="material-icons">dashboard</i>
+    <i class="material-icons" style="font-size:36px">dashboard</i>
+    <i class="material-icons" style="font-size:48px; color: #2c3e50;">dashboard</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe871;</i>
+    
+    
+    <h3>date_range</h3>
+    <i class="material-icons">date_range</i>
+    <i class="material-icons" style="font-size:36px">date_range</i>
+    <i class="material-icons" style="font-size:48px; color: #EB4C42;">date_range</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe916;</i>
+    
+    
+    <h3>data_usage</h3>
+    <i class="material-icons">data_usage</i>
+    <i class="material-icons" style="font-size:36px">data_usage</i>
+    <i class="material-icons" style="font-size:48px; color: red;">data_usage</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1af;</i>
+    
+    
+    <h3>dehaze</h3>
+    <i class="material-icons">dehaze</i>
+    <i class="material-icons" style="font-size:36px">dehaze</i>
+    <i class="material-icons" style="font-size:48px; color: darkcyan;">dehaze</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3c7;</i>
+    
+    
+    <h3>delete</h3>
+    <i class="material-icons">delete</i>
+    <i class="material-icons" style="font-size:36px">delete</i>
+    <i class="material-icons" style="font-size:48px; color: red;">delete</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe872;</i>
+    
+    
+    <h3>delete_forever</h3>
+    <i class="material-icons">delete_forever</i>
+    <i class="material-icons" style="font-size:36px">delete_forever</i>
+    <i class="material-icons" style="font-size:48px; color: red;">delete_forever</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe92b;</i>
+    
+    
+    <h3>delete_sweep</h3>
+    <i class="material-icons">delete_sweep</i>
+    <i class="material-icons" style="font-size:36px">delete_sweep</i>
+    <i class="material-icons" style="font-size:48px; color: red;">delete_sweep</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe16c;</i>
+    
+    
+    <h3>description</h3>
+    <i class="material-icons">description</i>
+    <i class="material-icons" style="font-size:36px">description</i>
+    <i class="material-icons" style="font-size:48px; color: blue;">description</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe873;</i>
+    
+    
+    <h3>desktop_mac</h3>
+    <i class="material-icons">desktop_mac</i>
+    <i class="material-icons" style="font-size:36px">desktop_mac</i>
+    <i class="material-icons" style="font-size:48px; color: #004fe1;">desktop_mac</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe30b;</i>
+    
+    
+    <h3>desktop_windows</h3>
+    <i class="material-icons">desktop_windows</i>
+    <i class="material-icons" style="font-size:36px">desktop_windows</i>
+    <i class="material-icons" style="font-size:48px; color: #004fe1;">desktop_windows</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe30c;</i>
+    
+    
+    <h3>developer_board</h3>
+    <i class="material-icons">developer_board</i>
+    <i class="material-icons" style="font-size:36px">developer_board</i>
+    <i class="material-icons" style="font-size:48px; color: orange;">developer_board</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe30d;</i>
+    
+    
+    <h3>developer_mode</h3>
+    <i class="material-icons">developer_mode</i>
+    <i class="material-icons" style="font-size:36px">developer_mode</i>
+    <i class="material-icons" style="font-size:48px; color: #b83b86;">developer_mode</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1b0;</i>
+    
+    
+    <h3>details</h3>
+    <i class="material-icons">details</i>
+    <i class="material-icons" style="font-size:36px">details</i>
+    <i class="material-icons" style="font-size:48px; color: #F3b884;">details</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3c8;</i>
+    
+    
+    <h3>device_hub</h3>
+    <i class="material-icons">device_hub</i>
+    <i class="material-icons" style="font-size:36px">device_hub</i>
+    <i class="material-icons" style="font-size:48px; color: #bcd1bd;">device_hub</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe335;</i>
+    
+    
+    <h3>devices_other</h3>
+    <i class="material-icons">devices_other</i>
+    <i class="material-icons" style="font-size:36px">devices_other</i>
+    <i class="material-icons" style="font-size:48px; color: #cc3300;">devices_other</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe337;</i>
+    
+    
+    <h3>devices</h3>
+    <i class="material-icons">devices</i>
+    <i class="material-icons" style="font-size:36px">devices</i>
+    <i class="material-icons" style="font-size:48px; color: #ff9a00;">devices</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1b1;</i>
+    
+    
+    <h3>dialer_sip</h3>
+    <i class="material-icons">dialer_sip</i>
+    <i class="material-icons" style="font-size:36px">dialer_sip</i>
+    <i class="material-icons" style="font-size:48px; color: #088BC7;">dialer_sip</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe0bb;</i>
+    
+    <h3>dialpad</h3>
+    <i class="material-icons">dialpad</i>
+    <i class="material-icons" style="font-size:36px">dialpad</i>
+    <i class="material-icons" style="font-size:48px; color: #00BAE9;">dialpad</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe0bc;</i>
+    
+    
+    <h3>directions</h3>
+    <i class="material-icons">directions</i>
+    <i class="material-icons" style="font-size:36px">directions</i>
+    <i class="material-icons" style="font-size:48px; color: #5939A2;">directions</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe52e;</i>
+    
+    
+    <h3>directions_bike</h3>
+    <i class="material-icons">directions_bike</i>
+    <i class="material-icons" style="font-size:36px">directions_bike</i>
+    <i class="material-icons" style="font-size:48px; color: #018A1A;">directions_bike</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe52f;</i>
+    
+    
+    <h3>directions_boat</h3>
+    <i class="material-icons">directions_boat</i>
+    <i class="material-icons" style="font-size:36px">directions_boat</i>
+    <i class="material-icons" style="font-size:48px; color: #825341;">directions_boat</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe532;</i>
+    
+    
+    <h3>directions_bus</h3>
+    <i class="material-icons">directions_bus</i>
+    <i class="material-icons" style="font-size:36px">directions_bus</i>
+    <i class="material-icons" style="font-size:48px; color: #F5D12F;">directions_bus</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe530;</i>
+    
+    
+    <h3>directions_car</h3>
+    <i class="material-icons">directions_car</i>
+    <i class="material-icons" style="font-size:36px">directions_car</i>
+    <i class="material-icons" style="font-size:48px; color: #204DC0;">directions_car</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe531;</i>
+    
+    
+    <h3>directions_railway</h3>
+    <i class="material-icons">directions_railway</i>
+    <i class="material-icons" style="font-size:36px">directions_railway</i>
+    <i class="material-icons" style="font-size:48px; color: #204DC0;">directions_railway</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe534;</i>
+    
+    
+    <h3>directions_walk</h3>
+    <i class="material-icons">directions_walk</i>
+    <i class="material-icons" style="font-size:36px">directions_walk</i>
+    <i class="material-icons" style="font-size:48px; color: #8C5D02;">directions_walk</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe536;</i>
+    
+    
+    <h3>directions_run</h3>
+    <i class="material-icons">directions_run</i>
+    <i class="material-icons" style="font-size:36px">directions_run</i>
+    <i class="material-icons" style="font-size:48px; color: #8C5D02;">directions_run</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe566;</i>
+    
+    
+    <h3>directions_subway</h3>
+    <i class="material-icons">directions_subway</i>
+    <i class="material-icons" style="font-size:36px">directions_subway</i>
+    <i class="material-icons" style="font-size:48px; color: #009241;">directions_subway</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe533;</i>
+    
+    
+    <h3>directions_transit</h3>
+    <i class="material-icons">directions_transit</i>
+    <i class="material-icons" style="font-size:36px">directions_transit</i>
+    <i class="material-icons" style="font-size:48px; color: #008C8D;">directions_transit</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe535;</i>
+    
+    
+    <h3>disc_full</h3>
+    <i class="material-icons">disc_full</i>
+    <i class="material-icons" style="font-size:36px">disc_full</i>
+    <i class="material-icons" style="font-size:48px; color: #E73E34;">disc_full</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe610;</i>
+    
+    
+    <h3>dns</h3>
+    <i class="material-icons">dns</i>
+    <i class="material-icons" style="font-size:36px">dns</i>
+    <i class="material-icons" style="font-size:48px; color: #318ACB;">dns</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe875;</i>
+    
+    
+    <h3>do_not_disturb</h3>
+    <i class="material-icons">do_not_disturb</i>
+    <i class="material-icons" style="font-size:36px">do_not_disturb</i>
+    <i class="material-icons" style="font-size:48px; color: red;">do_not_disturb</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe612;</i>
+    
+    
+    <h3>do_not_disturb_alt</h3>
+    <i class="material-icons">do_not_disturb_alt</i>
+    <i class="material-icons" style="font-size:36px">do_not_disturb_alt</i>
+    <i class="material-icons" style="font-size:48px; color: red;">do_not_disturb_alt</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe611;</i>
+    
+    
+    <h3>do_not_disturb_off</h3>
+    <i class="material-icons">do_not_disturb_off</i>
+    <i class="material-icons" style="font-size:36px">do_not_disturb_off</i>
+    <i class="material-icons" style="font-size:48px; color: red;">do_not_disturb_off</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe643;</i>
+    
+    
+    <h3>do_not_disturb_on</h3>
+    <i class="material-icons">do_not_disturb_on</i>
+    <i class="material-icons" style="font-size:36px">do_not_disturb_on</i>
+    <i class="material-icons" style="font-size:48px; color: red;">do_not_disturb_on</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe644;</i>
+    
+    
+    <h3>dock</h3>
+    <i class="material-icons">dock</i>
+    <i class="material-icons" style="font-size:36px">dock</i>
+    <i class="material-icons" style="font-size:48px; color: #9C8979;">dock</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe30e;</i>
+    
+    
+    <h3>domain</h3>
+    <i class="material-icons">domain</i>
+    <i class="material-icons" style="font-size:36px">domain</i>
+    <i class="material-icons" style="font-size:48px; color: #2F5782;">domain</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe7ee;</i>
+    
+    
+    <h3>done</h3>
+    <i class="material-icons">done</i>
+    <i class="material-icons" style="font-size:36px">done</i>
+    <i class="material-icons" style="font-size:48px; color: green;">done</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe876;</i>
+    
+    
+    <h3>done_all</h3>
+    <i class="material-icons">done_all</i>
+    <i class="material-icons" style="font-size:36px">done_all</i>
+    <i class="material-icons" style="font-size:48px; color: green;">done_all</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe877;</i>
+    
+    
+    <h3>donut_large</h3>
+    <i class="material-icons">donut_large</i>
+    <i class="material-icons" style="font-size:36px">donut_large</i>
+    <i class="material-icons" style="font-size:48px; color: #ec76b0;">donut_large</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe917;</i>
+    
+    
+    <h3>donut_small</h3>
+    <i class="material-icons">donut_small</i>
+    <i class="material-icons" style="font-size:36px">donut_small</i>
+    <i class="material-icons" style="font-size:48px; color: #ec76b0;">donut_small</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe918;</i>
+    
+    
+    <h3>drafts</h3>
+    <i class="material-icons">drafts</i>
+    <i class="material-icons" style="font-size:36px">drafts</i>
+    <i class="material-icons" style="font-size:48px; color: #eb7c0e;">drafts</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe151;</i>
+    
+    
+    <h3>drag_handle</h3>
+    <i class="material-icons">drag_handle</i>
+    <i class="material-icons" style="font-size:36px">drag_handle</i>
+    <i class="material-icons" style="font-size:48px; color: blue;">drag_handle</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe25d;</i>
+    
+    
+    <h3>drive_eta</h3>
+    <i class="material-icons">drive_eta</i>
+    <i class="material-icons" style="font-size:36px">drive_eta</i>
+    <i class="material-icons" style="font-size:48px; color: #61C964;">drive_eta</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe613;</i>
+    
+    
+    <h3>dvr</h3>
+    <i class="material-icons">dvr</i>
+    <i class="material-icons" style="font-size:36px">dvr</i>
+    <i class="material-icons" style="font-size:48px; color: darkorchid;">dvr</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1b2;</i>
+    
+
+
+</body>
+</html>

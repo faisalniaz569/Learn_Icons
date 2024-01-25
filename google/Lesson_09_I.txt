@@ -1,0 +1,208 @@
+********************
+
+Lesson: 09
+
+********************
+
+The following icons start with I.
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google icon</title>
+    <link rel="stylesheet" href="matrix.css">
+
+</head>
+<body>
+    
+    <span style="font-size: 72px; font-style: italic">I</span>
+
+    <br><br>
+    <h3>image</h3>
+    <i class="material-icons">image</i>
+    <i class="material-icons" style="font-size:36px">image</i>
+    <i class="material-icons" style="font-size:48px; color: #00a5ff;">image</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3f4;</i>
+    
+    
+    <h3>image_aspect_ratio</h3>
+    <i class="material-icons">image_aspect_ratio</i>
+    <i class="material-icons" style="font-size:36px">image_aspect_ratio</i>
+    <i class="material-icons" style="font-size:48px; color: #00a5ff;">image_aspect_ratio</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3f5;</i>
+    
+    
+    <h3>import_contacts</h3>
+    <i class="material-icons">import_contacts</i>
+    <i class="material-icons" style="font-size:36px">import_contacts</i>
+    <i class="material-icons" style="font-size:48px; color: #8ED6D9;">import_contacts</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe0e0;</i>
+    
+    
+    <h3>import_export</h3>
+    <i class="material-icons">import_export</i>
+    <i class="material-icons" style="font-size:36px">import_export</i>
+    <i class="material-icons" style="font-size:48px; color: crimson;">import_export</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe0c3;</i>
+    
+    
+    <h3>important_devices</h3>
+    <i class="material-icons">important_devices</i>
+    <i class="material-icons" style="font-size:36px">important_devices</i>
+    <i class="material-icons" style="font-size:48px; color: crimson;">important_devices</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe912;</i>
+    
+    
+    <h3>inbox</h3>
+    <i class="material-icons">inbox</i>
+    <i class="material-icons" style="font-size:36px">inbox</i>
+    <i class="material-icons" style="font-size:48px; color: #3357C0;">inbox</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe156;</i>
+    
+    
+    <h3>indeterminate_check_box</h3>
+    <i class="material-icons">indeterminate_check_box</i>
+    <i class="material-icons" style="font-size:36px">indeterminate_check_box</i>
+    <i class="material-icons" style="font-size:48px; color: darkcyan;">indeterminate_check_box</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe909;</i>
+    
+    
+    <h3>info</h3>
+    <i class="material-icons">info</i>
+    <i class="material-icons" style="font-size:36px">info</i>
+    <i class="material-icons" style="font-size:48px; color: royalblue;">info</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe88e;</i>
+    
+    
+    <h3>info_outline</h3>
+    <i class="material-icons">info_outline</i>
+    <i class="material-icons" style="font-size:36px">info_outline</i>
+    <i class="material-icons" style="font-size:48px; color: royalblue;">info_outline</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe88f;</i>
+    
+    
+    <h3>input</h3>
+    <i class="material-icons">input</i>
+    <i class="material-icons" style="font-size:36px">input</i>
+    <i class="material-icons" style="font-size:48px; color: #0A7373;">input</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe890;</i>
+    
+    
+    <h3>insert_chart</h3>
+    <i class="material-icons">insert_chart</i>
+    <i class="material-icons" style="font-size:36px">insert_chart</i>
+    <i class="material-icons" style="font-size:48px; color: #0A7373;">insert_chart</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe24b;</i>
+    
+    
+    <h3>insert_comment</h3>
+    <i class="material-icons">insert_comment</i>
+    <i class="material-icons" style="font-size:36px">insert_comment</i>
+    <i class="material-icons" style="font-size:48px; color: #4b5da1;">insert_comment</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe24c;</i>
+    
+    
+    <h3>insert_drive_file</h3>
+    <i class="material-icons">insert_drive_file</i>
+    <i class="material-icons" style="font-size:36px">insert_drive_file</i>
+    <i class="material-icons" style="font-size:48px; color: #4b5da1;">insert_drive_file</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe24d;</i>
+    
+    
+    <h3>insert_emoticon</h3>
+    <i class="material-icons">insert_emoticon</i>
+    <i class="material-icons" style="font-size:36px">insert_emoticon</i>
+    <i class="material-icons" style="font-size:48px; color: #ffcc33;">insert_emoticon</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe24e;</i>
+    
+    
+    <h3>insert_invitation</h3>
+    <i class="material-icons">insert_invitation</i>
+    <i class="material-icons" style="font-size:36px">insert_invitation</i>
+    <i class="material-icons" style="font-size:48px; color: #75c9a3;">insert_invitation</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe24f;</i>
+    
+    
+    <h3>insert_link</h3>
+    <i class="material-icons">insert_link</i>
+    <i class="material-icons" style="font-size:36px">insert_link</i>
+    <i class="material-icons" style="font-size:48px; color: #6240b8;">insert_link</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe250;</i>
+    
+    
+    <h3>insert_photo</h3>
+    <i class="material-icons">insert_photo</i>
+    <i class="material-icons" style="font-size:36px">insert_photo</i>
+    <i class="material-icons" style="font-size:48px; color: #8DC44F;">insert_photo</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe251;</i>
+    
+    
+    <h3>invert_colors</h3>
+    <i class="material-icons">invert_colors</i>
+    <i class="material-icons" style="font-size:36px">invert_colors</i>
+    <i class="material-icons" style="font-size:48px; color: #cda882;">invert_colors</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe891;</i>
+    
+    
+    <h3>invert_colors_off</h3>
+    <i class="material-icons">invert_colors_off</i>
+    <i class="material-icons" style="font-size:36px">invert_colors_off</i>
+    <i class="material-icons" style="font-size:48px; color: #cda882;">invert_colors_off</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe0c4;</i>
+    
+    
+    <h3>iso</h3>
+    <i class="material-icons">iso</i>
+    <i class="material-icons" style="font-size:36px">iso</i>
+    <i class="material-icons" style="font-size:48px; color: #0A7373;">iso</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3f6;</i>
+    
+
+
+</body>
+
+</html>

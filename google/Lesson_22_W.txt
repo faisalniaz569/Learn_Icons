@@ -1,0 +1,198 @@
+********************
+
+Lesson: 22
+
+********************
+
+The following icons start with W.
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google icon</title>
+    <link rel="stylesheet" href="matrix.css">
+
+</head>
+<body>
+    
+    <span style="font-size: 72px; font-style: italic">W</span>
+
+    <br><br>
+    <h3>wallpaper</h3>
+    <i class="material-icons">wallpaper</i>
+    <i class="material-icons" style="font-size:36px">wallpaper</i>
+    <i class="material-icons" style="font-size:48px; color: #4f657a;">wallpaper</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1bc;</i>
+    
+    
+    <h3>warning</h3>
+    <i class="material-icons">warning</i>
+    <i class="material-icons" style="font-size:36px">warning</i>
+    <i class="material-icons" style="font-size:48px; color: #339900;">warning</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe002;</i>
+    
+    
+    <h3>watch</h3>
+    <i class="material-icons">watch</i>
+    <i class="material-icons" style="font-size:36px">watch</i>
+    <i class="material-icons" style="font-size:48px; color: blue;">watch</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe334;</i>
+    
+    
+    <h3>wb_auto</h3>
+    <i class="material-icons">wb_auto</i>
+    <i class="material-icons" style="font-size:36px">wb_auto</i>
+    <i class="material-icons" style="font-size:48px; color: red;">wb_auto</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe42c;</i>
+    
+    
+    <h3>wb_cloudy</h3>
+    <i class="material-icons">wb_cloudy</i>
+    <i class="material-icons" style="font-size:36px">wb_cloudy</i>
+    <i class="material-icons" style="font-size:48px; color: #C7C4BF;">wb_cloudy</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe42d;</i>
+    
+    
+    <h3>wb_incandescent</h3>
+    <i class="material-icons">wb_incandescent</i>
+    <i class="material-icons" style="font-size:36px">wb_incandescent</i>
+    <i class="material-icons" style="font-size:48px; color: #ffc200;">wb_incandescent</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe42e;</i>
+    
+    
+    <h3>wb_iridescent</h3>
+    <i class="material-icons">wb_iridescent</i>
+    <i class="material-icons" style="font-size:36px">wb_iridescent</i>
+    <i class="material-icons" style="font-size:48px; color: #ffc200;">wb_iridescent</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe436;</i>
+    
+    
+    <h3>wb_sunny</h3>
+    <i class="material-icons">wb_sunny</i>
+    <i class="material-icons" style="font-size:36px">wb_sunny</i>
+    <i class="material-icons" style="font-size:48px; color: #ffc200;">wb_sunny</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe430;</i>
+    
+    
+    <h3>wc</h3>
+    <i class="material-icons">wc</i>
+    <i class="material-icons" style="font-size:36px">wc</i>
+    <i class="material-icons" style="font-size:48px; color: green;">wc</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe63d;</i>
+    
+    
+    <h3>web</h3>
+    <i class="material-icons">web</i>
+    <i class="material-icons" style="font-size:36px">web</i>
+    <i class="material-icons" style="font-size:48px; color: green;">web</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe051;</i>
+    
+    
+    <h3>web_asset</h3>
+    <i class="material-icons">web_asset</i>
+    <i class="material-icons" style="font-size:36px">web_asset</i>
+    <i class="material-icons" style="font-size:48px; color: green;">web_asset</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe069;</i>
+    
+    
+    <h3>weekend</h3>
+    <i class="material-icons">weekend</i>
+    <i class="material-icons" style="font-size:36px">weekend</i>
+    <i class="material-icons" style="font-size:48px; color: #f6ab7b;">weekend</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe16b;</i>
+    
+    
+    <h3>widgets</h3>
+    <i class="material-icons">widgets</i>
+    <i class="material-icons" style="font-size:36px">widgets</i>
+    <i class="material-icons" style="font-size:48px; color: green;">widgets</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1bd;</i>
+    
+    <h3>wifi</h3>
+    <i class="material-icons">wifi</i>
+    <i class="material-icons" style="font-size:36px">wifi</i>
+    <i class="material-icons" style="font-size:48px; color: #80c9f6;">wifi</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe63e;</i>
+    
+    
+    <h3>wifi_lock</h3>
+    <i class="material-icons">wifi_lock</i>
+    <i class="material-icons" style="font-size:36px">wifi_lock</i>
+    <i class="material-icons" style="font-size:48px; color: #80c9f6;">wifi_lock</i>
+    
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1e1;</i>
+    
+    
+    <h3>wifi_tethering</h3>
+    <i class="material-icons">wifi_tethering</i>
+    <i class="material-icons" style="font-size:36px">wifi_tethering</i>
+    <i class="material-icons" style="font-size:48px; color: #80c9f6;">wifi_tethering</i>
+    
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1e2;</i>
+    
+    
+    <h3>whatshot</h3>
+    <i class="material-icons">whatshot</i>
+    <i class="material-icons" style="font-size:36px">whatshot</i>
+    <i class="material-icons" style="font-size:48px; color: #aa4203;">whatshot</i>
+    
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe80e;</i>
+    
+    
+    <h3>work</h3>
+    <i class="material-icons">work</i>
+    <i class="material-icons" style="font-size:36px">work</i>
+    <i class="material-icons" style="font-size:48px; color: #490c0c;">work</i>
+    
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8f9;</i>
+    
+    
+    <h3>wrap_text</h3>
+    <i class="material-icons">wrap_text</i>
+    <i class="material-icons" style="font-size:36px">wrap_text</i>
+    <i class="material-icons" style="font-size:48px; color: #499c4e;">wrap_text</i>
+    
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe25b;</i>
+
+
+
+</body>
+
+</html>

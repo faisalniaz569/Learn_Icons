@@ -1,0 +1,398 @@
+********************
+
+Lesson: 17
+
+********************
+
+The following icons start with R.
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google icon</title>
+    <link rel="stylesheet" href="matrix.css">
+
+</head>
+<body>
+    
+    <span style="font-size: 72px; font-style: italic">R</span>
+
+    <br><br>
+    <h3>radio</h3>
+    <i class="material-icons">radio</i>
+    <i class="material-icons" style="font-size:36px">radio</i>
+    <i class="material-icons" style="font-size:48px; color: #bdec29;">radio</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe03e;</i>
+    
+    
+    <h3>radio_button_unchecked</h3>
+    <i class="material-icons">radio_button_unchecked</i>
+    <i class="material-icons" style="font-size:36px">radio_button_unchecked</i>
+    <i class="material-icons" style="font-size:48px; color: #ffa500;">radio_button_unchecked</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe836;</i>
+    
+    
+    <h3>radio_button_checked</h3>
+    <i class="material-icons">radio_button_checked</i>
+    <i class="material-icons" style="font-size:36px">radio_button_checked</i>
+    <i class="material-icons" style="font-size:48px; color: #ffa500;">radio_button_checked</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe837;</i>
+    
+    
+    <h3>rate_review</h3>
+    <i class="material-icons">rate_review</i>
+    <i class="material-icons" style="font-size:36px">rate_review</i>
+    <i class="material-icons" style="font-size:48px; color: #b7dd29;">rate_review</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe560;</i>
+    
+    
+    <h3>receipt</h3>
+    <i class="material-icons">receipt</i>
+    <i class="material-icons" style="font-size:36px">receipt</i>
+    <i class="material-icons" style="font-size:48px; color: #13bc85;">receipt</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8b0;</i>
+    
+    
+    <h3>recent_actors</h3>
+    <i class="material-icons">recent_actors</i>
+    <i class="material-icons" style="font-size:36px">recent_actors</i>
+    <i class="material-icons" style="font-size:48px; color: #dea558;">recent_actors</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe03f;</i>
+    
+    
+    <h3>record_voice_over</h3>
+    <i class="material-icons">record_voice_over</i>
+    <i class="material-icons" style="font-size:36px">record_voice_over</i>
+    <i class="material-icons" style="font-size:48px; color: #dea558;">record_voice_over</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe91f;</i>
+    
+    
+    <h3>redeem</h3>
+    <i class="material-icons">redeem</i>
+    <i class="material-icons" style="font-size:36px">redeem</i>
+    <i class="material-icons" style="font-size:48px; color: #FF9242;">redeem</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8b1;</i>
+    
+    
+    <h3>redo</h3>
+    <i class="material-icons">redo</i>
+    <i class="material-icons" style="font-size:36px">redo</i>
+    <i class="material-icons" style="font-size:48px; color: red;">redo</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe15a;</i>
+    
+    
+    <h3>refresh</h3>
+    <i class="material-icons">refresh</i>
+    <i class="material-icons" style="font-size:36px">refresh</i>
+    <i class="material-icons" style="font-size:48px; color: #3d6554;">refresh</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe5d5;</i>
+    
+    
+    <h3>remove</h3>
+    <i class="material-icons">remove</i>
+    <i class="material-icons" style="font-size:36px">remove</i>
+    <i class="material-icons" style="font-size:48px; color: #c70000;">remove</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe15b;</i>
+    
+    
+    <h3>remove_circle</h3>
+    <i class="material-icons">remove_circle</i>
+    <i class="material-icons" style="font-size:36px">remove_circle</i>
+    <i class="material-icons" style="font-size:48px; color: #c70000;">remove_circle</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe15c;</i>
+    
+    
+    <h3>remove_circle_outline</h3>
+    <i class="material-icons">remove_circle_outline</i>
+    <i class="material-icons" style="font-size:36px">remove_circle_outline</i>
+    <i class="material-icons" style="font-size:48px; color: #c70000;">remove_circle_outline</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe15d;</i>
+    
+    
+    <h3>remove_from_queue</h3>
+    <i class="material-icons">remove_from_queue</i>
+    <i class="material-icons" style="font-size:36px">remove_from_queue</i>
+    <i class="material-icons" style="font-size:48px; color: #c70000;">remove_from_queue</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe067;</i>
+    
+    
+    <h3>remove_red_eye</h3>
+    <i class="material-icons">remove_red_eye</i>
+    <i class="material-icons" style="font-size:36px">remove_red_eye</i>
+    <i class="material-icons" style="font-size:48px; color: red;">remove_red_eye</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe417;</i>
+    
+    
+    <h3>remove_shopping_cart</h3>
+    <i class="material-icons">remove_shopping_cart</i>
+    <i class="material-icons" style="font-size:36px">remove_shopping_cart</i>
+    <i class="material-icons" style="font-size:48px; color: #147444;">remove_shopping_cart</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe928;</i>
+    
+    
+    <h3>reorder</h3>
+    <i class="material-icons">reorder</i>
+    <i class="material-icons" style="font-size:36px">reorder</i>
+    <i class="material-icons" style="font-size:48px; color: #c70000;">reorder</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8fe;</i>
+    
+    
+    <h3>repeat</h3>
+    <i class="material-icons">repeat</i>
+    <i class="material-icons" style="font-size:36px">repeat</i>
+    <i class="material-icons" style="font-size:48px; color: #899a45;">repeat</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe040;</i>
+    
+    <h3>repeat_one</h3>
+    <i class="material-icons">repeat_one</i>
+    <i class="material-icons" style="font-size:36px">repeat_one</i>
+    <i class="material-icons" style="font-size:48px; color: #899a45;">repeat_one</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe041;</i>
+    
+    
+    <h3>replay</h3>
+    <i class="material-icons">replay</i>
+    <i class="material-icons" style="font-size:36px">replay</i>
+    <i class="material-icons" style="font-size:48px; color: red;">replay</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe042;</i>
+    
+    <h3>replay_5</h3>
+    <i class="material-icons">replay_5</i>
+    <i class="material-icons" style="font-size:36px">replay_5</i>
+    <i class="material-icons" style="font-size:48px; color: red;">replay_5</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe05b;</i>
+    
+    <h3>replay_10</h3>
+    <i class="material-icons">replay_10</i>
+    <i class="material-icons" style="font-size:36px">replay_10</i>
+    <i class="material-icons" style="font-size:48px; color: red;">replay_10</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe059;</i>
+    
+    
+    <h3>replay_30</h3>
+    <i class="material-icons">replay_30</i>
+    <i class="material-icons" style="font-size:36px">replay_30</i>
+    <i class="material-icons" style="font-size:48px; color: red;">replay_30</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe05a;</i>
+    
+    
+    <h3>reply</h3>
+    <i class="material-icons">reply</i>
+    <i class="material-icons" style="font-size:36px">reply</i>
+    <i class="material-icons" style="font-size:48px; color: red;">reply</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe15e;</i>
+    
+    
+    <h3>reply_all</h3>
+    <i class="material-icons">reply_all</i>
+    <i class="material-icons" style="font-size:36px">reply_all</i>
+    <i class="material-icons" style="font-size:48px; color: red;">reply_all</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe15f;</i>
+    
+    
+    <h3>report</h3>
+    <i class="material-icons">report</i>
+    <i class="material-icons" style="font-size:36px">report</i>
+    <i class="material-icons" style="font-size:48px; color: #00ff83;">report</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe160;</i>
+    
+    
+    <h3>report_problem</h3>
+    <i class="material-icons">report_problem</i>
+    <i class="material-icons" style="font-size:36px">report_problem</i>
+    <i class="material-icons" style="font-size:48px; color: #00ff83;">report_problem</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8b2;</i>
+    
+    
+    <h3>restaurant</h3>
+    <i class="material-icons">restaurant</i>
+    <i class="material-icons" style="font-size:36px">restaurant</i>
+    <i class="material-icons" style="font-size:48px; color: #fba265;">restaurant</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe56c;</i>
+    
+    <h3>restaurant_menu</h3>
+    <i class="material-icons">restaurant_menu</i>
+    <i class="material-icons" style="font-size:36px">restaurant_menu</i>
+    <i class="material-icons" style="font-size:48px; color: #fba265;">restaurant_menu</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe561;</i>
+    
+    <h3>restore</h3>
+    <i class="material-icons">restore</i>
+    <i class="material-icons" style="font-size:36px">restore</i>
+    <i class="material-icons" style="font-size:48px; color: #633030;">restore</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8b3;</i>
+    
+    <h3>restore_page</h3>
+    <i class="material-icons">restore_page</i>
+    <i class="material-icons" style="font-size:36px">restore_page</i>
+    <i class="material-icons" style="font-size:48px; color: #633030;">restore_page</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe929;</i>
+    
+    
+    <h3>ring_volume</h3>
+    <i class="material-icons">ring_volume</i>
+    <i class="material-icons" style="font-size:36px">ring_volume</i>
+    <i class="material-icons" style="font-size:48px; color: #655f45;">ring_volume</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe0d1;</i>
+    
+    
+    <h3>room</h3>
+    <i class="material-icons">room</i>
+    <i class="material-icons" style="font-size:36px">room</i>
+    <i class="material-icons" style="font-size:48px; color: red;">room</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8b4;</i>
+    
+    <h3>room_service</h3>
+    <i class="material-icons">room_service</i>
+    <i class="material-icons" style="font-size:36px">room_service</i>
+    <i class="material-icons" style="font-size:48px; color: red;">room_service</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xeb49;</i>
+    
+    
+    <h3>rotate_90_degrees_ccw</h3>
+    <i class="material-icons">rotate_90_degrees_ccw</i>
+    <i class="material-icons" style="font-size:36px">rotate_90_degrees_ccw</i>
+    <i class="material-icons" style="font-size:48px; color: red;">rotate_90_degrees_ccw</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe418;</i>
+    
+    
+    <h3>rotate_left</h3>
+    <i class="material-icons">rotate_left</i>
+    <i class="material-icons" style="font-size:36px">rotate_left</i>
+    <i class="material-icons" style="font-size:48px; color: red;">rotate_left</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe419;</i>
+    
+    
+    <h3>rotate_right</h3>
+    <i class="material-icons">rotate_right</i>
+    <i class="material-icons" style="font-size:36px">rotate_right</i>
+    <i class="material-icons" style="font-size:48px; color: red;">rotate_right</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe41a;</i>
+    
+    
+    <h3>rounded_corner</h3>
+    <i class="material-icons">rounded_corner</i>
+    <i class="material-icons" style="font-size:36px">rounded_corner</i>
+    <i class="material-icons" style="font-size:48px; color: red;">rounded_corner</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe920;</i>
+    
+    
+    <h3>router</h3>
+    <i class="material-icons">router</i>
+    <i class="material-icons" style="font-size:36px">router</i>
+    <i class="material-icons" style="font-size:48px; color: #08a1ec;">router</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe328;</i>
+    
+    <h3>rowing</h3>
+    <i class="material-icons">rowing</i>
+    <i class="material-icons" style="font-size:36px">rowing</i>
+    <i class="material-icons" style="font-size:48px; color: #08a1ec;">rowing</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe921;</i>
+    
+    
+    <h3>rss_feed</h3>
+    <i class="material-icons">rss_feed</i>
+    <i class="material-icons" style="font-size:36px">rss_feed</i>
+    <i class="material-icons" style="font-size:48px; color: #ee802f;">rss_feed</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe0e5;</i>
+    
+    
+    <h3>rv_hookup</h3>
+    <i class="material-icons">rv_hookup</i>
+    <i class="material-icons" style="font-size:36px">rv_hookup</i>
+    <i class="material-icons" style="font-size:48px; color: #ee802f;">rv_hookup</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe642;</i>
+    
+
+
+</body>
+
+</html>

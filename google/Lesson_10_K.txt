@@ -1,0 +1,136 @@
+********************
+
+Lesson: 10
+
+********************
+
+The following icons start with K.
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google icon</title>
+    <link rel="stylesheet" href="matrix.css">
+
+</head>
+<body>
+    
+    <span style="font-size: 72px; font-style: italic">K</span>
+
+    <br><br>
+    <h3>keyboard</h3>
+    <i class="material-icons">keyboard</i>
+    <i class="material-icons" style="font-size:36px">keyboard</i>
+    <i class="material-icons" style="font-size:48px; color: #4e4e4e;">keyboard</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe312;</i>
+    
+    
+    <h3>keyboard_arrow_up</h3>
+    <i class="material-icons">keyboard_arrow_up</i>
+    <i class="material-icons" style="font-size:36px">keyboard_arrow_up</i>
+    <i class="material-icons" style="font-size:48px; color: red;">keyboard_arrow_up</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe316;</i>
+    
+    
+    <h3>keyboard_arrow_right</h3>
+    <i class="material-icons">keyboard_arrow_right</i>
+    <i class="material-icons" style="font-size:36px">keyboard_arrow_right</i>
+    <i class="material-icons" style="font-size:48px; color: red;">keyboard_arrow_right</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe315;</i>
+    
+    
+    <h3>keyboard_arrow_down</h3>
+    <i class="material-icons">keyboard_arrow_down</i>
+    <i class="material-icons" style="font-size:36px">keyboard_arrow_down</i>
+    <i class="material-icons" style="font-size:48px; color: red;">keyboard_arrow_down</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe313;</i>
+    
+    
+    <h3>keyboard_arrow_left</h3>
+    <i class="material-icons">keyboard_arrow_left</i>
+    <i class="material-icons" style="font-size:36px">keyboard_arrow_left</i>
+    <i class="material-icons" style="font-size:48px; color: red;">keyboard_arrow_left</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe314;</i>
+    
+    
+    <h3>keyboard_backspace</h3>
+    <i class="material-icons">keyboard_backspace</i>
+    <i class="material-icons" style="font-size:36px">keyboard_backspace</i>
+    <i class="material-icons" style="font-size:48px; color: darkorange;">keyboard_backspace</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe317;</i>
+    
+    
+    <h3>keyboard_capslock</h3>
+    <i class="material-icons">keyboard_capslock</i>
+    <i class="material-icons" style="font-size:36px">keyboard_capslock</i>
+    <i class="material-icons" style="font-size:48px; color: darkorange;">keyboard_capslock</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe318;</i>
+    
+    
+    <h3>keyboard_hide</h3>
+    <i class="material-icons">keyboard_hide</i>
+    <i class="material-icons" style="font-size:36px">keyboard_hide</i>
+    <i class="material-icons" style="font-size:48px; color: #4e4e4e;">keyboard_hide</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe31a;</i>
+    
+    
+    <h3>keyboard_return</h3>
+    <i class="material-icons">keyboard_return</i>
+    <i class="material-icons" style="font-size:36px">keyboard_return</i>
+    <i class="material-icons" style="font-size:48px; color: darkorange;">keyboard_return</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe31b;</i>
+    
+    
+    <h3>keyboard_tab</h3>
+    <i class="material-icons">keyboard_tab</i>
+    <i class="material-icons" style="font-size:36px">keyboard_tab</i>
+    <i class="material-icons" style="font-size:48px; color: darkorange;">keyboard_tab</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe31c;</i>
+    
+    
+    <h3>keyboard_voice</h3>
+    <i class="material-icons">keyboard_voice</i>
+    <i class="material-icons" style="font-size:36px">keyboard_voice</i>
+    <i class="material-icons" style="font-size:48px; color: orangered;">keyboard_voice</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe31d;</i>
+    
+    
+    <h3>kitchen</h3>
+    <i class="material-icons">kitchen</i>
+    <i class="material-icons" style="font-size:36px">kitchen</i>
+    <i class="material-icons" style="font-size:48px; color: chocolate;">kitchen</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xeb47;</i>
+    
+
+
+</body>
+
+</html>

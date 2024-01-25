@@ -1,0 +1,223 @@
+********************
+
+Lesson: 08
+
+********************
+
+The following icons start with H.
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google icon</title>
+    <link rel="stylesheet" href="matrix.css">
+
+</head>
+<body>
+    
+    <span style="font-size: 72px; font-style: italic">H</span>
+
+    <br><br>
+    <h3>hd</h3>
+    <i class="material-icons">hd</i>
+    <i class="material-icons" style="font-size:36px">hd</i>
+    <i class="material-icons" style="font-size:48px; color: #7289da;">hd</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe052;</i>
+    
+    
+    <h3>hdr_off</h3>
+    <i class="material-icons">hdr_off</i>
+    <i class="material-icons" style="font-size:36px">hdr_off</i>
+    <i class="material-icons" style="font-size:48px; color: #7289da;">hdr_off</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3ed;</i>
+    
+    
+    <h3>hdr_on</h3>
+    <i class="material-icons">hdr_on</i>
+    <i class="material-icons" style="font-size:36px">hdr_on</i>
+    <i class="material-icons" style="font-size:48px; color: #7289da;">hdr_on</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3ee;</i>
+    
+    
+    <h3>hdr_strong</h3>
+    <i class="material-icons">hdr_strong</i>
+    <i class="material-icons" style="font-size:36px">hdr_strong</i>
+    <i class="material-icons" style="font-size:48px; color: #7289da;">hdr_strong</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3f1;</i>
+    
+    
+    <h3>hdr_weak</h3>
+    <i class="material-icons">hdr_weak</i>
+    <i class="material-icons" style="font-size:36px">hdr_weak</i>
+    <i class="material-icons" style="font-size:48px; color: #7289da;">hdr_weak</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3f2;</i>
+    
+    
+    <h3>headset</h3>
+    <i class="material-icons">headset</i>
+    <i class="material-icons" style="font-size:36px">headset</i>
+    <i class="material-icons" style="font-size:48px; color: #F7A4A8;">headset</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe310;</i>
+    
+    
+    <h3>headset_mic</h3>
+    <i class="material-icons">headset_mic</i>
+    <i class="material-icons" style="font-size:36px">headset_mic</i>
+    <i class="material-icons" style="font-size:48px; color: #F7A4A8;">headset_mic</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe311;</i>
+    
+    
+    <h3>healing</h3>
+    <i class="material-icons">healing</i>
+    <i class="material-icons" style="font-size:36px">healing</i>
+    <i class="material-icons" style="font-size:48px; color: #aa9988;">healing</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe3f3;</i>
+    
+    <h3>hearing</h3>
+    <i class="material-icons">hearing</i>
+    <i class="material-icons" style="font-size:36px">hearing</i>
+    <i class="material-icons" style="font-size:48px; color: #4793D3;">hearing</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe023;</i>
+    
+    
+    <h3>help</h3>
+    <i class="material-icons">help</i>
+    <i class="material-icons" style="font-size:36px">help</i>
+    <i class="material-icons" style="font-size:48px; color: #c3c3cb;">help</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe887;</i>
+    
+    
+    <h3>help_outline</h3>
+    <i class="material-icons">help_outline</i>
+    <i class="material-icons" style="font-size:36px">help_outline</i>
+    <i class="material-icons" style="font-size:48px; color: #c3c3cb;">help_outline</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8fd;</i>
+    
+    
+    <h3>high_quality</h3>
+    <i class="material-icons">high_quality</i>
+    <i class="material-icons" style="font-size:36px">high_quality</i>
+    <i class="material-icons" style="font-size:48px; color: #c3c3cb;">high_quality</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe024;</i>
+    
+    
+    <h3>highlight</h3>
+    <i class="material-icons">highlight</i>
+    <i class="material-icons" style="font-size:36px">highlight</i>
+    <i class="material-icons" style="font-size:48px; color: #8cff32;">highlight</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe25f;</i>
+    
+    
+    <h3>highlight_off</h3>
+    <i class="material-icons">highlight_off</i>
+    <i class="material-icons" style="font-size:36px">highlight_off</i>
+    <i class="material-icons" style="font-size:48px; color: red;">highlight_off</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe888;</i>
+    
+    
+    <h3>history</h3>
+    <i class="material-icons">history</i>
+    <i class="material-icons" style="font-size:36px">history</i>
+    <i class="material-icons" style="font-size:48px; color: #b097c4;">history</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe889;</i>
+    
+    
+    <h3>home</h3>
+    <i class="material-icons">home</i>
+    <i class="material-icons" style="font-size:36px">home</i>
+    <i class="material-icons" style="font-size:48px; color: #ad62f3;">home</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe88a;</i>
+    
+    
+    <h3>hot_tub</h3>
+    <i class="material-icons">hot_tub</i>
+    <i class="material-icons" style="font-size:36px">hot_tub</i>
+    <i class="material-icons" style="font-size:48px; color: #CACAF5;">hot_tub</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xeb46;</i>
+    
+    
+    <h3>hotel</h3>
+    <i class="material-icons">hotel</i>
+    <i class="material-icons" style="font-size:36px">hotel</i>
+    <i class="material-icons" style="font-size:48px; color: red;">hotel</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe53a;</i>
+    
+    
+    <h3>hourglass_empty</h3>
+    <i class="material-icons">hourglass_empty</i>
+    <i class="material-icons" style="font-size:36px">hourglass_empty</i>
+    <i class="material-icons" style="font-size:48px; color: red;">hourglass_empty</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe88b;</i>
+    
+    
+    <h3>hourglass_full</h3>
+    <i class="material-icons">hourglass_full</i>
+    <i class="material-icons" style="font-size:36px">hourglass_full</i>
+    <i class="material-icons" style="font-size:48px; color: red;">hourglass_full</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe88c;</i>
+    
+    
+    <h3>http</h3>
+    <i class="material-icons">http</i>
+    <i class="material-icons" style="font-size:36px">http</i>
+    <i class="material-icons" style="font-size:48px; color: red;">http</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe902;</i>
+    
+    <h3>https</h3>
+    <i class="material-icons">https</i>
+    <i class="material-icons" style="font-size:36px">https</i>
+    <i class="material-icons" style="font-size:48px; color: red;">https</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe88d;</i>
+
+
+</body>
+
+</html>

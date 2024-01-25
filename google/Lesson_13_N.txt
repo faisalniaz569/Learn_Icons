@@ -1,0 +1,235 @@
+********************
+
+Lesson: 13
+
+********************
+
+The following icons start with N.
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google icon</title>
+    <link rel="stylesheet" href="matrix.css">
+
+</head>
+<body>
+    
+    <span style="font-size: 72px; font-style: italic">N</span>
+
+    <br><br>
+    <h3>nature</h3>
+    <i class="material-icons">nature</i>
+    <i class="material-icons" style="font-size:36px">nature</i>
+    <i class="material-icons" style="font-size:48px; color: #88a376;">nature</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe406;</i>
+    
+    
+    <h3>nature_people</h3>
+    <i class="material-icons">nature_people</i>
+    <i class="material-icons" style="font-size:36px">nature_people</i>
+    <i class="material-icons" style="font-size:48px; color: #88a376;">nature_people</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe407;</i>
+    
+    
+    <h3>navigate_before</h3>
+    <i class="material-icons">navigate_before</i>
+    <i class="material-icons" style="font-size:36px">navigate_before</i>
+    <i class="material-icons" style="font-size:48px; color: orangered;">navigate_before</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe408;</i>
+    
+    
+    <h3>navigate_next</h3>
+    <i class="material-icons">navigate_next</i>
+    <i class="material-icons" style="font-size:36px">navigate_next</i>
+    <i class="material-icons" style="font-size:48px; color: orangered;">navigate_next</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe409;</i>
+    
+    
+    <h3>navigation</h3>
+    <i class="material-icons">navigation</i>
+    <i class="material-icons" style="font-size:36px">navigation</i>
+    <i class="material-icons" style="font-size:48px; color: orangered;">navigation</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe55d;</i>
+    
+    
+    <h3>near_me</h3>
+    <i class="material-icons">near_me</i>
+    <i class="material-icons" style="font-size:36px">near_me</i>
+    <i class="material-icons" style="font-size:48px; color: orangered;">near_me</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe569;</i>
+    
+    
+    <h3>network_check</h3>
+    <i class="material-icons">network_check</i>
+    <i class="material-icons" style="font-size:36px">network_check</i>
+    <i class="material-icons" style="font-size:48px; color: #ff00c2;">network_check</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe640;</i>
+    
+    
+    <h3>network_locked</h3>
+    <i class="material-icons">network_locked</i>
+    <i class="material-icons" style="font-size:36px">network_locked</i>
+    <i class="material-icons" style="font-size:48px; color: #F77941;">network_locked</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe61a;</i>
+    
+    
+    <h3>network_cell</h3>
+    <i class="material-icons">network_cell</i>
+    <i class="material-icons" style="font-size:36px">network_cell</i>
+    <i class="material-icons" style="font-size:48px; color: #F77941;">network_cell</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1b9;</i>
+    
+    
+    <h3>network_wifi</h3>
+    <i class="material-icons">network_wifi</i>
+    <i class="material-icons" style="font-size:36px">network_wifi</i>
+    <i class="material-icons" style="font-size:48px; color: #1A80D4;">network_wifi</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1ba;</i>
+    
+    
+    <h3>new_releases</h3>
+    <i class="material-icons">new_releases</i>
+    <i class="material-icons" style="font-size:36px">new_releases</i>
+    <i class="material-icons" style="font-size:48px; color: #F77901;">new_releases</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe031;</i>
+    
+    
+    <h3>next_week</h3>
+    <i class="material-icons">next_week</i>
+    <i class="material-icons" style="font-size:36px">next_week</i>
+    <i class="material-icons" style="font-size:48px; color: #0597F7;">next_week</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe16a;</i>
+    
+    
+    <h3>nfc</h3>
+    <i class="material-icons">nfc</i>
+    <i class="material-icons" style="font-size:36px">nfc</i>
+    <i class="material-icons" style="font-size:48px; color: #E95724;">nfc</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe1bb;</i>
+    
+    
+    <h3>no_encryption</h3>
+    <i class="material-icons">no_encryption</i>
+    <i class="material-icons" style="font-size:36px">no_encryption</i>
+    <i class="material-icons" style="font-size:48px; color: #E03D88;">no_encryption</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe641;</i>
+    
+    
+    <h3>no_sim</h3>
+    <i class="material-icons">no_sim</i>
+    <i class="material-icons" style="font-size:36px">no_sim</i>
+    <i class="material-icons" style="font-size:48px; color: #43A405;">no_sim</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe0cc;</i>
+    
+    
+    <h3>not_interested</h3>
+    <i class="material-icons">not_interested</i>
+    <i class="material-icons" style="font-size:36px">not_interested</i>
+    <i class="material-icons" style="font-size:48px; color: #B21D1C;">not_interested</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe033;</i>
+    
+    
+    <h3>note</h3>
+    <i class="material-icons">note</i>
+    <i class="material-icons" style="font-size:36px">note</i>
+    <i class="material-icons" style="font-size:48px; color: #ff65a3;">note</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe06f;</i>
+    
+    
+    <h3>note_add</h3>
+    <i class="material-icons">note_add</i>
+    <i class="material-icons" style="font-size:36px">note_add</i>
+    <i class="material-icons" style="font-size:48px; color: lawngreen;">note_add</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe89c;</i>
+    
+    
+    <h3>notifications</h3>
+    <i class="material-icons">notifications</i>
+    <i class="material-icons" style="font-size:36px">notifications</i>
+    <i class="material-icons" style="font-size:48px; color: #04ac9c;">notifications</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe7f4;</i>
+    
+    
+    <h3>notifications_none</h3>
+    <i class="material-icons">notifications_none</i>
+    <i class="material-icons" style="font-size:36px">notifications_none</i>
+    <i class="material-icons" style="font-size:48px; color: #04ac9c;">notifications_none</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe7f5;</i>
+    
+    
+    <h3>notifications_off</h3>
+    <i class="material-icons">notifications_off</i>
+    <i class="material-icons" style="font-size:36px">notifications_off</i>
+    <i class="material-icons" style="font-size:48px; color: #04ac9c;">notifications_off</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe7f6;</i>
+    
+    
+    <h3>notifications_active</h3>
+    <i class="material-icons">notifications_active</i>
+    <i class="material-icons" style="font-size:36px">notifications_active</i>
+    <i class="material-icons" style="font-size:48px; color: #04ac9c;">notifications_active</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe7f7;</i>
+    
+    
+    <h3>notifications_paused</h3>
+    <i class="material-icons">notifications_paused</i>
+    <i class="material-icons" style="font-size:36px">notifications_paused</i>
+    <i class="material-icons" style="font-size:48px; color: #04ac9c;">notifications_paused</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe7f8;</i>
+    
+
+
+</body>
+
+</html>

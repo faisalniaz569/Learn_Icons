@@ -1,0 +1,72 @@
+********************
+
+Lesson: 16
+
+********************
+
+The following icons start with Q.
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google icon</title>
+    <link rel="stylesheet" href="matrix.css">
+
+</head>
+<body>
+    
+    <span style="font-size: 72px; font-style: italic">Q</span>
+
+    <br><br>
+    <h3>query_builder</h3>
+    <i class="material-icons">query_builder</i>
+    <i class="material-icons" style="font-size:36px">query_builder</i>
+    <i class="material-icons" style="font-size:48px; color: #88a376;">query_builder</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8ae;</i>
+    
+      
+    <h3>question_answer</h3>
+    <i class="material-icons">question_answer</i>
+    <i class="material-icons" style="font-size:36px">question_answer</i>
+    <i class="material-icons" style="font-size:48px; color: darkred;">question_answer</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe8af;</i>
+    
+      
+    <h3>queue</h3>
+    <i class="material-icons">queue</i>
+    <i class="material-icons" style="font-size:36px">queue</i>
+    <i class="material-icons" style="font-size:48px; color: #635a4f;">queue</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe03c;</i>  
+    
+    
+    <h3>queue_music</h3>
+    <i class="material-icons">queue_music</i>
+    <i class="material-icons" style="font-size:36px">queue_music</i>
+    <i class="material-icons" style="font-size:48px; color: orangered;">queue_music</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe03d;</i>
+    
+    
+    <h3>queue_play_next</h3>
+    <i class="material-icons">queue_play_next</i>
+    <i class="material-icons" style="font-size:36px">queue_play_next</i>
+    <i class="material-icons" style="font-size:48px; color: orangered;">queue_play_next</i>
+
+    <p>Unicode:</p>
+    <i class="material-icons">&#xe066;</i>
+
+
+</body>
+
+</html>
