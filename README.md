@@ -1,2 +1,6 @@
-# Learn_Icons
-This is icons tutorial
+# Learn Icons
+This is icons tutorial.
+
+#### License
+copyright © Md. Faisal Niaz, 2023
+
